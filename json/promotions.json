@@ -1,20 +1,20 @@
 [
   {
-    type: "link",
-    to: "/stock/calendar",
-    icon: "ki-outline ki-calendar-tick",
-    text: "주식, 어떤 재료가 있는지 궁금할 때?",
+    "type": "link",
+    "to": "/stock/calendar",
+    "icon": "ki-outline ki-calendar-tick",
+    "text": "주식, 어떤 재료가 있는지 궁금할 때?",
   },
   {
-    type: "link",
-    to: "/keywordCrawler",
-    icon: "ki-outline ki-text-circle",
-    text: "내가 원하는 키워드 뉴스만 골라 보고 싶을때?",
+    "type": "link",
+    "to": "/keywordCrawler",
+    "icon": "ki-outline ki-text-circle",
+    "text": "내가 원하는 키워드 뉴스만 골라 보고 싶을때?",
   },
   {
-    type: "tooltip",
-    icon: "ki-outline ki-information",
-    text: "내 개인연금, 퇴직연금 어디에 투자할지 모를때?",
-    tooltipText: "미안해. ETF 정보는 열심히 준비 중이야. 줍줍.",
+    "type": "tooltip",
+    "icon": "ki-outline ki-information",
+    "text": "내 개인연금, 퇴직연금 어디에 투자할지 모를때?",
+    "tooltipText": "미안해. ETF 정보는 열심히 준비 중이야. 줍줍.",
   },
 ]

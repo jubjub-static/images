@@ -3,18 +3,18 @@
     "type": "link",
     "to": "/stock/calendar",
     "icon": "ki-outline ki-calendar-tick",
-    "text": "주식 투자, 증시 스케쥴이 궁금해?"
+    "text": "주식 투자, 증시 일정이 궁금할 때?"
   },
   {
     "type": "link",
     "to": "/keywordCrawler",
     "icon": "ki-outline ki-text-circle",
-    "text": "보고 싶은 뉴스만 골라볼 때?"
+    "text": "보고 싶은 뉴스만 골라보고 싶을 때?"
   },
   {
     "type": "tooltip",
     "icon": "ki-outline ki-information",
-    "text": "개인연금, 퇴직연금 어디에 투자할지 모를때?",
-    "tooltipText": "미안해. ETF, TDF 정보를 준비 중이야. 조금만 기다려 줘."
+    "text": "개인연금이나 퇴직연금, 어디에 투자할지 모르겠다면?",
+    "tooltipText": "ETF와 TDF 정보는 준비 중이야. 조금만 기다려줘."
   }
 ]

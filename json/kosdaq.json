@@ -868,20 +868,6 @@
     "LIST_SHRS": "14,577,340"
   },
   {
-    "ISU_CD": "KR7308100007",
-    "ISU_SRT_CD": "308100",
-    "ISU_NM": "까스텔바작",
-    "ISU_ABBRV": "까스텔바작",
-    "ISU_ENG_NM": "Castelbajac Co., Ltd.",
-    "LIST_DD": "2019/06/10",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "6,624,733"
-  },
-  {
     "ISU_CD": "KR7407400001",
     "ISU_SRT_CD": "407400",
     "ISU_NM": "꿈비",
@@ -4813,7 +4799,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "12,253,300"
+    "LIST_SHRS": "12,310,300"
   },
   {
     "ISU_CD": "KR7080420003",
@@ -6154,7 +6140,7 @@
     "LIST_DD": "2022/03/03",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
+    "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "12,797,923"
@@ -13115,7 +13101,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "24,152,670"
+    "LIST_SHRS": "24,832,479"
   },
   {
     "ISU_CD": "KR7373200005",
@@ -15884,7 +15870,7 @@
     "LIST_DD": "2016/12/07",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
+    "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "14,079,007"
@@ -16839,7 +16825,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,617,642"
+    "LIST_SHRS": "11,621,192"
   },
   {
     "ISU_CD": "HK0000057197",
@@ -18057,7 +18043,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "72,699,083"
+    "LIST_SHRS": "73,453,799"
   },
   {
     "ISU_CD": "KR7090470006",
@@ -20661,7 +20647,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "18,082,643"
+    "LIST_SHRS": "18,144,289"
   },
   {
     "ISU_CD": "KR7227100005",
@@ -21081,7 +21067,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "8,111,343"
+    "LIST_SHRS": "8,117,643"
   },
   {
     "ISU_CD": "KR7065130007",
@@ -24752,6 +24738,20 @@
     "LIST_SHRS": "48,348,248"
   },
   {
+    "ISU_CD": "KR7308100007",
+    "ISU_SRT_CD": "308100",
+    "ISU_NM": "형지글로벌",
+    "ISU_ABBRV": "형지글로벌",
+    "ISU_ENG_NM": "Hyungji Global",
+    "LIST_DD": "2019/06/10",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "중견기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "6,624,733"
+  },
+  {
     "ISU_CD": "KR7011080009",
     "ISU_SRT_CD": "011080",
     "ISU_NM": "형지아이앤씨",
@@ -25015,7 +25015,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "99,649,272"
+    "LIST_SHRS": "115,778,305"
   },
   {
     "ISU_CD": "KR7263920001",

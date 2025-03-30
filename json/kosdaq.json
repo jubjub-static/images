@@ -834,7 +834,7 @@
     "LIST_DD": "2013/12/19",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
+    "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "84,883,347"
@@ -1495,7 +1495,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "58,347,699"
+    "LIST_SHRS": "58,507,699"
   },
   {
     "ISU_CD": "KR7217270008",
@@ -2699,7 +2699,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,043,150"
+    "LIST_SHRS": "12,123,150"
   },
   {
     "ISU_CD": "KR7373160001",
@@ -2853,7 +2853,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "44,460,000"
+    "LIST_SHRS": "44,671,868"
   },
   {
     "ISU_CD": "KR7240550004",
@@ -5650,7 +5650,7 @@
     "LIST_DD": "2003/12/19",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "투자주의환기종목(소속부없음)",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "86,444,648"
@@ -5933,7 +5933,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "51,460,959"
+    "LIST_SHRS": "52,162,936"
   },
   {
     "ISU_CD": "KR7365900000",
@@ -9839,7 +9839,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "360,157,579"
+    "LIST_SHRS": "389,157,579"
   },
   {
     "ISU_CD": "KR7159010008",
@@ -10875,7 +10875,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "49,386,023"
+    "LIST_SHRS": "49,856,389"
   },
   {
     "ISU_CD": "KR7043100007",
@@ -11838,7 +11838,7 @@
     "LIST_DD": "2022/10/06",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "3,720,000"
@@ -12401,7 +12401,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "121,891,691"
+    "LIST_SHRS": "121,894,749"
   },
   {
     "ISU_CD": "KR7187420005",
@@ -14529,7 +14529,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,881,937"
+    "LIST_SHRS": "11,896,437"
   },
   {
     "ISU_CD": "KR7244460002",
@@ -16811,7 +16811,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "36,585,355"
+    "LIST_SHRS": "36,906,492"
   },
   {
     "ISU_CD": "KR7047560008",
@@ -18726,7 +18726,7 @@
     "LIST_DD": "2021/10/29",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "31,831,041"
@@ -22394,7 +22394,7 @@
     "LIST_DD": "2019/10/02",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
+    "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "22,725,452"
@@ -24091,7 +24091,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "17,231,850"
+    "LIST_SHRS": "17,252,250"
   },
   {
     "ISU_CD": "KR7066980004",
@@ -24220,20 +24220,6 @@
     "LIST_SHRS": "27,965,627"
   },
   {
-    "ISU_CD": "KR7214870008",
-    "ISU_SRT_CD": "214870",
-    "ISU_NM": "한울비앤씨",
-    "ISU_ABBRV": "한울BnC",
-    "ISU_ENG_NM": "HanulBnC",
-    "LIST_DD": "2015/10/13",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "투자주의환기종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "9,359,221"
-  },
-  {
     "ISU_CD": "KR7091440008",
     "ISU_SRT_CD": "091440",
     "ISU_NM": "한울소재과학",
@@ -24245,7 +24231,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "25,331,314"
+    "LIST_SHRS": "25,439,820"
   },
   {
     "ISU_CD": "KR7024740003",

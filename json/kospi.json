@@ -11816,20 +11816,6 @@
     "LIST_SHRS": "70,020,000"
   },
   {
-    "ISU_CD": "KR7168490001",
-    "ISU_SRT_CD": "168490",
-    "ISU_NM": "한국투자Parallel유전해외자원개발특별자산투자회사1호",
-    "ISU_ABBRV": "한국패러랠",
-    "ISU_ENG_NM": "KIM Parallel Oilfield Overseas Resources Development Fund[1]",
-    "LIST_DD": "2013/04/19",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "투자회사",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "무액면",
-    "LIST_SHRS": "80,020,000"
-  },
-  {
     "ISU_CD": "KR7071051007",
     "ISU_SRT_CD": "071055",
     "ISU_NM": "한국투자금융지주1우선주",

@@ -6070,7 +6070,7 @@
     "LIST_DD": "2011/12/01",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "77,201,611"
@@ -7868,6 +7868,20 @@
     "LIST_SHRS": "8,164,148"
   },
   {
+    "ISU_CD": "KR7352770002",
+    "ISU_SRT_CD": "352770",
+    "ISU_NM": "셀레스트라",
+    "ISU_ABBRV": "셀레스트라",
+    "ISU_ENG_NM": "Celestra",
+    "LIST_DD": "2020/12/04",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "38,886,113"
+  },
+  {
     "ISU_CD": "KR7471820001",
     "ISU_SRT_CD": "471820",
     "ISU_NM": "셀로맥스사이언스",
@@ -8453,7 +8467,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "32,706,134"
+    "LIST_SHRS": "32,729,532"
   },
   {
     "ISU_CD": "KR7415380005",
@@ -11480,20 +11494,6 @@
     "LIST_SHRS": "99,995,067"
   },
   {
-    "ISU_CD": "KR7351320007",
-    "ISU_SRT_CD": "351320",
-    "ISU_NM": "에스에이티",
-    "ISU_ABBRV": "에스에이티이엔지",
-    "ISU_ENG_NM": "Solution Advanced Technology",
-    "LIST_DD": "2020/06/22",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "22,015,886"
-  },
-  {
     "ISU_CD": "KR7060540002",
     "ISU_SRT_CD": "060540",
     "ISU_NM": "에스에이티",
@@ -11506,6 +11506,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "26,133,306"
+  },
+  {
+    "ISU_CD": "KR7351320007",
+    "ISU_SRT_CD": "351320",
+    "ISU_NM": "에스에이티",
+    "ISU_ABBRV": "에스에이티이엔지",
+    "ISU_ENG_NM": "Solution Advanced Technology",
+    "LIST_DD": "2020/06/22",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "22,015,886"
   },
   {
     "ISU_CD": "KR7056190002",
@@ -13997,7 +14011,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "63,731,128"
+    "LIST_SHRS": "63,878,604"
   },
   {
     "ISU_CD": "KR7060850005",
@@ -16881,7 +16895,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,650,477"
+    "LIST_SHRS": "12,850,477"
   },
   {
     "ISU_CD": "KR7456070002",
@@ -17172,7 +17186,7 @@
     "LIST_DD": "1994/11/23",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "22,283,636"
@@ -18043,7 +18057,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "73,755,685"
+    "LIST_SHRS": "74,057,571"
   },
   {
     "ISU_CD": "KR7090470006",
@@ -20914,20 +20928,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "24,651,339"
-  },
-  {
-    "ISU_CD": "KR7352770002",
-    "ISU_SRT_CD": "352770",
-    "ISU_NM": "클리노믹스",
-    "ISU_ABBRV": "클리노믹스",
-    "ISU_ENG_NM": "Clinomics Inc.",
-    "LIST_DD": "2020/12/04",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "기술성장기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "38,886,113"
   },
   {
     "ISU_CD": "KR7237880000",

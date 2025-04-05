@@ -879,7 +879,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "12,394,950"
+    "LIST_SHRS": "12,410,178"
   },
   {
     "ISU_CD": "KR7187790001",
@@ -1131,7 +1131,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "44,324,890"
+    "LIST_SHRS": "45,702,300"
   },
   {
     "ISU_CD": "KR7111710000",
@@ -7571,7 +7571,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,148,000"
+    "LIST_SHRS": "12,176,475"
   },
   {
     "ISU_CD": "KR7080470008",
@@ -7753,7 +7753,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "200,000,000"
+    "LIST_SHRS": "100,000,000"
   },
   {
     "ISU_CD": "KR7039310008",
@@ -8874,20 +8874,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "15,258,475"
-  },
-  {
-    "ISU_CD": "KR7418210001",
-    "ISU_SRT_CD": "418210",
-    "ISU_NM": "신한제10호기업인수목적",
-    "ISU_ABBRV": "신한제10호스팩",
-    "ISU_ENG_NM": "Shinhan 10th Special Purpose Acquisition Company",
-    "LIST_DD": "2022/07/29",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "3,660,000"
   },
   {
     "ISU_CD": "KR7452980006",
@@ -11494,20 +11480,6 @@
     "LIST_SHRS": "99,995,067"
   },
   {
-    "ISU_CD": "KR7351320007",
-    "ISU_SRT_CD": "351320",
-    "ISU_NM": "에스에이티",
-    "ISU_ABBRV": "에스에이티이엔지",
-    "ISU_ENG_NM": "Solution Advanced Technology",
-    "LIST_DD": "2020/06/22",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "22,015,886"
-  },
-  {
     "ISU_CD": "KR7060540002",
     "ISU_SRT_CD": "060540",
     "ISU_NM": "에스에이티",
@@ -11520,6 +11492,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "26,133,306"
+  },
+  {
+    "ISU_CD": "KR7351320007",
+    "ISU_SRT_CD": "351320",
+    "ISU_NM": "에스에이티",
+    "ISU_ABBRV": "에스에이티이엔지",
+    "ISU_ENG_NM": "Solution Advanced Technology",
+    "LIST_DD": "2020/06/22",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "22,015,886"
   },
   {
     "ISU_CD": "KR7056190002",
@@ -11925,7 +11911,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,809,848"
+    "LIST_SHRS": "27,520,215"
   },
   {
     "ISU_CD": "KR7039440003",
@@ -13115,7 +13101,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "24,832,479"
+    "LIST_SHRS": "24,860,853"
   },
   {
     "ISU_CD": "KR7373200005",
@@ -13692,6 +13678,20 @@
     "LIST_SHRS": "55,481,190"
   },
   {
+    "ISU_CD": "KR7322180001",
+    "ISU_SRT_CD": "322180",
+    "ISU_NM": "엘에스티라유텍",
+    "ISU_ABBRV": "LS티라유텍",
+    "ISU_ENG_NM": "LS THiRA-UTECH",
+    "LIST_DD": "2019/10/31",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "20,921,984"
+  },
+  {
     "ISU_CD": "KR7073110009",
     "ISU_SRT_CD": "073110",
     "ISU_NM": "엘엠에스",
@@ -13955,7 +13955,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "43,388,223"
+    "LIST_SHRS": "44,754,342"
   },
   {
     "ISU_CD": "KR7033160003",
@@ -17049,7 +17049,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "34,304,370"
+    "LIST_SHRS": "34,692,105"
   },
   {
     "ISU_CD": "KR7245620000",
@@ -17791,7 +17791,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "83,668,507"
+    "LIST_SHRS": "88,200,229"
   },
   {
     "ISU_CD": "KR7417840006",
@@ -19121,7 +19121,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "20,823,124"
+    "LIST_SHRS": "21,118,374"
   },
   {
     "ISU_CD": "KR7016920001",
@@ -21446,20 +21446,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "5,530,000"
-  },
-  {
-    "ISU_CD": "KR7322180001",
-    "ISU_SRT_CD": "322180",
-    "ISU_NM": "티라유텍",
-    "ISU_ABBRV": "티라유텍",
-    "ISU_ENG_NM": "THiRA-UTECH CO., LTD.",
-    "LIST_DD": "2019/10/31",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "20,921,984"
   },
   {
     "ISU_CD": "KR7117730002",
@@ -24008,6 +23994,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "29,800,327"
+  },
+  {
+    "ISU_CD": "KR7448900001",
+    "ISU_SRT_CD": "448900",
+    "ISU_NM": "한국피아이엠",
+    "ISU_ABBRV": "한국피아이엠",
+    "ISU_ENG_NM": "PIM KOREA Co.,Ltd.",
+    "LIST_DD": "2025/04/04",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "6,004,457"
   },
   {
     "ISU_CD": "KR7030520001",

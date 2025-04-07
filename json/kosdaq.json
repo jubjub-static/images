@@ -7876,7 +7876,7 @@
     "LIST_DD": "2020/12/04",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "기술성장기업부",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "38,886,113"
@@ -8019,7 +8019,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "54,999,547"
+    "LIST_SHRS": "65,928,509"
   },
   {
     "ISU_CD": "KR7290690007",
@@ -10662,7 +10662,7 @@
     "LIST_DD": "2018/07/20",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "34,621,218"
@@ -10819,7 +10819,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "7,679,368"
+    "LIST_SHRS": "9,446,672"
   },
   {
     "ISU_CD": "KR7347860009",
@@ -11757,7 +11757,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "98,405,000"
+    "LIST_SHRS": "98,421,399"
   },
   {
     "ISU_CD": "KR7398120006",
@@ -16489,7 +16489,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "70,238,244"
+    "LIST_SHRS": "71,919,480"
   },
   {
     "ISU_CD": "KR7039020003",
@@ -18320,7 +18320,7 @@
     "LIST_DD": "2024/04/30",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "기술성장기업부",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "20,600,665"
@@ -19975,7 +19975,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,904,434"
+    "LIST_SHRS": "27,554,434"
   },
   {
     "ISU_CD": "KR7036030005",
@@ -25124,7 +25124,7 @@
     "LIST_DD": "2017/07/20",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "11,312,236"

@@ -238,20 +238,6 @@
     "LIST_SHRS": "44,398,588"
   },
   {
-    "ISU_CD": "KR7139130009",
-    "ISU_SRT_CD": "139130",
-    "ISU_NM": "DGB금융지주보통주",
-    "ISU_ABBRV": "DGB금융지주",
-    "ISU_ENG_NM": "DGB Financial Group",
-    "LIST_DD": "2011/06/07",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "166,392,833"
-  },
-  {
     "ISU_CD": "KR7001530005",
     "ISU_SRT_CD": "001530",
     "ISU_NM": "DI동일보통주",
@@ -1439,7 +1425,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "274,063,828"
+    "LIST_SHRS": "276,188,774"
   },
   {
     "ISU_CD": "KR7034730002",
@@ -2279,7 +2265,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "27,334,587"
+    "LIST_SHRS": "26,459,587"
   },
   {
     "ISU_CD": "KR7214330003",
@@ -2881,7 +2867,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "25,640,788"
+    "LIST_SHRS": "25,654,140"
   },
   {
     "ISU_CD": "KR7008110009",
@@ -2900,9 +2886,9 @@
   {
     "ISU_CD": "KR7005750005",
     "ISU_SRT_CD": "005750",
-    "ISU_NM": "대림B&Co보통주",
-    "ISU_ABBRV": "대림B&Co",
-    "ISU_ENG_NM": "DAELIM B&Co",
+    "ISU_NM": "대림바스보통주",
+    "ISU_ABBRV": "대림바스",
+    "ISU_ENG_NM": "DAELIM BATH",
     "LIST_DD": "1992/12/23",
     "MKT_TP_NM": "KOSPI",
     "SECUGRP_NM": "주권",
@@ -6493,7 +6479,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "50,005,551"
+    "LIST_SHRS": "49,005,551"
   },
   {
     "ISU_CD": "KR7004430005",
@@ -7264,6 +7250,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "30,186,976"
+  },
+  {
+    "ISU_CD": "KR7139130009",
+    "ISU_SRT_CD": "139130",
+    "ISU_NM": "아이엠금융지주보통주",
+    "ISU_ABBRV": "iM금융지주",
+    "ISU_ENG_NM": "iM Financial Group",
+    "LIST_DD": "2011/06/07",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "5,000",
+    "LIST_SHRS": "166,392,833"
   },
   {
     "ISU_CD": "KR7139990006",
@@ -8250,7 +8250,7 @@
     "ISU_SRT_CD": "007310",
     "ISU_NM": "오뚜기보통주",
     "ISU_ABBRV": "오뚜기",
-    "ISU_ENG_NM": "Ottogi",
+    "ISU_ENG_NM": "OTOKI",
     "LIST_DD": "1994/08/12",
     "MKT_TP_NM": "KOSPI",
     "SECUGRP_NM": "주권",
@@ -9069,7 +9069,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "119,368,998"
+    "LIST_SHRS": "119,658,720"
   },
   {
     "ISU_CD": "KR7023800006",
@@ -9419,7 +9419,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "13,796,893"
+    "LIST_SHRS": "13,914,171"
   },
   {
     "ISU_CD": "KR7025620006",
@@ -10035,7 +10035,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "443,721,032"
+    "LIST_SHRS": "443,872,400"
   },
   {
     "ISU_CD": "KR7377300009",
@@ -11267,7 +11267,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "82,624,377"
+    "LIST_SHRS": "80,932,952"
   },
   {
     "ISU_CD": "KR7017810003",
@@ -11631,7 +11631,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "123,977,752"
+    "LIST_SHRS": "122,373,926"
   },
   {
     "ISU_CD": "KR7015760002",

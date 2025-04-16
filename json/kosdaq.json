@@ -151,7 +151,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "17,595,777"
+    "LIST_SHRS": "17,920,849"
   },
   {
     "ISU_CD": "KR7399720002",
@@ -1733,7 +1733,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,151,249"
+    "LIST_SHRS": "11,337,587"
   },
   {
     "ISU_CD": "KR7060260007",
@@ -5751,7 +5751,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "18,369,807"
+    "LIST_SHRS": "18,388,449"
   },
   {
     "ISU_CD": "KR7006910004",
@@ -7053,7 +7053,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "4,981,545"
+    "LIST_SHRS": "5,630,054"
   },
   {
     "ISU_CD": "KR7411080005",
@@ -8355,7 +8355,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "36,410,098"
+    "LIST_SHRS": "39,888,358"
   },
   {
     "ISU_CD": "KR7060240009",
@@ -11351,7 +11351,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "7,283,401"
+    "LIST_SHRS": "8,479,375"
   },
   {
     "ISU_CD": "KR7298060005",
@@ -11480,20 +11480,6 @@
     "LIST_SHRS": "99,995,067"
   },
   {
-    "ISU_CD": "KR7060540002",
-    "ISU_SRT_CD": "060540",
-    "ISU_NM": "에스에이티",
-    "ISU_ABBRV": "에스에이티",
-    "ISU_ENG_NM": "System and Application Technologies Inc.",
-    "LIST_DD": "2006/11/28",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "우량기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "26,133,306"
-  },
-  {
     "ISU_CD": "KR7351320007",
     "ISU_SRT_CD": "351320",
     "ISU_NM": "에스에이티",
@@ -11506,6 +11492,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "22,015,886"
+  },
+  {
+    "ISU_CD": "KR7060540002",
+    "ISU_SRT_CD": "060540",
+    "ISU_NM": "에스에이티",
+    "ISU_ABBRV": "에스에이티",
+    "ISU_ENG_NM": "System and Application Technologies Inc.",
+    "LIST_DD": "2006/11/28",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "우량기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "26,133,306"
   },
   {
     "ISU_CD": "KR7056190002",
@@ -12429,7 +12429,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "121,894,749"
+    "LIST_SHRS": "121,895,688"
   },
   {
     "ISU_CD": "KR7187420005",
@@ -14585,7 +14585,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,701,626"
+    "LIST_SHRS": "19,775,322"
   },
   {
     "ISU_CD": "KR7057540007",
@@ -15794,9 +15794,9 @@
   {
     "ISU_CD": "KR7136540002",
     "ISU_SRT_CD": "136540",
-    "ISU_NM": "윈스",
-    "ISU_ABBRV": "윈스",
-    "ISU_ENG_NM": "Wins co., Ltd.",
+    "ISU_NM": "윈스테크넷",
+    "ISU_ABBRV": "윈스테크넷",
+    "ISU_ENG_NM": "WINS Technet",
     "LIST_DD": "2011/05/02",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
@@ -23013,7 +23013,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,370,673"
+    "LIST_SHRS": "19,273,820"
   },
   {
     "ISU_CD": "KR7043370006",

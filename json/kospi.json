@@ -574,6 +574,20 @@
     "LIST_SHRS": "6,010,174"
   },
   {
+    "ISU_CD": "KR7015360001",
+    "ISU_SRT_CD": "015360",
+    "ISU_NM": "INVENI보통주",
+    "ISU_ABBRV": "INVENI",
+    "ISU_ENG_NM": "INVENI",
+    "LIST_DD": "1996/12/24",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "5,000",
+    "LIST_SHRS": "6,000,000"
+  },
+  {
     "ISU_CD": "KR7175330000",
     "ISU_SRT_CD": "175330",
     "ISU_NM": "JB금융지주보통주",
@@ -3486,20 +3500,6 @@
     "LIST_SHRS": "15,680,000"
   },
   {
-    "ISU_CD": "KR7024900003",
-    "ISU_SRT_CD": "024900",
-    "ISU_NM": "덕양산업보통주",
-    "ISU_ABBRV": "덕양산업",
-    "ISU_ENG_NM": "DuckYangIndustry",
-    "LIST_DD": "1997/06/23",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "32,564,980"
-  },
-  {
     "ISU_CD": "KR7145720009",
     "ISU_SRT_CD": "145720",
     "ISU_NM": "덴티움보통주",
@@ -4212,6 +4212,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "58,510,865"
+  },
+  {
+    "ISU_CD": "KR7024900003",
+    "ISU_SRT_CD": "024900",
+    "ISU_NM": "디와이덕양보통주",
+    "ISU_ABBRV": "디와이덕양",
+    "ISU_ENG_NM": "DY DEOKYANG",
+    "LIST_DD": "1997/06/23",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "32,564,980"
   },
   {
     "ISU_CD": "KR7013570007",
@@ -9042,20 +9056,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "10,044,216"
-  },
-  {
-    "ISU_CD": "KR7015360001",
-    "ISU_SRT_CD": "015360",
-    "ISU_NM": "인베니보통주",
-    "ISU_ABBRV": "INVENI",
-    "ISU_ENG_NM": "INVENI",
-    "LIST_DD": "1996/12/24",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "6,000,000"
   },
   {
     "ISU_CD": "KR7006490007",

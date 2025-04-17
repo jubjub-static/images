@@ -2440,7 +2440,7 @@
     "ISU_SRT_CD": "054670",
     "ISU_NM": "대한뉴팜",
     "ISU_ABBRV": "대한뉴팜",
-    "ISU_ENG_NM": "DAEHAN NEW PHARM CO., LTD.",
+    "ISU_ENG_NM": "Daehan Nupharm",
     "LIST_DD": "2002/02/26",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
@@ -3049,7 +3049,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "3,986,323"
+    "LIST_SHRS": "4,118,595"
   },
   {
     "ISU_CD": "KR7023790009",
@@ -4421,7 +4421,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "17,877,866"
+    "LIST_SHRS": "17,917,903"
   },
   {
     "ISU_CD": "KR7424980001",
@@ -7529,7 +7529,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,151,583"
+    "LIST_SHRS": "10,347,365"
   },
   {
     "ISU_CD": "KR7015750003",
@@ -8985,7 +8985,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "38,919,035"
+    "LIST_SHRS": "38,558,235"
   },
   {
     "ISU_CD": "KR7257720003",
@@ -10894,9 +10894,9 @@
   {
     "ISU_CD": "KR7117670000",
     "ISU_SRT_CD": "117670",
-    "ISU_NM": "알파홀딩스",
-    "ISU_ABBRV": "알파홀딩스",
-    "ISU_ENG_NM": "Alpha Holdings, Inc.",
+    "ISU_NM": "알파칩스",
+    "ISU_ABBRV": "알파칩스",
+    "ISU_ENG_NM": "Alphachips",
     "LIST_DD": "2010/09/17",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
@@ -11480,20 +11480,6 @@
     "LIST_SHRS": "99,995,067"
   },
   {
-    "ISU_CD": "KR7351320007",
-    "ISU_SRT_CD": "351320",
-    "ISU_NM": "에스에이티",
-    "ISU_ABBRV": "에스에이티이엔지",
-    "ISU_ENG_NM": "Solution Advanced Technology",
-    "LIST_DD": "2020/06/22",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "22,015,886"
-  },
-  {
     "ISU_CD": "KR7060540002",
     "ISU_SRT_CD": "060540",
     "ISU_NM": "에스에이티",
@@ -11506,6 +11492,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "26,133,306"
+  },
+  {
+    "ISU_CD": "KR7351320007",
+    "ISU_SRT_CD": "351320",
+    "ISU_NM": "에스에이티",
+    "ISU_ABBRV": "에스에이티이엔지",
+    "ISU_ENG_NM": "Solution Advanced Technology",
+    "LIST_DD": "2020/06/22",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "22,015,886"
   },
   {
     "ISU_CD": "KR7056190002",
@@ -12023,7 +12023,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "24,201,392"
+    "LIST_SHRS": "24,741,392"
   },
   {
     "ISU_CD": "KR7317830008",
@@ -12359,7 +12359,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "7,287,341"
+    "LIST_SHRS": "7,365,316"
   },
   {
     "ISU_CD": "KR7036640001",
@@ -14039,7 +14039,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "77,357,600"
+    "LIST_SHRS": "77,382,443"
   },
   {
     "ISU_CD": "KR7060850005",
@@ -20020,20 +20020,6 @@
     "LIST_SHRS": "30,901,728"
   },
   {
-    "ISU_CD": "KR7256940008",
-    "ISU_SRT_CD": "256940",
-    "ISU_NM": "케이피에스",
-    "ISU_ABBRV": "케이피에스",
-    "ISU_ENG_NM": "KPS Corporation",
-    "LIST_DD": "2017/09/06",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "19,076,310"
-  },
-  {
     "ISU_CD": "KR7024880007",
     "ISU_SRT_CD": "024880",
     "ISU_NM": "케이피에프",
@@ -21026,6 +21012,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "19,547,793"
+  },
+  {
+    "ISU_CD": "KR7256940008",
+    "ISU_SRT_CD": "256940",
+    "ISU_NM": "킵스바이오파마",
+    "ISU_ABBRV": "킵스파마",
+    "ISU_ENG_NM": "Keeps Biopharma",
+    "LIST_DD": "2017/09/06",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "19,076,310"
   },
   {
     "ISU_CD": "KR7219130002",
@@ -23671,7 +23671,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "23,000,000"
+    "LIST_SHRS": "22,500,000"
   },
   {
     "ISU_CD": "KR7034950006",

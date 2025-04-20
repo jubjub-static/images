@@ -1397,7 +1397,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "2,500",
-    "LIST_SHRS": "12,536,245"
+    "LIST_SHRS": "12,680,245"
   },
   {
     "ISU_CD": "KR7389650003",
@@ -3007,7 +3007,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,067,208"
+    "LIST_SHRS": "20,909,936"
   },
   {
     "ISU_CD": "KR7013120001",
@@ -4127,7 +4127,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,207,510"
+    "LIST_SHRS": "13,212,660"
   },
   {
     "ISU_CD": "HK0000295359",
@@ -6554,9 +6554,9 @@
   {
     "ISU_CD": "KR7419050000",
     "ISU_SRT_CD": "419050",
-    "ISU_NM": "삼기이브이",
-    "ISU_ABBRV": "삼기이브이",
-    "ISU_ENG_NM": "SAMKEE EV CO.,LTD.",
+    "ISU_NM": "삼기에너지솔루션즈",
+    "ISU_ABBRV": "삼기에너지솔루션즈",
+    "ISU_ENG_NM": "SAMKEE ENERGY SOLUTIONS",
     "LIST_DD": "2023/02/03",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
@@ -7123,7 +7123,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "8,900,676"
+    "LIST_SHRS": "9,100,676"
   },
   {
     "ISU_CD": "KR7006730006",
@@ -7977,7 +7977,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "41,603,587"
+    "LIST_SHRS": "43,673,278"
   },
   {
     "ISU_CD": "KR7068940006",
@@ -11211,7 +11211,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,549,677"
+    "LIST_SHRS": "19,912,642"
   },
   {
     "ISU_CD": "KR7217480003",
@@ -11480,20 +11480,6 @@
     "LIST_SHRS": "99,995,067"
   },
   {
-    "ISU_CD": "KR7060540002",
-    "ISU_SRT_CD": "060540",
-    "ISU_NM": "에스에이티",
-    "ISU_ABBRV": "에스에이티",
-    "ISU_ENG_NM": "System and Application Technologies Inc.",
-    "LIST_DD": "2006/11/28",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "우량기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "26,133,306"
-  },
-  {
     "ISU_CD": "KR7351320007",
     "ISU_SRT_CD": "351320",
     "ISU_NM": "에스에이티",
@@ -11506,6 +11492,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "22,015,886"
+  },
+  {
+    "ISU_CD": "KR7060540002",
+    "ISU_SRT_CD": "060540",
+    "ISU_NM": "에스에이티",
+    "ISU_ABBRV": "에스에이티",
+    "ISU_ENG_NM": "System and Application Technologies Inc.",
+    "LIST_DD": "2006/11/28",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "우량기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "26,133,306"
   },
   {
     "ISU_CD": "KR7056190002",
@@ -13129,7 +13129,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "24,860,853"
+    "LIST_SHRS": "25,358,187"
   },
   {
     "ISU_CD": "KR7373200005",
@@ -14655,7 +14655,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "38,640,846"
+    "LIST_SHRS": "39,338,196"
   },
   {
     "ISU_CD": "KR7153710009",
@@ -17147,7 +17147,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "65,145,845"
+    "LIST_SHRS": "64,516,185"
   },
   {
     "ISU_CD": "KR7092130004",
@@ -18648,20 +18648,6 @@
     "LIST_SHRS": "33,351,845"
   },
   {
-    "ISU_CD": "KR7043610005",
-    "ISU_SRT_CD": "043610",
-    "ISU_NM": "지니뮤직",
-    "ISU_ABBRV": "지니뮤직",
-    "ISU_ENG_NM": "GENIE MUSIC CORPORATION",
-    "LIST_DD": "2000/07/20",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "우량기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "58,115,438"
-  },
-  {
     "ISU_CD": "KR7263860009",
     "ISU_SRT_CD": "263860",
     "ISU_NM": "지니언스",
@@ -19009,7 +18995,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "26,824,748"
+    "LIST_SHRS": "26,865,246"
   },
   {
     "ISU_CD": "KYG2115T1076",
@@ -20004,6 +19990,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
     "LIST_SHRS": "49,019,283"
+  },
+  {
+    "ISU_CD": "KR7043610005",
+    "ISU_SRT_CD": "043610",
+    "ISU_NM": "케이티지니뮤직",
+    "ISU_ABBRV": "KT지니뮤직",
+    "ISU_ENG_NM": "KT GENIE MUSIC",
+    "LIST_DD": "2000/07/20",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "우량기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "58,115,438"
   },
   {
     "ISU_CD": "KR7064820004",
@@ -22103,7 +22103,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,988,477"
+    "LIST_SHRS": "6,989,977"
   },
   {
     "ISU_CD": "KR7091700005",
@@ -24735,7 +24735,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,624,733"
+    "LIST_SHRS": "8,704,152"
   },
   {
     "ISU_CD": "KR7011080009",

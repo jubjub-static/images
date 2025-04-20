@@ -196,20 +196,6 @@
     "LIST_SHRS": "201,173,933"
   },
   {
-    "ISU_CD": "KR7016610008",
-    "ISU_SRT_CD": "016610",
-    "ISU_NM": "DB금융투자보통주",
-    "ISU_ABBRV": "DB금융투자",
-    "ISU_ENG_NM": "DB Financial Investment Co., LTD.",
-    "LIST_DD": "1988/06/27",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "42,446,389"
-  },
-  {
     "ISU_CD": "KR7005830005",
     "ISU_SRT_CD": "005830",
     "ISU_NM": "DB손해보험보통주",
@@ -222,6 +208,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "70,800,000"
+  },
+  {
+    "ISU_CD": "KR7016610008",
+    "ISU_SRT_CD": "016610",
+    "ISU_NM": "DB증권보통주",
+    "ISU_ABBRV": "DB증권",
+    "ISU_ENG_NM": "DB Securities",
+    "LIST_DD": "1988/06/27",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "5,000",
+    "LIST_SHRS": "42,446,389"
   },
   {
     "ISU_CD": "KR7000990002",
@@ -2257,7 +2257,7 @@
     "ISU_CD": "KR7011781002",
     "ISU_SRT_CD": "011785",
     "ISU_NM": "금호석유화학1우선주",
-    "ISU_ABBRV": "금호석유우",
+    "ISU_ABBRV": "금호석유화학우",
     "ISU_ENG_NM": "KumhoPetrochemical(1P)",
     "LIST_DD": "1988/10/20",
     "MKT_TP_NM": "KOSPI",
@@ -2271,7 +2271,7 @@
     "ISU_CD": "KR7011780004",
     "ISU_SRT_CD": "011780",
     "ISU_NM": "금호석유화학보통주",
-    "ISU_ABBRV": "금호석유",
+    "ISU_ABBRV": "금호석유화학",
     "ISU_ENG_NM": "KumhoPetrochemical",
     "LIST_DD": "1988/01/22",
     "MKT_TP_NM": "KOSPI",
@@ -3427,7 +3427,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "67,809,102"
+    "LIST_SHRS": "67,834,027"
   },
   {
     "ISU_CD": "KR7475560009",
@@ -3679,7 +3679,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "6,348,913"
+    "LIST_SHRS": "6,536,434"
   },
   {
     "ISU_CD": "KR7170900005",
@@ -3693,7 +3693,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "9,172,975"
+    "LIST_SHRS": "9,352,645"
   },
   {
     "ISU_CD": "KR7028100006",
@@ -4830,6 +4830,20 @@
     "LIST_SHRS": "570,316,408"
   },
   {
+    "ISU_CD": "KR7081660003",
+    "ISU_SRT_CD": "081660",
+    "ISU_NM": "미스토홀딩스보통주",
+    "ISU_ABBRV": "미스토홀딩스",
+    "ISU_ENG_NM": "Misto Holdings Corporation",
+    "LIST_DD": "2010/09/28",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "1,000",
+    "LIST_SHRS": "60,095,839"
+  },
+  {
     "ISU_CD": "KR7002840007",
     "ISU_SRT_CD": "002840",
     "ISU_NM": "미원상사보통주",
@@ -4981,7 +4995,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "67,560,000"
+    "LIST_SHRS": "66,860,000"
   },
   {
     "ISU_CD": "KR7002760007",
@@ -7949,7 +7963,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "21,954,022"
+    "LIST_SHRS": "21,544,022"
   },
   {
     "ISU_CD": "KR7400760005",
@@ -8425,7 +8439,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "20,323,614"
+    "LIST_SHRS": "20,197,670"
   },
   {
     "ISU_CD": "KR7010400000",
@@ -13368,20 +13382,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "107,255,330"
-  },
-  {
-    "ISU_CD": "KR7081660003",
-    "ISU_SRT_CD": "081660",
-    "ISU_NM": "휠라홀딩스보통주",
-    "ISU_ABBRV": "휠라홀딩스",
-    "ISU_ENG_NM": "Fila Holdings",
-    "LIST_DD": "2010/09/28",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "1,000",
-    "LIST_SHRS": "60,095,839"
   },
   {
     "ISU_CD": "KR7005870001",

@@ -1705,7 +1705,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "2,500",
-    "LIST_SHRS": "23,008,904"
+    "LIST_SHRS": "40,148,063"
   },
   {
     "ISU_CD": "KR7084870005",
@@ -3665,7 +3665,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "49,689,728"
+    "LIST_SHRS": "50,176,791"
   },
   {
     "ISU_CD": "KR7000640003",
@@ -3791,7 +3791,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "158,707,425"
+    "LIST_SHRS": "158,844,223"
   },
   {
     "ISU_CD": "KR7092780006",
@@ -4940,20 +4940,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "40,202,158"
-  },
-  {
-    "ISU_CD": "KR7001340009",
-    "ISU_SRT_CD": "001340",
-    "ISU_NM": "백광산업보통주",
-    "ISU_ABBRV": "백광산업",
-    "ISU_ENG_NM": "PaikkwangIndustrial",
-    "LIST_DD": "1976/06/10",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "44,918,407"
   },
   {
     "ISU_CD": "KR7035150002",
@@ -6174,20 +6160,6 @@
     "LIST_SHRS": "22,460,985"
   },
   {
-    "ISU_CD": "KR7003080009",
-    "ISU_SRT_CD": "003080",
-    "ISU_NM": "성보화학보통주",
-    "ISU_ABBRV": "성보화학",
-    "ISU_ENG_NM": "SungboChemical",
-    "LIST_DD": "1976/12/23",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "20,020,000"
-  },
-  {
     "ISU_CD": "KR7004981007",
     "ISU_SRT_CD": "004985",
     "ISU_NM": "성신양회1우선주",
@@ -6227,7 +6199,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "135,567,675"
+    "LIST_SHRS": "155,617,675"
   },
   {
     "ISU_CD": "KR7000180000",
@@ -7392,6 +7364,20 @@
     "LIST_SHRS": "121,749,102"
   },
   {
+    "ISU_CD": "KR7003080009",
+    "ISU_SRT_CD": "003080",
+    "ISU_NM": "에스비성보보통주",
+    "ISU_ABBRV": "SB성보",
+    "ISU_ENG_NM": "SBSUNGBO",
+    "LIST_DD": "1976/12/23",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "20,020,000"
+  },
+  {
     "ISU_CD": "KR7034120006",
     "ISU_SRT_CD": "034120",
     "ISU_NM": "에스비에스보통주",
@@ -7515,7 +7501,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "78,347,293"
+    "LIST_SHRS": "78,369,145"
   },
   {
     "ISU_CD": "KR7326030004",
@@ -7683,7 +7669,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "18,305,586"
+    "LIST_SHRS": "17,713,586"
   },
   {
     "ISU_CD": "KR7443060009",
@@ -11368,6 +11354,20 @@
     "LIST_SHRS": "29,366,322"
   },
   {
+    "ISU_CD": "KR7001340009",
+    "ISU_SRT_CD": "001340",
+    "ISU_NM": "피케이씨보통주",
+    "ISU_ABBRV": "PKC",
+    "ISU_ENG_NM": "PKC",
+    "LIST_DD": "1976/06/10",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "44,918,407"
+  },
+  {
     "ISU_CD": "KR7086790003",
     "ISU_SRT_CD": "086790",
     "ISU_NM": "하나금융지주보통주",
@@ -12883,8 +12883,8 @@
     "ISU_CD": "KR7017800004",
     "ISU_SRT_CD": "017800",
     "ISU_NM": "현대엘리베이터보통주",
-    "ISU_ABBRV": "현대엘리베이",
-    "ISU_ENG_NM": "HyundaiElevator",
+    "ISU_ABBRV": "현대엘리베이터",
+    "ISU_ENG_NM": "Hyundai Elevator",
     "LIST_DD": "1996/07/03",
     "MKT_TP_NM": "KOSPI",
     "SECUGRP_NM": "주권",

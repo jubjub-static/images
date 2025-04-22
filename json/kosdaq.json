@@ -394,9 +394,9 @@
   {
     "ISU_CD": "KR7121440002",
     "ISU_SRT_CD": "121440",
-    "ISU_NM": "골프존뉴딘홀딩스",
-    "ISU_ABBRV": "골프존뉴딘홀딩스",
-    "ISU_ENG_NM": "GOLFZON NEWDIN HOLDINGS Co., Ltd.",
+    "ISU_NM": "골프존홀딩스",
+    "ISU_ABBRV": "골프존홀딩스",
+    "ISU_ENG_NM": "GOLFZON HOLDINGS",
     "LIST_DD": "2011/05/20",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
@@ -896,20 +896,6 @@
     "LIST_SHRS": "30,840,830"
   },
   {
-    "ISU_CD": "KR7286750005",
-    "ISU_SRT_CD": "286750",
-    "ISU_NM": "나노브릭",
-    "ISU_ABBRV": "나노브릭",
-    "ISU_ENG_NM": "NANOBRICK Co., Ltd.",
-    "LIST_DD": "2019/08/19",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "기술성장기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "21,513,559"
-  },
-  {
     "ISU_CD": "KR7121600001",
     "ISU_SRT_CD": "121600",
     "ISU_NM": "나노신소재",
@@ -922,6 +908,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "12,196,078"
+  },
+  {
+    "ISU_CD": "KR7286750005",
+    "ISU_SRT_CD": "286750",
+    "ISU_NM": "나노실리칸첨단소재",
+    "ISU_ABBRV": "나노실리칸첨단소재",
+    "ISU_ENG_NM": "NanoSilikhan Advanced Materials",
+    "LIST_DD": "2019/08/19",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "21,513,559"
   },
   {
     "ISU_CD": "KR7247660004",
@@ -1131,7 +1131,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "46,032,903"
+    "LIST_SHRS": "46,064,388"
   },
   {
     "ISU_CD": "KR7111710000",
@@ -1509,7 +1509,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "46,676,150"
+    "LIST_SHRS": "46,701,643"
   },
   {
     "ISU_CD": "KR7104620000",
@@ -2000,20 +2000,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "9,000,000"
-  },
-  {
-    "ISU_CD": "KR7007720006",
-    "ISU_SRT_CD": "007720",
-    "ISU_NM": "대명소노시즌",
-    "ISU_ABBRV": "대명소노시즌",
-    "ISU_ENG_NM": "DAEMYUNG SONOSEASON CO.,LTD.",
-    "LIST_DD": "1994/01/06",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "100,800,450"
   },
   {
     "ISU_CD": "KR7389260001",
@@ -3371,7 +3357,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,496,125"
+    "LIST_SHRS": "27,000,000"
   },
   {
     "ISU_CD": "KR7109740001",
@@ -3749,7 +3735,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,770,512"
+    "LIST_SHRS": "12,784,128"
   },
   {
     "ISU_CD": "KR7131180002",
@@ -5390,20 +5376,6 @@
     "LIST_SHRS": "29,764,103"
   },
   {
-    "ISU_CD": "KR7208710004",
-    "ISU_SRT_CD": "208710",
-    "ISU_NM": "바이오로그디바이스",
-    "ISU_ABBRV": "바이오로그디바이스",
-    "ISU_ENG_NM": "BIOLOG DEVICE CO., LTD",
-    "LIST_DD": "2014/12/24",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "65,900,664"
-  },
-  {
     "ISU_CD": "KR7086820008",
     "ISU_SRT_CD": "086820",
     "ISU_NM": "바이오솔루션",
@@ -5852,20 +5824,6 @@
     "LIST_SHRS": "3,534,040"
   },
   {
-    "ISU_CD": "KR7337930002",
-    "ISU_SRT_CD": "337930",
-    "ISU_NM": "브랜드엑스코퍼레이션",
-    "ISU_ABBRV": "브랜드엑스코퍼레이션",
-    "ISU_ENG_NM": "Brand X Co., Ltd.",
-    "LIST_DD": "2020/08/13",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "우량기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "29,311,547"
-  },
-  {
     "ISU_CD": "KR7099390007",
     "ISU_SRT_CD": "099390",
     "ISU_NM": "브레인즈컴퍼니",
@@ -5905,7 +5863,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "52,162,936"
+    "LIST_SHRS": "52,173,036"
   },
   {
     "ISU_CD": "KR7365900000",
@@ -6644,7 +6602,7 @@
     "LIST_DD": "2022/10/26",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "3,502,000"
@@ -7067,7 +7025,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "15,248,638"
+    "LIST_SHRS": "15,267,638"
   },
   {
     "ISU_CD": "KR7252990007",
@@ -7992,6 +7950,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "200",
     "LIST_SHRS": "38,260,597"
+  },
+  {
+    "ISU_CD": "KR7007720006",
+    "ISU_SRT_CD": "007720",
+    "ISU_NM": "소노스퀘어",
+    "ISU_ABBRV": "소노스퀘어",
+    "ISU_ENG_NM": "SONO SQUARE",
+    "LIST_DD": "1994/01/06",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "중견기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "100,800,450"
   },
   {
     "ISU_CD": "KR7060230000",
@@ -9041,7 +9013,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,135,447"
+    "LIST_SHRS": "6,241,227"
   },
   {
     "ISU_CD": "KR7160980009",
@@ -9962,7 +9934,7 @@
     "LIST_DD": "2022/10/28",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "4,310,000"
@@ -10189,7 +10161,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,099,478"
+    "LIST_SHRS": "9,239,478"
   },
   {
     "ISU_CD": "KR7038880001",
@@ -11480,20 +11452,6 @@
     "LIST_SHRS": "99,995,067"
   },
   {
-    "ISU_CD": "KR7351320007",
-    "ISU_SRT_CD": "351320",
-    "ISU_NM": "에스에이티",
-    "ISU_ABBRV": "에스에이티이엔지",
-    "ISU_ENG_NM": "Solution Advanced Technology",
-    "LIST_DD": "2020/06/22",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "22,015,886"
-  },
-  {
     "ISU_CD": "KR7060540002",
     "ISU_SRT_CD": "060540",
     "ISU_NM": "에스에이티",
@@ -11506,6 +11464,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "26,133,306"
+  },
+  {
+    "ISU_CD": "KR7351320007",
+    "ISU_SRT_CD": "351320",
+    "ISU_NM": "에스에이티",
+    "ISU_ABBRV": "에스에이티이엔지",
+    "ISU_ENG_NM": "Solution Advanced Technology",
+    "LIST_DD": "2020/06/22",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "22,015,886"
   },
   {
     "ISU_CD": "KR7056190002",
@@ -11771,7 +11743,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "98,421,399"
+    "LIST_SHRS": "98,424,385"
   },
   {
     "ISU_CD": "KR7398120006",
@@ -12471,7 +12443,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "84,132,321"
+    "LIST_SHRS": "84,245,931"
   },
   {
     "ISU_CD": "KR7046210001",
@@ -14347,7 +14319,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "14,489,416"
+    "LIST_SHRS": "14,509,416"
   },
   {
     "ISU_CD": "KR7052420007",
@@ -15747,7 +15719,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "71,807,899"
+    "LIST_SHRS": "72,869,990"
   },
   {
     "ISU_CD": "KR7299900001",
@@ -16853,7 +16825,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,621,192"
+    "LIST_SHRS": "11,626,292"
   },
   {
     "ISU_CD": "HK0000057197",
@@ -17273,7 +17245,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,615,200"
+    "LIST_SHRS": "10,624,200"
   },
   {
     "ISU_CD": "KR7277410007",
@@ -18410,6 +18382,20 @@
     "LIST_SHRS": "35,844,518"
   },
   {
+    "ISU_CD": "KR7337930002",
+    "ISU_SRT_CD": "337930",
+    "ISU_NM": "젝시믹스",
+    "ISU_ABBRV": "젝시믹스",
+    "ISU_ENG_NM": "XEXYMIX",
+    "LIST_DD": "2020/08/13",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "우량기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "29,311,547"
+  },
+  {
     "ISU_CD": "KR7229000005",
     "ISU_SRT_CD": "229000",
     "ISU_NM": "젠큐릭스",
@@ -18729,7 +18715,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "56,012,976"
+    "LIST_SHRS": "61,614,273"
   },
   {
     "ISU_CD": "KR7382480002",
@@ -20535,7 +20521,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,141,807"
+    "LIST_SHRS": "11,469,370"
   },
   {
     "ISU_CD": "KR7121850002",
@@ -20759,7 +20745,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "32,296,790"
+    "LIST_SHRS": "32,381,781"
   },
   {
     "ISU_CD": "KR7445680002",
@@ -21081,7 +21067,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "17,189,982"
+    "LIST_SHRS": "16,330,482"
   },
   {
     "ISU_CD": "KR7134580000",
@@ -22398,6 +22384,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "22,725,452"
+  },
+  {
+    "ISU_CD": "KR7208710004",
+    "ISU_SRT_CD": "208710",
+    "ISU_NM": "포톤",
+    "ISU_ABBRV": "포톤",
+    "ISU_ENG_NM": "PHOTON",
+    "LIST_DD": "2014/12/24",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "중견기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "65,900,664"
   },
   {
     "ISU_CD": "KR7472850007",
@@ -24077,7 +24077,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "23,162,757"
+    "LIST_SHRS": "23,366,557"
   },
   {
     "ISU_CD": "KR7047080007",
@@ -24245,7 +24245,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "25,439,820"
+    "LIST_SHRS": "26,481,481"
   },
   {
     "ISU_CD": "KR7024740003",

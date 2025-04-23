@@ -249,7 +249,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,370,819"
+    "LIST_SHRS": "20,334,136"
   },
   {
     "ISU_CD": "KR7000211003",
@@ -6496,6 +6496,20 @@
     "LIST_SHRS": "24,000,000"
   },
   {
+    "ISU_CD": "KR7017550005",
+    "ISU_SRT_CD": "017550",
+    "ISU_NM": "수산세보틱스보통주",
+    "ISU_ABBRV": "수산세보틱스",
+    "ISU_ENG_NM": "SOOSAN CEBOTICS",
+    "LIST_DD": "1991/08/30",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "62,399,130"
+  },
+  {
     "ISU_CD": "KR7126720002",
     "ISU_SRT_CD": "126720",
     "ISU_NM": "수산인더스트리보통주",
@@ -6508,20 +6522,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "200",
     "LIST_SHRS": "14,286,000"
-  },
-  {
-    "ISU_CD": "KR7017550005",
-    "ISU_SRT_CD": "017550",
-    "ISU_NM": "수산중공업보통주",
-    "ISU_ABBRV": "수산중공업",
-    "ISU_ENG_NM": "SoosanHeavyIndustries",
-    "LIST_DD": "1991/08/30",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "62,399,130"
   },
   {
     "ISU_CD": "KR7204210009",

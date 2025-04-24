@@ -1131,7 +1131,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "46,064,388"
+    "LIST_SHRS": "48,130,503"
   },
   {
     "ISU_CD": "KR7111710000",
@@ -3511,7 +3511,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "124,831,164"
+    "LIST_SHRS": "124,964,801"
   },
   {
     "ISU_CD": "KR7310870001",
@@ -5457,7 +5457,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "60,132,678"
+    "LIST_SHRS": "60,499,659"
   },
   {
     "ISU_CD": "KR7032980005",
@@ -9696,7 +9696,7 @@
     "LIST_DD": "2013/09/12",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "기술성장기업부",
+    "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "55,018,347"
@@ -11225,7 +11225,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "56,171,811"
+    "LIST_SHRS": "58,820,712"
   },
   {
     "ISU_CD": "KR7304360001",
@@ -11848,7 +11848,7 @@
     "ISU_SRT_CD": "475660",
     "ISU_NM": "에스켐",
     "ISU_ABBRV": "에스켐",
-    "ISU_ENG_NM": "SCHEM INC",
+    "ISU_ENG_NM": "S-CHEM",
     "LIST_DD": "2024/11/18",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
@@ -17292,9 +17292,9 @@
   {
     "ISU_CD": "KR7450520002",
     "ISU_SRT_CD": "450520",
-    "ISU_NM": "인스웨이브시스템즈",
-    "ISU_ABBRV": "인스웨이브시스템즈",
-    "ISU_ENG_NM": "Inswave Systems Co., Ltd.",
+    "ISU_NM": "인스웨이브",
+    "ISU_ABBRV": "인스웨이브",
+    "ISU_ENG_NM": "Inswave",
     "LIST_DD": "2023/09/25",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
@@ -19065,7 +19065,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "20,551,290"
+    "LIST_SHRS": "21,051,290"
   },
   {
     "ISU_CD": "KR7066360009",
@@ -24959,7 +24959,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "24,505,529"
+    "LIST_SHRS": "24,798,012"
   },
   {
     "ISU_CD": "KR7200670008",

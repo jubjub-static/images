@@ -444,8 +444,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "3,023,556"
+    "PARVAL": "100",
+    "LIST_SHRS": "15,117,780"
   },
   {
     "ISU_CD": "KR7029480001",
@@ -8341,7 +8341,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,554,474"
+    "LIST_SHRS": "12,830,335"
   },
   {
     "ISU_CD": "KR7159910009",
@@ -12222,6 +12222,20 @@
     "LIST_SHRS": "9,539,994"
   },
   {
+    "ISU_CD": "KR7364950006",
+    "ISU_SRT_CD": "364950",
+    "ISU_NM": "에이아이코리아",
+    "ISU_ABBRV": "에이아이코리아",
+    "ISU_ENG_NM": "AI Korea Co., Ltd.",
+    "LIST_DD": "2025/04/29",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "7,931,139"
+  },
+  {
     "ISU_CD": "KR7453860009",
     "ISU_SRT_CD": "453860",
     "ISU_NM": "에이에스텍",
@@ -13129,7 +13143,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "25,358,187"
+    "LIST_SHRS": "26,199,350"
   },
   {
     "ISU_CD": "KR7373200005",
@@ -14361,7 +14375,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "94,150,757"
+    "LIST_SHRS": "91,170,474"
   },
   {
     "ISU_CD": "KR7052300001",
@@ -14543,7 +14557,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,881,960"
+    "LIST_SHRS": "11,002,310"
   },
   {
     "ISU_CD": "KR7382150001",
@@ -20171,7 +20185,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "14,219,097"
+    "LIST_SHRS": "15,486,089"
   },
   {
     "ISU_CD": "KR7047770003",
@@ -21907,7 +21921,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,288,753"
+    "LIST_SHRS": "13,493,951"
   },
   {
     "ISU_CD": "KR7037070000",
@@ -22453,7 +22467,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "72,357,508"
+    "LIST_SHRS": "72,696,064"
   },
   {
     "ISU_CD": "KR7041910001",
@@ -23896,20 +23910,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "4,320,000"
-  },
-  {
-    "ISU_CD": "KR7477530000",
-    "ISU_SRT_CD": "477530",
-    "ISU_NM": "한국제14호기업인수목적",
-    "ISU_ABBRV": "한국제14호스팩",
-    "ISU_ENG_NM": "Korea No.14 Special Purpose Acquisition Co., LTD.",
-    "LIST_DD": "2024/06/19",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "4,810,000"
   },
   {
     "ISU_CD": "KR7479880007",

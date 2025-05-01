@@ -3847,7 +3847,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "30,108,433"
+    "LIST_SHRS": "30,337,558"
   },
   {
     "ISU_CD": "KR7300120003",
@@ -7710,8 +7710,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "1,000",
-    "LIST_SHRS": "100,000,000"
+    "PARVAL": "5,000",
+    "LIST_SHRS": "20,000,000"
   },
   {
     "ISU_CD": "KR7039310008",
@@ -8551,7 +8551,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "82,723,147"
+    "LIST_SHRS": "87,870,096"
   },
   {
     "ISU_CD": "KR7025320003",
@@ -8571,7 +8571,7 @@
     "ISU_CD": "KR7340810001",
     "ISU_SRT_CD": "340810",
     "ISU_NM": "시선에이아이",
-    "ISU_ABBRV": "시선에이아이",
+    "ISU_ABBRV": "시선AI",
     "ISU_ENG_NM": "SECERN AI",
     "LIST_DD": "2023/05/19",
     "MKT_TP_NM": "KOSDAQ",
@@ -10962,20 +10962,6 @@
     "LIST_SHRS": "26,881,360"
   },
   {
-    "ISU_CD": "KR7196300008",
-    "ISU_SRT_CD": "196300",
-    "ISU_NM": "애니젠",
-    "ISU_ABBRV": "애니젠",
-    "ISU_ENG_NM": "ANYGEN CO., LTD.",
-    "LIST_DD": "2016/12/07",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "9,293,398"
-  },
-  {
     "ISU_CD": "KR7310200001",
     "ISU_SRT_CD": "310200",
     "ISU_NM": "애니플러스",
@@ -11309,7 +11295,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,174,904"
+    "LIST_SHRS": "6,333,904"
   },
   {
     "ISU_CD": "KR7019550003",
@@ -12443,7 +12429,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "121,895,688"
+    "LIST_SHRS": "121,896,409"
   },
   {
     "ISU_CD": "KR7187420005",
@@ -12500,6 +12486,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "43,657,588"
+  },
+  {
+    "ISU_CD": "KR7196300008",
+    "ISU_SRT_CD": "196300",
+    "ISU_NM": "에이치엘비펩",
+    "ISU_ABBRV": "HLB펩",
+    "ISU_ENG_NM": "HLB Pep",
+    "LIST_DD": "2016/12/07",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "관리종목(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "9,293,398"
   },
   {
     "ISU_CD": "KR7239610009",
@@ -12583,7 +12583,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,962,039"
+    "LIST_SHRS": "7,012,237"
   },
   {
     "ISU_CD": "KR7044780005",
@@ -14053,7 +14053,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "77,382,443"
+    "LIST_SHRS": "77,386,914"
   },
   {
     "ISU_CD": "KR7060850005",
@@ -14165,7 +14165,7 @@
     "SECT_TP_NM": "외국기업(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "무액면",
-    "LIST_SHRS": "51,002,224"
+    "LIST_SHRS": "96,002,224"
   },
   {
     "ISU_CD": "KR7045060001",
@@ -14907,7 +14907,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,065,612"
+    "LIST_SHRS": "13,096,536"
   },
   {
     "ISU_CD": "KR7273060004",
@@ -15411,7 +15411,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "89,340,619"
+    "LIST_SHRS": "89,439,012"
   },
   {
     "ISU_CD": "KR7376980009",
@@ -19205,7 +19205,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,182,927"
+    "LIST_SHRS": "10,512,742"
   },
   {
     "ISU_CD": "KR7317530004",
@@ -19275,7 +19275,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "200",
-    "LIST_SHRS": "14,096,380"
+    "LIST_SHRS": "14,100,755"
   },
   {
     "ISU_CD": "KR7451760003",
@@ -20325,7 +20325,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "70,622,233"
+    "LIST_SHRS": "70,666,657"
   },
   {
     "ISU_CD": "KR7089890008",
@@ -21319,7 +21319,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,047,594"
+    "LIST_SHRS": "13,170,874"
   },
   {
     "ISU_CD": "KR7215480005",

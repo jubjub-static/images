@@ -2685,7 +2685,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,123,150"
+    "LIST_SHRS": "12,198,150"
   },
   {
     "ISU_CD": "KR7373160001",
@@ -3818,8 +3818,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "56,025,871"
+    "PARVAL": "2,500",
+    "LIST_SHRS": "11,205,174"
   },
   {
     "ISU_CD": "KR7232680009",
@@ -5485,7 +5485,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "20,323,140"
+    "LIST_SHRS": "20,449,100"
   },
   {
     "ISU_CD": "KR7043150002",
@@ -5863,7 +5863,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "52,173,036"
+    "LIST_SHRS": "52,193,304"
   },
   {
     "ISU_CD": "KR7365900000",
@@ -10091,7 +10091,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,864,037"
+    "LIST_SHRS": "13,523,317"
   },
   {
     "ISU_CD": "KR7214430001",
@@ -10581,7 +10581,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "15,739,748"
+    "LIST_SHRS": "16,743,763"
   },
   {
     "ISU_CD": "KR7158430009",
@@ -11757,7 +11757,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "98,424,385"
+    "LIST_SHRS": "98,425,162"
   },
   {
     "ISU_CD": "KR7398120006",
@@ -14669,7 +14669,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "39,338,196"
+    "LIST_SHRS": "39,886,785"
   },
   {
     "ISU_CD": "KR7153710009",
@@ -19961,7 +19961,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "49,103,002"
+    "LIST_SHRS": "47,603,002"
   },
   {
     "ISU_CD": "KR7035600006",
@@ -20325,7 +20325,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "70,666,657"
+    "LIST_SHRS": "71,651,308"
   },
   {
     "ISU_CD": "KR7089890008",
@@ -23005,7 +23005,7 @@
     "ISU_CD": "KR7332570001",
     "ISU_SRT_CD": "332570",
     "ISU_NM": "피에스일렉트로닉스",
-    "ISU_ABBRV": "피에스일렉트로닉스",
+    "ISU_ABBRV": "PS일렉트로닉스",
     "ISU_ENG_NM": "Pentastone Electronics",
     "LIST_DD": "2020/07/31",
     "MKT_TP_NM": "KOSDAQ",

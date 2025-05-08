@@ -921,7 +921,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,196,078"
+    "LIST_SHRS": "12,197,878"
   },
   {
     "ISU_CD": "KR7286750005",
@@ -1062,6 +1062,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "34,606,264"
+  },
+  {
+    "ISU_CD": "KR7459510004",
+    "ISU_SRT_CD": "459510",
+    "ISU_NM": "나우로보틱스",
+    "ISU_ABBRV": "나우로보틱스",
+    "ISU_ENG_NM": "NAUROBOTICS Co., Ltd.",
+    "LIST_DD": "2025/05/08",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "12,547,732"
   },
   {
     "ISU_CD": "KR7293580007",
@@ -5219,7 +5233,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "51,505,648"
+    "LIST_SHRS": "5,150,564"
   },
   {
     "ISU_CD": "KR7201490000",
@@ -10203,7 +10217,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,239,478"
+    "LIST_SHRS": "9,257,478"
   },
   {
     "ISU_CD": "KR7038880001",
@@ -10427,7 +10441,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "21,753,275"
+    "LIST_SHRS": "22,117,542"
   },
   {
     "ISU_CD": "KR7052770005",
@@ -12230,7 +12244,7 @@
     "LIST_DD": "2023/11/28",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
+    "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "5,657,215"
@@ -20717,7 +20731,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,968,599"
+    "LIST_SHRS": "14,009,155"
   },
   {
     "ISU_CD": "KR7060280005",

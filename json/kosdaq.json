@@ -39,7 +39,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "138,892,244"
+    "LIST_SHRS": "143,056,533"
   },
   {
     "ISU_CD": "KR7050120005",
@@ -4186,6 +4186,20 @@
     "LIST_SHRS": "15,296,603"
   },
   {
+    "ISU_CD": "KR7376900007",
+    "ISU_SRT_CD": "376900",
+    "ISU_NM": "로킷헬스케어",
+    "ISU_ABBRV": "로킷헬스케어",
+    "ISU_ENG_NM": "ROKIT HEALTHCARE Inc.",
+    "LIST_DD": "2025/05/12",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "9,669,449"
+  },
+  {
     "ISU_CD": "KR7328130000",
     "ISU_SRT_CD": "328130",
     "ISU_NM": "루닛",
@@ -4421,7 +4435,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,714,868"
+    "LIST_SHRS": "6,747,679"
   },
   {
     "ISU_CD": "KR7305090003",
@@ -5278,20 +5292,6 @@
     "LIST_SHRS": "22,162,300"
   },
   {
-    "ISU_CD": "KR7418470001",
-    "ISU_SRT_CD": "418470",
-    "ISU_NM": "밀리의서재",
-    "ISU_ABBRV": "밀리의서재",
-    "ISU_ENG_NM": "Millie Seojae",
-    "LIST_DD": "2023/09/27",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "8,499,289"
-  },
-  {
     "ISU_CD": "KR7206640005",
     "ISU_SRT_CD": "206640",
     "ISU_NM": "바디텍메드",
@@ -5667,7 +5667,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "17,874,408"
+    "LIST_SHRS": "19,653,767"
   },
   {
     "ISU_CD": "KR7457600005",
@@ -7081,7 +7081,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "23,979,459"
+    "LIST_SHRS": "24,144,099"
   },
   {
     "ISU_CD": "KR7038070009",
@@ -8565,7 +8565,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "87,870,096"
+    "LIST_SHRS": "87,880,814"
   },
   {
     "ISU_CD": "KR7025320003",
@@ -11480,20 +11480,6 @@
     "LIST_SHRS": "99,995,067"
   },
   {
-    "ISU_CD": "KR7060540002",
-    "ISU_SRT_CD": "060540",
-    "ISU_NM": "에스에이티",
-    "ISU_ABBRV": "에스에이티",
-    "ISU_ENG_NM": "System and Application Technologies Inc.",
-    "LIST_DD": "2006/11/28",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "26,133,306"
-  },
-  {
     "ISU_CD": "KR7351320007",
     "ISU_SRT_CD": "351320",
     "ISU_NM": "에스에이티",
@@ -11506,6 +11492,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "22,015,886"
+  },
+  {
+    "ISU_CD": "KR7060540002",
+    "ISU_SRT_CD": "060540",
+    "ISU_NM": "에스에이티",
+    "ISU_ABBRV": "에스에이티",
+    "ISU_ENG_NM": "System and Application Technologies Inc.",
+    "LIST_DD": "2006/11/28",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "중견기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "26,133,306"
   },
   {
     "ISU_CD": "KR7056190002",
@@ -15467,7 +15467,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,754,994"
+    "LIST_SHRS": "9,766,394"
   },
   {
     "ISU_CD": "KR7008370009",
@@ -16811,7 +16811,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "16,650,253"
+    "LIST_SHRS": "17,337,538"
   },
   {
     "ISU_CD": "KR7478110000",
@@ -18197,7 +18197,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "24,384,390"
+    "LIST_SHRS": "26,978,424"
   },
   {
     "ISU_CD": "KR7026040006",
@@ -20034,6 +20034,20 @@
     "LIST_SHRS": "11,568,163"
   },
   {
+    "ISU_CD": "KR7418470001",
+    "ISU_SRT_CD": "418470",
+    "ISU_NM": "케이티밀리의서재",
+    "ISU_ABBRV": "KT밀리의서재",
+    "ISU_ENG_NM": "kt millie seojae",
+    "LIST_DD": "2023/09/27",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "8,499,289"
+  },
+  {
     "ISU_CD": "KR7036030005",
     "ISU_SRT_CD": "036030",
     "ISU_NM": "케이티알파",
@@ -20112,7 +20126,7 @@
     "LIST_DD": "2002/04/25",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "5,726,444"
@@ -21666,7 +21680,7 @@
     "LIST_DD": "2019/04/29",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
+    "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "107,240,922"

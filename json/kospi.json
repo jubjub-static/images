@@ -767,7 +767,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,345,405"
+    "LIST_SHRS": "4,836,351"
   },
   {
     "ISU_CD": "KR7001940006",
@@ -851,7 +851,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "구형우선주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "3,021,620"
+    "LIST_SHRS": "3,011,199"
   },
   {
     "ISU_CD": "KR7034220004",
@@ -879,7 +879,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "157,300,993"
+    "LIST_SHRS": "157,251,165"
   },
   {
     "ISU_CD": "KR7051901007",
@@ -4256,6 +4256,20 @@
     "LIST_SHRS": "13,168,460"
   },
   {
+    "ISU_CD": "KR7015590003",
+    "ISU_SRT_CD": "015590",
+    "ISU_NM": "디케이엠이보통주",
+    "ISU_ABBRV": "DKME",
+    "ISU_ENG_NM": "DKME",
+    "LIST_DD": "1989/05/27",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "236,981,544"
+  },
+  {
     "ISU_CD": "KR7032350001",
     "ISU_SRT_CD": "032350",
     "ISU_NM": "롯데관광개발 보통주",
@@ -5541,7 +5555,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "구형우선주",
     "PARVAL": "500",
-    "LIST_SHRS": "3,192,000"
+    "LIST_SHRS": "3,099,510"
   },
   {
     "ISU_CD": "KR7000810002",
@@ -5555,7 +5569,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "47,374,837"
+    "LIST_SHRS": "46,011,155"
   },
   {
     "ISU_CD": "KR7006110001",
@@ -6857,7 +6871,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "503,445,325"
+    "LIST_SHRS": "495,842,065"
   },
   {
     "ISU_CD": "KR7404990004",
@@ -7921,7 +7935,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "37,481,555"
+    "LIST_SHRS": "37,581,555"
   },
   {
     "ISU_CD": "KR7450080007",
@@ -10035,7 +10049,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "476,976,137"
+    "LIST_SHRS": "476,989,437"
   },
   {
     "ISU_CD": "KR7035720002",
@@ -10063,7 +10077,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "134,680,121"
+    "LIST_SHRS": "134,693,503"
   },
   {
     "ISU_CD": "KR7006380000",
@@ -10176,20 +10190,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "20,690,323"
-  },
-  {
-    "ISU_CD": "KR7015590003",
-    "ISU_SRT_CD": "015590",
-    "ISU_NM": "케이아이비플러그에너지보통주",
-    "ISU_ABBRV": "KIB플러그에너지",
-    "ISU_ENG_NM": "Kib plug energy",
-    "LIST_DD": "1989/05/27",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "236,981,544"
   },
   {
     "ISU_CD": "KR7044450005",
@@ -11407,7 +11407,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "16,039,185"
+    "LIST_SHRS": "15,489,932"
   },
   {
     "ISU_CD": "KR7352820005",
@@ -12639,7 +12639,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "45,581,161"
+    "LIST_SHRS": "47,296,201"
   },
   {
     "ISU_CD": "KR7082740002",

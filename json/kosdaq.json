@@ -893,7 +893,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "13,688,147"
+    "LIST_SHRS": "13,739,531"
   },
   {
     "ISU_CD": "KR7187790001",
@@ -1523,7 +1523,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "58,507,699"
+    "LIST_SHRS": "58,717,699"
   },
   {
     "ISU_CD": "KR7217270008",
@@ -3329,7 +3329,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,707,301"
+    "LIST_SHRS": "10,747,301"
   },
   {
     "ISU_CD": "KR7263720005",
@@ -6437,7 +6437,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "46,037,579"
+    "LIST_SHRS": "46,121,066"
   },
   {
     "ISU_CD": "KR7072950009",
@@ -8019,7 +8019,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "72,850,183"
+    "LIST_SHRS": "73,759,273"
   },
   {
     "ISU_CD": "KR7290690007",
@@ -13272,20 +13272,6 @@
     "LIST_SHRS": "59,362,257"
   },
   {
-    "ISU_CD": "KR7437780000",
-    "ISU_SRT_CD": "437780",
-    "ISU_NM": "엔에이치기업인수목적24호",
-    "ISU_ABBRV": "엔에이치스팩24호",
-    "ISU_ENG_NM": "NH SPECIAL PURPOSE ACQUISITION 24 COMPANY",
-    "LIST_DD": "2022/10/20",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "5,030,000"
-  },
-  {
     "ISU_CD": "KR7438580003",
     "ISU_SRT_CD": "438580",
     "ISU_NM": "엔에이치기업인수목적25호",
@@ -13308,7 +13294,7 @@
     "LIST_DD": "2022/12/01",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "8,800,000"
@@ -14165,7 +14151,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,505,950"
+    "LIST_SHRS": "6,540,975"
   },
   {
     "ISU_CD": "HK0000312568",
@@ -14683,7 +14669,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "46,783,334"
+    "LIST_SHRS": "47,215,834"
   },
   {
     "ISU_CD": "KR7153710009",
@@ -15284,8 +15270,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "36,959,013"
+    "PARVAL": "500",
+    "LIST_SHRS": "7,391,802"
   },
   {
     "ISU_CD": "KR7032940009",
@@ -16360,7 +16346,7 @@
     "LIST_DD": "2022/12/01",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "3,460,000"
@@ -16881,7 +16867,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,626,292"
+    "LIST_SHRS": "11,646,892"
   },
   {
     "ISU_CD": "HK0000057197",
@@ -19163,7 +19149,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "21,118,374"
+    "LIST_SHRS": "21,157,474"
   },
   {
     "ISU_CD": "KR7016920001",
@@ -21767,7 +21753,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "26,712,231"
+    "LIST_SHRS": "26,731,278"
   },
   {
     "ISU_CD": "KR7425040003",
@@ -23504,20 +23490,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "4,520,000"
-  },
-  {
-    "ISU_CD": "KR7435620000",
-    "ISU_SRT_CD": "435620",
-    "ISU_NM": "하나금융25호기업인수목적",
-    "ISU_ABBRV": "하나금융25호스팩",
-    "ISU_ENG_NM": "Hana Financial Twenty-five SPAC",
-    "LIST_DD": "2022/10/20",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "4,302,000"
   },
   {
     "ISU_CD": "KR7299030007",

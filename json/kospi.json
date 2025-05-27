@@ -6619,7 +6619,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "200",
-    "LIST_SHRS": "58,484,720"
+    "LIST_SHRS": "58,781,720"
   },
   {
     "ISU_CD": "KR7016590002",
@@ -10022,20 +10022,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
     "LIST_SHRS": "1,429,220"
-  },
-  {
-    "ISU_CD": "KR7012600003",
-    "ISU_SRT_CD": "012600",
-    "ISU_NM": "청호ICT보통주",
-    "ISU_ABBRV": "청호ICT",
-    "ISU_ENG_NM": "CHUNGHO ICT",
-    "LIST_DD": "1990/07/10",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "46,634,517"
   },
   {
     "ISU_CD": "KR7033250002",

@@ -2713,7 +2713,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,198,150"
+    "LIST_SHRS": "12,203,150"
   },
   {
     "ISU_CD": "KR7373160001",
@@ -5454,7 +5454,7 @@
     "LIST_DD": "2007/09/21",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "15,958,247"
@@ -8551,7 +8551,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "88,098,748"
+    "LIST_SHRS": "88,099,819"
   },
   {
     "ISU_CD": "KR7025320003",
@@ -10217,7 +10217,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "27,653,173"
+    "LIST_SHRS": "28,462,625"
   },
   {
     "ISU_CD": "KR7101390003",
@@ -13787,7 +13787,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,927,212"
+    "LIST_SHRS": "9,981,755"
   },
   {
     "ISU_CD": "KR7476080007",
@@ -16262,7 +16262,7 @@
     "LIST_DD": "2022/03/18",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "11,483,026"

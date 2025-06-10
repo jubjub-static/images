@@ -893,7 +893,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "14,395,007"
+    "LIST_SHRS": "14,643,597"
   },
   {
     "ISU_CD": "KR7187790001",
@@ -1103,7 +1103,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,032,369"
+    "LIST_SHRS": "11,241,228"
   },
   {
     "ISU_CD": "KR7130580004",
@@ -4366,6 +4366,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "63,323,377"
+  },
+  {
+    "ISU_CD": "KR7474650009",
+    "ISU_SRT_CD": "474650",
+    "ISU_NM": "링크솔루션",
+    "ISU_ABBRV": "링크솔루션",
+    "ISU_ENG_NM": "LINCSOLUTION CO., LTD.",
+    "LIST_DD": "2025/06/10",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "5,579,032"
   },
   {
     "ISU_CD": "KR7219420007",
@@ -12457,7 +12471,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "44,491,969"
+    "LIST_SHRS": "44,549,275"
   },
   {
     "ISU_CD": "KR7196300008",
@@ -15114,7 +15128,7 @@
     "LIST_DD": "2009/04/28",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "13,500,000"
@@ -18967,7 +18981,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,001,226"
+    "LIST_SHRS": "13,039,379"
   },
   {
     "ISU_CD": "KR7285800009",
@@ -20815,7 +20829,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "16,148,980"
+    "LIST_SHRS": "16,149,280"
   },
   {
     "ISU_CD": "KR7182360008",

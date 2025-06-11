@@ -1957,7 +1957,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,147,948"
+    "LIST_SHRS": "9,179,743"
   },
   {
     "ISU_CD": "KR7020400008",
@@ -4435,7 +4435,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,971,073"
+    "LIST_SHRS": "7,025,027"
   },
   {
     "ISU_CD": "KR7305090003",
@@ -10805,7 +10805,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "12,924,863"
+    "LIST_SHRS": "13,344,122"
   },
   {
     "ISU_CD": "KR7218410009",
@@ -13270,20 +13270,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "59,362,257"
-  },
-  {
-    "ISU_CD": "KR7438580003",
-    "ISU_SRT_CD": "438580",
-    "ISU_NM": "엔에이치기업인수목적25호",
-    "ISU_ABBRV": "엔에이치스팩25호",
-    "ISU_ENG_NM": "NH SPECIAL PURPOSE ACQUISITION 25 COMPANY",
-    "LIST_DD": "2022/11/03",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "3,020,000"
   },
   {
     "ISU_CD": "KR7439410002",
@@ -18746,6 +18732,20 @@
     "LIST_SHRS": "15,800,344"
   },
   {
+    "ISU_CD": "KR7340450006",
+    "ISU_SRT_CD": "340450",
+    "ISU_NM": "지씨지놈",
+    "ISU_ABBRV": "지씨지놈",
+    "ISU_ENG_NM": "GC Genome Corporation",
+    "LIST_DD": "2025/06/11",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "23,650,793"
+  },
+  {
     "ISU_CD": "KR7358570000",
     "ISU_SRT_CD": "358570",
     "ISU_NM": "지아이이노베이션",
@@ -19807,7 +19807,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "10,867,713"
+    "LIST_SHRS": "10,872,713"
   },
   {
     "ISU_CD": "KR7432470003",
@@ -24833,7 +24833,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "31,541,686"
+    "LIST_SHRS": "42,313,608"
   },
   {
     "ISU_CD": "KR7060560000",

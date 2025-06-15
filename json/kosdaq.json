@@ -3100,7 +3100,7 @@
     "ISU_ABBRV": "동화기업",
     "ISU_ENG_NM": "DONGWHA ENTERPRISE CO., LTD.",
     "LIST_DD": "1995/08/07",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -8033,7 +8033,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "48,498,743"
+    "LIST_SHRS": "48,740,317"
   },
   {
     "ISU_CD": "KR8840150005",
@@ -8140,7 +8140,7 @@
     "ISU_ABBRV": "솔브레인",
     "ISU_ENG_NM": "Soulbrain Co., Ltd.",
     "LIST_DD": "2020/08/06",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -9316,7 +9316,7 @@
     "ISU_ABBRV": "씨아이에스",
     "ISU_ENG_NM": "Creative & Innovative System Corporation",
     "LIST_DD": "2015/09/02",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -10184,7 +10184,7 @@
     "ISU_ABBRV": "ISC",
     "ISU_ENG_NM": "ISC Co., LTD.",
     "LIST_DD": "2007/10/01",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -11584,7 +11584,7 @@
     "ISU_ABBRV": "에스엠",
     "ISU_ENG_NM": "SM ENTERTAINMENT CO., Ltd.",
     "LIST_DD": "2000/04/27",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -12914,7 +12914,7 @@
     "ISU_ABBRV": "에코프로",
     "ISU_ENG_NM": "ECOPRO CO., LTD",
     "LIST_DD": "2007/07/20",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -12942,7 +12942,7 @@
     "ISU_ABBRV": "에코프로에이치엔",
     "ISU_ENG_NM": "ECOPRO HN CO., LTD",
     "LIST_DD": "2021/05/28",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -13362,7 +13362,7 @@
     "ISU_ABBRV": "NHN KCP",
     "ISU_ENG_NM": "NHN KCP",
     "LIST_DD": "2002/01/08",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -13521,7 +13521,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "103,575,530"
+    "LIST_SHRS": "172,541,047"
   },
   {
     "ISU_CD": "KR7291230001",
@@ -14930,7 +14930,7 @@
     "ISU_ABBRV": "와이지엔터테인먼트",
     "ISU_ENG_NM": "YG Entertainment Inc.",
     "LIST_DD": "2011/11/23",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -14977,7 +14977,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "164,677,432"
+    "LIST_SHRS": "165,530,656"
   },
   {
     "ISU_CD": "KR7041190000",
@@ -17049,7 +17049,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "34,692,105"
+    "LIST_SHRS": "35,079,105"
   },
   {
     "ISU_CD": "KR7245620000",
@@ -18085,7 +18085,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "74,434,929"
+    "LIST_SHRS": "81,378,321"
   },
   {
     "ISU_CD": "KR7090470006",
@@ -22182,7 +22182,7 @@
     "ISU_ABBRV": "파크시스템스",
     "ISU_ENG_NM": "Park Systems Corp.",
     "LIST_DD": "2015/12/17",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -22411,7 +22411,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,112,735"
+    "LIST_SHRS": "11,169,735"
   },
   {
     "ISU_CD": "KR7105760003",
@@ -24086,7 +24086,7 @@
     "ISU_ABBRV": "한글과컴퓨터",
     "ISU_ENG_NM": "HANCOM INC.",
     "LIST_DD": "1996/09/24",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -25094,7 +25094,7 @@
     "ISU_ABBRV": "휴온스",
     "ISU_ENG_NM": "Huons Co., Ltd.",
     "LIST_DD": "2016/06/03",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",

@@ -697,7 +697,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "20,147,430"
+    "LIST_SHRS": "19,450,832"
   },
   {
     "ISU_CD": "KR7402490007",
@@ -6182,7 +6182,7 @@
     "LIST_DD": "2022/12/22",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "4,310,000"
@@ -8509,7 +8509,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "38,500,917"
+    "LIST_SHRS": "39,049,610"
   },
   {
     "ISU_CD": "KR7049830003",
@@ -9657,7 +9657,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "38,198,021"
+    "LIST_SHRS": "36,436,626"
   },
   {
     "ISU_CD": "KR7013990007",
@@ -14137,7 +14137,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,540,975"
+    "LIST_SHRS": "6,546,309"
   },
   {
     "ISU_CD": "HK0000312568",
@@ -15887,7 +15887,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "170,462,412"
+    "LIST_SHRS": "170,505,939"
   },
   {
     "ISU_CD": "KR7203450002",
@@ -17525,7 +17525,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "14,829,094"
+    "LIST_SHRS": "14,847,600"
   },
   {
     "ISU_CD": "KR7150840007",
@@ -20510,20 +20510,6 @@
     "LIST_SHRS": "12,841,064"
   },
   {
-    "ISU_CD": "KR7029960002",
-    "ISU_SRT_CD": "029960",
-    "ISU_NM": "코엔텍",
-    "ISU_ABBRV": "코엔텍",
-    "ISU_ENG_NM": "Korea Environment Technology Co., LTD.",
-    "LIST_DD": "2004/06/18",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "48,580,720"
-  },
-  {
     "ISU_CD": "KR7102940004",
     "ISU_SRT_CD": "102940",
     "ISU_NM": "코오롱생명과학",
@@ -20661,7 +20647,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "16,527,174"
+    "LIST_SHRS": "16,774,057"
   },
   {
     "ISU_CD": "KR7322780008",

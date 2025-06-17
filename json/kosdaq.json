@@ -6650,20 +6650,6 @@
     "LIST_SHRS": "4,664,000"
   },
   {
-    "ISU_CD": "KR7468510003",
-    "ISU_SRT_CD": "468510",
-    "ISU_NM": "삼성기업인수목적9호",
-    "ISU_ABBRV": "삼성스팩9호",
-    "ISU_ENG_NM": "SAMSUNG SPECIAL PURPOSE ACQUISITION 9 COMPANY",
-    "LIST_DD": "2023/12/04",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "11,050,000"
-  },
-  {
     "ISU_CD": "KR7009300005",
     "ISU_SRT_CD": "009300",
     "ISU_NM": "삼아제약",
@@ -6983,7 +6969,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "14,244,718"
+    "LIST_SHRS": "15,924,825"
   },
   {
     "ISU_CD": "KR7089980007",
@@ -10774,7 +10760,7 @@
     "LIST_DD": "2019/12/24",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "8,433,231"
@@ -11295,7 +11281,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "53,948,282"
+    "LIST_SHRS": "54,023,469"
   },
   {
     "ISU_CD": "KR7389500000",
@@ -19978,6 +19964,20 @@
     "LIST_SHRS": "38,010,802"
   },
   {
+    "ISU_CD": "KR7455180000",
+    "ISU_SRT_CD": "455180",
+    "ISU_NM": "케이지에이",
+    "ISU_ABBRV": "케이지에이",
+    "ISU_ENG_NM": "KGA CO., LTD",
+    "LIST_DD": "2025/06/17",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "12,094,172"
+  },
+  {
     "ISU_CD": "KR7151860004",
     "ISU_SRT_CD": "151860",
     "ISU_NM": "케이지에코솔루션",
@@ -21753,7 +21753,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "26,731,278"
+    "LIST_SHRS": "26,988,419"
   },
   {
     "ISU_CD": "KR7425040003",

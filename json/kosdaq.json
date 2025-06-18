@@ -4729,7 +4729,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "152,184,408"
+    "LIST_SHRS": "192,184,408"
   },
   {
     "ISU_CD": "KR7140410002",
@@ -5289,7 +5289,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "22,162,300"
+    "LIST_SHRS": "22,319,800"
   },
   {
     "ISU_CD": "KR7206640005",
@@ -8089,7 +8089,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "54,090,043"
+    "LIST_SHRS": "55,514,544"
   },
   {
     "ISU_CD": "KR7215090002",
@@ -8579,7 +8579,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,692,194"
+    "LIST_SHRS": "11,541,174"
   },
   {
     "ISU_CD": "KR7269620001",
@@ -9251,7 +9251,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,608,430"
+    "LIST_SHRS": "11,684,814"
   },
   {
     "ISU_CD": "KR7013720008",
@@ -11421,7 +11421,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "22,603,379"
+    "LIST_SHRS": "22,902,821"
   },
   {
     "ISU_CD": "KR7275630002",
@@ -14543,7 +14543,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,896,437"
+    "LIST_SHRS": "11,947,937"
   },
   {
     "ISU_CD": "KR7244460002",
@@ -15594,20 +15594,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "200",
     "LIST_SHRS": "6,851,000"
-  },
-  {
-    "ISU_CD": "KR7071460000",
-    "ISU_SRT_CD": "071460",
-    "ISU_NM": "위니아",
-    "ISU_ABBRV": "위니아",
-    "ISU_ENG_NM": "WINIA",
-    "LIST_DD": "2016/07/14",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "35,967,295"
   },
   {
     "ISU_CD": "KR7377460001",
@@ -16825,7 +16811,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "36,937,258"
+    "LIST_SHRS": "36,987,919"
   },
   {
     "ISU_CD": "KR7047560008",
@@ -17890,20 +17876,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "45,540,494"
-  },
-  {
-    "ISU_CD": "KR7072520000",
-    "ISU_SRT_CD": "072520",
-    "ISU_NM": "제넨바이오",
-    "ISU_ABBRV": "제넨바이오",
-    "ISU_ENG_NM": "GenNBio Inc.",
-    "LIST_DD": "2004/10/29",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "74,163,194"
   },
   {
     "ISU_CD": "KR7122310006",
@@ -21801,7 +21773,7 @@
     "ISU_CD": "KR7022220008",
     "ISU_SRT_CD": "022220",
     "ISU_NM": "티케이지애강",
-    "ISU_ABBRV": "TKG애강",
+    "ISU_ABBRV": "티케이지애강",
     "ISU_ENG_NM": "TKG AIKANG",
     "LIST_DD": "2006/04/11",
     "MKT_TP_NM": "KOSDAQ",
@@ -22411,7 +22383,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,641,010"
+    "LIST_SHRS": "9,655,845"
   },
   {
     "ISU_CD": "KR7189690001",
@@ -22705,7 +22677,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "16,769,188"
+    "LIST_SHRS": "17,039,188"
   },
   {
     "ISU_CD": "KR7151910007",

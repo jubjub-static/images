@@ -3427,7 +3427,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "15,515,138"
+    "LIST_SHRS": "15,824,249"
   },
   {
     "ISU_CD": "KR7025440009",
@@ -5289,7 +5289,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "5,587,025"
+    "LIST_SHRS": "5,605,650"
   },
   {
     "ISU_CD": "KR7452200009",
@@ -9839,7 +9839,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "36,654,642"
+    "LIST_SHRS": "36,694,642"
   },
   {
     "ISU_CD": "KR7067390005",
@@ -9938,6 +9938,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "13,273,726"
+  },
+  {
+    "ISU_CD": "KR7066430000",
+    "ISU_SRT_CD": "066430",
+    "ISU_NM": "아이로보틱스",
+    "ISU_ABBRV": "아이로보틱스",
+    "ISU_ENG_NM": "I-ROBOTICS",
+    "LIST_DD": "2002/12/24",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "중견기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "39,153,476"
   },
   {
     "ISU_CD": "KR7339950008",
@@ -11715,7 +11729,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "65,717,223"
+    "LIST_SHRS": "77,823,760"
   },
   {
     "ISU_CD": "KR7040610008",
@@ -13395,7 +13409,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "19,818,734"
+    "LIST_SHRS": "20,352,350"
   },
   {
     "ISU_CD": "KR7455900001",
@@ -14810,20 +14824,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "16,314,464"
-  },
-  {
-    "ISU_CD": "KR7066430000",
-    "ISU_SRT_CD": "066430",
-    "ISU_NM": "와이오엠",
-    "ISU_ABBRV": "와이오엠",
-    "ISU_ENG_NM": "Y-OPTICS MANUFACTURE Co., Ltd.",
-    "LIST_DD": "2002/12/24",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "39,153,476"
   },
   {
     "ISU_CD": "KR7209640002",
@@ -16783,7 +16783,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "36,987,919"
+    "LIST_SHRS": "36,988,669"
   },
   {
     "ISU_CD": "KR7047560008",
@@ -18015,7 +18015,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "81,378,321"
+    "LIST_SHRS": "81,755,679"
   },
   {
     "ISU_CD": "KR7090470006",
@@ -18758,6 +18758,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "14,545,052"
+  },
+  {
+    "ISU_CD": "KR7388610008",
+    "ISU_SRT_CD": "388610",
+    "ISU_NM": "지에프씨생명과학",
+    "ISU_ABBRV": "지에프씨생명과학",
+    "ISU_ENG_NM": "GFC Life Science Co., Ltd.",
+    "LIST_DD": "2025/06/30",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "5,225,709"
   },
   {
     "ISU_CD": "KR7119850006",
@@ -21711,7 +21725,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "26,988,419"
+    "LIST_SHRS": "27,027,919"
   },
   {
     "ISU_CD": "KR7425040003",

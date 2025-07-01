@@ -8509,7 +8509,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "39,203,883"
+    "LIST_SHRS": "39,228,419"
   },
   {
     "ISU_CD": "KR7049830003",
@@ -8593,7 +8593,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,541,174"
+    "LIST_SHRS": "12,357,844"
   },
   {
     "ISU_CD": "KR7269620001",
@@ -11001,7 +11001,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,359,544"
+    "LIST_SHRS": "11,656,309"
   },
   {
     "ISU_CD": "USU652221081",
@@ -18015,7 +18015,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "81,755,679"
+    "LIST_SHRS": "82,133,037"
   },
   {
     "ISU_CD": "KR7090470006",
@@ -23018,9 +23018,9 @@
   {
     "ISU_CD": "KR7460940000",
     "ISU_SRT_CD": "460940",
-    "ISU_NM": "피앤에스미캐닉스",
-    "ISU_ABBRV": "피앤에스미캐닉스",
-    "ISU_ENG_NM": "P&S Mechanics Co., Ltd.",
+    "ISU_NM": "피앤에스로보틱스",
+    "ISU_ABBRV": "피앤에스로보틱스",
+    "ISU_ENG_NM": "P&S Robotics",
     "LIST_DD": "2024/07/31",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
@@ -24539,7 +24539,7 @@
     "SECT_TP_NM": "외국기업(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "무액면",
-    "LIST_SHRS": "176,282,336"
+    "LIST_SHRS": "188,047,040"
   },
   {
     "ISU_CD": "KR7214180002",

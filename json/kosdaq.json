@@ -4463,7 +4463,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "7,080,406"
+    "LIST_SHRS": "7,091,768"
   },
   {
     "ISU_CD": "KR7305090003",
@@ -4799,7 +4799,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,260,279"
+    "LIST_SHRS": "27,510,279"
   },
   {
     "ISU_CD": "KR7058110008",
@@ -13227,7 +13227,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "8,521,750"
+    "LIST_SHRS": "8,531,750"
   },
   {
     "ISU_CD": "KR7067570002",
@@ -13298,20 +13298,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "59,362,257"
-  },
-  {
-    "ISU_CD": "KR7439410002",
-    "ISU_SRT_CD": "439410",
-    "ISU_NM": "엔에이치기업인수목적26호",
-    "ISU_ABBRV": "엔에이치스팩26호",
-    "ISU_ENG_NM": "NH SPECIAL PURPOSE ACQUISITION 26 COMPANY",
-    "LIST_DD": "2022/12/01",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "8,800,000"
   },
   {
     "ISU_CD": "KR7440820009",
@@ -16377,7 +16363,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "18,869,876"
+    "LIST_SHRS": "18,936,481"
   },
   {
     "ISU_CD": "KR7263050007",
@@ -16895,7 +16881,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,901,055"
+    "LIST_SHRS": "10,901,805"
   },
   {
     "ISU_CD": "KR7102710001",
@@ -18127,7 +18113,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "26,978,424"
+    "LIST_SHRS": "27,065,836"
   },
   {
     "ISU_CD": "KR7026040006",
@@ -20269,7 +20255,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "45,932,005"
+    "LIST_SHRS": "55,350,514"
   },
   {
     "ISU_CD": "KR7104540000",
@@ -22033,7 +22019,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "21,878,974"
+    "LIST_SHRS": "21,944,248"
   },
   {
     "ISU_CD": "KR7047310008",

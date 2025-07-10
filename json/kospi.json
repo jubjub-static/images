@@ -3038,6 +3038,20 @@
     "LIST_SHRS": "16,089,459"
   },
   {
+    "ISU_CD": "KR70030R0007",
+    "ISU_SRT_CD": "0030R0",
+    "ISU_NM": "대신밸류리츠위탁관리부동산투자회사보통주",
+    "ISU_ABBRV": "대신밸류리츠",
+    "ISU_ENG_NM": "Daishin Value REIT",
+    "LIST_DD": "2025/07/10",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "부동산투자회사",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "59,780,000"
+  },
+  {
     "ISU_CD": "KR7003541000",
     "ISU_SRT_CD": "003545",
     "ISU_NM": "대신증권1우선주",

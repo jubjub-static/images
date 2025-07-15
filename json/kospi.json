@@ -2293,7 +2293,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "213,914,131"
+    "LIST_SHRS": "217,952,589"
   },
   {
     "ISU_CD": "KR7001210004",
@@ -3455,7 +3455,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "67,834,027"
+    "LIST_SHRS": "68,831,035"
   },
   {
     "ISU_CD": "KR7475560009",
@@ -7039,7 +7039,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "165,580,502"
+    "LIST_SHRS": "165,580,680"
   },
   {
     "ISU_CD": "KR7097951008",
@@ -8397,7 +8397,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "67,522,221"
+    "LIST_SHRS": "68,297,413"
   },
   {
     "ISU_CD": "KR7037270006",
@@ -10091,7 +10091,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "134,696,682"
+    "LIST_SHRS": "134,991,788"
   },
   {
     "ISU_CD": "KR7006380000",
@@ -12079,7 +12079,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "30,106,502"
+    "LIST_SHRS": "44,806,502"
   },
   {
     "ISU_CD": "KR7016450009",
@@ -12472,20 +12472,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "200",
     "LIST_SHRS": "27,674,406"
-  },
-  {
-    "ISU_CD": "KR7000881003",
-    "ISU_SRT_CD": "000885",
-    "ISU_NM": "한화1우선주",
-    "ISU_ABBRV": "한화우",
-    "ISU_ENG_NM": "Hanwha(1P)",
-    "LIST_DD": "1990/01/22",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "구형우선주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "199,033"
   },
   {
     "ISU_CD": "KR700088K015",

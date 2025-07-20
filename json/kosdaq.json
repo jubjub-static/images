@@ -1131,7 +1131,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "54,748,746"
+    "LIST_SHRS": "55,568,913"
   },
   {
     "ISU_CD": "KR7111710000",
@@ -1551,7 +1551,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,889,322"
+    "LIST_SHRS": "10,981,322"
   },
   {
     "ISU_CD": "KR7194700001",
@@ -2433,7 +2433,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "109,511,166"
+    "LIST_SHRS": "110,567,131"
   },
   {
     "ISU_CD": "KR7054670005",
@@ -2587,7 +2587,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "34,254,563"
+    "LIST_SHRS": "34,388,251"
   },
   {
     "ISU_CD": "KR7089230007",
@@ -2601,7 +2601,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "24,332,953"
+    "LIST_SHRS": "24,382,953"
   },
   {
     "ISU_CD": "KR7462860008",
@@ -4967,7 +4967,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "38,077,511"
+    "LIST_SHRS": "38,899,991"
   },
   {
     "ISU_CD": "KR7033200007",
@@ -5653,7 +5653,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "86,444,648"
+    "LIST_SHRS": "124,052,144"
   },
   {
     "ISU_CD": "KR7382900009",
@@ -5738,20 +5738,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "19,665,002"
-  },
-  {
-    "ISU_CD": "KR7225530005",
-    "ISU_SRT_CD": "225530",
-    "ISU_NM": "보광산업",
-    "ISU_ABBRV": "보광산업",
-    "ISU_ENG_NM": "BoKwang Industry Co.,Ltd",
-    "LIST_DD": "2015/12/17",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "우량기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "36,338,727"
   },
   {
     "ISU_CD": "KR7250000007",
@@ -8775,7 +8761,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "3,877,972"
+    "LIST_SHRS": "3,727,122"
   },
   {
     "ISU_CD": "KR7002800001",
@@ -12362,6 +12348,34 @@
     "LIST_SHRS": "7,365,316"
   },
   {
+    "ISU_CD": "KR7225530005",
+    "ISU_SRT_CD": "225530",
+    "ISU_NM": "에이치씨보광산업",
+    "ISU_ABBRV": "에이치씨보광산업",
+    "ISU_ENG_NM": "HC BoKwang Industry",
+    "LIST_DD": "2015/12/17",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "우량기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "36,338,727"
+  },
+  {
+    "ISU_CD": "KR7060560000",
+    "ISU_SRT_CD": "060560",
+    "ISU_NM": "에이치씨홈센타",
+    "ISU_ABBRV": "에이치씨홈센타",
+    "ISU_ENG_NM": "HC HomeCenter",
+    "LIST_DD": "2002/07/11",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "중견기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "127,669,525"
+  },
+  {
     "ISU_CD": "KR7036640001",
     "ISU_SRT_CD": "036640",
     "ISU_NM": "에이치알에스",
@@ -12401,7 +12415,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "131,430,465"
+    "LIST_SHRS": "131,431,361"
   },
   {
     "ISU_CD": "KR7278650007",
@@ -13493,7 +13507,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "21,265,303"
+    "LIST_SHRS": "21,725,019"
   },
   {
     "ISU_CD": "KR7069410009",
@@ -15072,7 +15086,7 @@
     "LIST_DD": "2009/04/28",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
+    "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "13,500,000"
@@ -20325,7 +20339,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "72,573,094"
+    "LIST_SHRS": "72,575,759"
   },
   {
     "ISU_CD": "KR7089890008",
@@ -21711,7 +21725,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,027,919"
+    "LIST_SHRS": "27,104,109"
   },
   {
     "ISU_CD": "KR7425040003",
@@ -21963,7 +21977,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,685,422"
+    "LIST_SHRS": "11,697,922"
   },
   {
     "ISU_CD": "KR7037030004",
@@ -22901,7 +22915,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "65,310,042"
+    "LIST_SHRS": "65,710,042"
   },
   {
     "ISU_CD": "KR7300080009",
@@ -22915,7 +22929,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "5,501,817"
+    "LIST_SHRS": "16,505,451"
   },
   {
     "ISU_CD": "KR7033790007",
@@ -24707,7 +24721,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "35,425,271"
+    "LIST_SHRS": "35,479,871"
   },
   {
     "ISU_CD": "KR7092300003",
@@ -24764,20 +24778,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "42,313,608"
-  },
-  {
-    "ISU_CD": "KR7060560000",
-    "ISU_SRT_CD": "060560",
-    "ISU_NM": "홈센타홀딩스",
-    "ISU_ABBRV": "홈센타홀딩스",
-    "ISU_ENG_NM": "Home Center Holdings Co.,Ltd",
-    "LIST_DD": "2002/07/11",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "127,669,525"
   },
   {
     "ISU_CD": "KR7064240005",

@@ -610,7 +610,7 @@
     "LIST_DD": "2004/10/22",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "1,127,405,871"
@@ -1131,7 +1131,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "55,568,913"
+    "LIST_SHRS": "55,805,060"
   },
   {
     "ISU_CD": "KR7111710000",
@@ -8341,7 +8341,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "34,047,953"
+    "LIST_SHRS": "34,235,822"
   },
   {
     "ISU_CD": "KR7276040003",
@@ -11757,7 +11757,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "98,669,928"
+    "LIST_SHRS": "98,675,394"
   },
   {
     "ISU_CD": "KR7398120006",
@@ -13298,20 +13298,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "59,362,257"
-  },
-  {
-    "ISU_CD": "KR7440820009",
-    "ISU_SRT_CD": "440820",
-    "ISU_NM": "엔에이치기업인수목적27호",
-    "ISU_ABBRV": "엔에이치스팩27호",
-    "ISU_ENG_NM": "NH SPECIAL PURPOSE ACQUISITION 27 COMPANY",
-    "LIST_DD": "2022/12/16",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "7,800,000"
   },
   {
     "ISU_CD": "KR7451700009",
@@ -19093,7 +19079,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "21,157,474"
+    "LIST_SHRS": "21,202,274"
   },
   {
     "ISU_CD": "KR7016920001",
@@ -20171,7 +20157,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,467,288"
+    "LIST_SHRS": "11,471,888"
   },
   {
     "ISU_CD": "KR7391710001",

@@ -2786,6 +2786,20 @@
     "LIST_SHRS": "15,809,700"
   },
   {
+    "ISU_CD": "KR7484120001",
+    "ISU_SRT_CD": "484120",
+    "ISU_NM": "도우인시스",
+    "ISU_ABBRV": "도우인시스",
+    "ISU_ENG_NM": "DOWOOINSYS CO., LTD.",
+    "LIST_DD": "2025/07/23",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "중견기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "10,757,022"
+  },
+  {
     "ISU_CD": "KR7067990002",
     "ISU_SRT_CD": "067990",
     "ISU_NM": "도이치모터스",

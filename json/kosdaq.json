@@ -126,20 +126,6 @@
     "LIST_SHRS": "34,147,728"
   },
   {
-    "ISU_CD": "KR8392070007",
-    "ISU_SRT_CD": "950110",
-    "ISU_NM": "SBI핀테크솔루션즈",
-    "ISU_ABBRV": "SBI핀테크솔루션즈",
-    "ISU_ENG_NM": "SBI FinTech Solutions Co., Ltd.",
-    "LIST_DD": "2012/12/17",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주식예탁증권",
-    "SECT_TP_NM": "외국기업(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "무액면",
-    "LIST_SHRS": "24,052,540"
-  },
-  {
     "ISU_CD": "KR7079940003",
     "ISU_SRT_CD": "079940",
     "ISU_NM": "가비아",
@@ -1411,7 +1397,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "2,500",
-    "LIST_SHRS": "13,725,680"
+    "LIST_SHRS": "13,857,306"
   },
   {
     "ISU_CD": "KR7389650003",
@@ -1747,7 +1733,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,337,587"
+    "LIST_SHRS": "11,349,087"
   },
   {
     "ISU_CD": "KR7060260007",
@@ -12379,7 +12365,7 @@
     "ISU_CD": "KR7225530005",
     "ISU_SRT_CD": "225530",
     "ISU_NM": "에이치씨보광산업",
-    "ISU_ABBRV": "에이치씨보광산업",
+    "ISU_ABBRV": "HC보광산업",
     "ISU_ENG_NM": "HC BoKwang Industry",
     "LIST_DD": "2015/12/17",
     "MKT_TP_NM": "KOSDAQ",
@@ -12393,7 +12379,7 @@
     "ISU_CD": "KR7060560000",
     "ISU_SRT_CD": "060560",
     "ISU_NM": "에이치씨홈센타",
-    "ISU_ABBRV": "에이치씨홈센타",
+    "ISU_ABBRV": "HC홈센타",
     "ISU_ENG_NM": "HC HomeCenter",
     "LIST_DD": "2002/07/11",
     "MKT_TP_NM": "KOSDAQ",
@@ -14025,7 +14011,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,282,402"
+    "LIST_SHRS": "12,157,656"
   },
   {
     "ISU_CD": "KR7105550008",
@@ -14557,7 +14543,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,002,310"
+    "LIST_SHRS": "11,063,810"
   },
   {
     "ISU_CD": "KR7382150001",
@@ -18841,7 +18827,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "76,965,206"
+    "LIST_SHRS": "77,215,206"
   },
   {
     "ISU_CD": "KR7311320006",
@@ -19877,7 +19863,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "39,820,883"
+    "LIST_SHRS": "39,944,705"
   },
   {
     "ISU_CD": "KR7225430008",
@@ -24707,7 +24693,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "45,989,179"
+    "LIST_SHRS": "48,347,668"
   },
   {
     "ISU_CD": "KR7039010004",

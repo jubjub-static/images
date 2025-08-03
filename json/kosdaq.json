@@ -2433,7 +2433,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "111,582,547"
+    "LIST_SHRS": "112,090,254"
   },
   {
     "ISU_CD": "KR7054670005",
@@ -3567,7 +3567,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "125,099,829"
+    "LIST_SHRS": "125,109,157"
   },
   {
     "ISU_CD": "KR7310870001",
@@ -4715,7 +4715,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "82,878,283"
+    "LIST_SHRS": "5,527,981"
   },
   {
     "ISU_CD": "KR7086900008",
@@ -8820,20 +8820,6 @@
     "LIST_SHRS": "6,760,000"
   },
   {
-    "ISU_CD": "KR7445970007",
-    "ISU_SRT_CD": "445970",
-    "ISU_NM": "신영해피투모로우제9호기업인수목적",
-    "ISU_ABBRV": "신영스팩9호",
-    "ISU_ENG_NM": "Shinyoung HappyTomorrow No.9 Special Purpose Acquisition Company",
-    "LIST_DD": "2022/12/27",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "5,360,000"
-  },
-  {
     "ISU_CD": "KR7017000001",
     "ISU_SRT_CD": "017000",
     "ISU_NM": "신원종합개발",
@@ -9446,8 +9432,8 @@
     "SECUGRP_NM": "외국주권",
     "SECT_TP_NM": "외국기업(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "0.05",
-    "LIST_SHRS": "300,577,845"
+    "PARVAL": "0.5",
+    "LIST_SHRS": "30,057,784"
   },
   {
     "ISU_CD": "KR7359090008",
@@ -12429,7 +12415,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "131,431,361"
+    "LIST_SHRS": "131,438,096"
   },
   {
     "ISU_CD": "KR7278650007",
@@ -18407,7 +18393,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "41,406,061"
+    "LIST_SHRS": "42,284,386"
   },
   {
     "ISU_CD": "KR7044060002",
@@ -19877,7 +19863,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "39,944,705"
+    "LIST_SHRS": "40,186,333"
   },
   {
     "ISU_CD": "KR7225430008",
@@ -23041,7 +23027,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "35,826,000"
+    "LIST_SHRS": "35,878,500"
   },
   {
     "ISU_CD": "KR7237750005",

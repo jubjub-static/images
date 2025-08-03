@@ -3374,6 +3374,20 @@
     "LIST_SHRS": "1,690,000"
   },
   {
+    "ISU_CD": "KR7439260001",
+    "ISU_SRT_CD": "439260",
+    "ISU_NM": "대한조선보통주",
+    "ISU_ABBRV": "대한조선",
+    "ISU_ENG_NM": "DAEHAN SHIPBUILDING",
+    "LIST_DD": "2025/08/01",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "5,000",
+    "LIST_SHRS": "38,526,312"
+  },
+  {
     "ISU_CD": "KR7003491008",
     "ISU_SRT_CD": "003495",
     "ISU_NM": "대한항공1우선주",
@@ -3455,7 +3469,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "83,083,918"
+    "LIST_SHRS": "83,582,422"
   },
   {
     "ISU_CD": "KR7475560009",
@@ -7599,7 +7613,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "36,866,843"
+    "LIST_SHRS": "37,061,698"
   },
   {
     "ISU_CD": "KR7298690009",

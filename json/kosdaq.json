@@ -7879,7 +7879,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "11,644,079"
+    "LIST_SHRS": "11,889,282"
   },
   {
     "ISU_CD": "KR7049180003",
@@ -8369,7 +8369,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,830,335"
+    "LIST_SHRS": "21,630,335"
   },
   {
     "ISU_CD": "KR7060240009",
@@ -9027,7 +9027,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "32,005,041"
+    "LIST_SHRS": "32,028,632"
   },
   {
     "ISU_CD": "KR7036710002",
@@ -10553,7 +10553,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "120,945,406"
+    "LIST_SHRS": "121,145,406"
   },
   {
     "ISU_CD": "KR7032080004",
@@ -11118,9 +11118,9 @@
   {
     "ISU_CD": "KR7270520000",
     "ISU_SRT_CD": "270520",
-    "ISU_NM": "앱트뉴로사이언스",
-    "ISU_ABBRV": "앱트뉴로사이언스",
-    "ISU_ENG_NM": "APT Neuroscience",
+    "ISU_NM": "앱튼",
+    "ISU_ABBRV": "앱튼",
+    "ISU_ENG_NM": "APTN",
     "LIST_DD": "2017/08/22",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
@@ -13857,7 +13857,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,567,784"
+    "LIST_SHRS": "10,630,784"
   },
   {
     "ISU_CD": "KR7058970005",
@@ -14543,7 +14543,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "21,296,690"
+    "LIST_SHRS": "24,487,048"
   },
   {
     "ISU_CD": "KR7476060009",
@@ -15873,7 +15873,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "170,711,288"
+    "LIST_SHRS": "170,712,813"
   },
   {
     "ISU_CD": "KR7203450002",
@@ -16699,7 +16699,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "60,940,960"
+    "LIST_SHRS": "61,877,172"
   },
   {
     "ISU_CD": "KR7065440000",
@@ -18127,7 +18127,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,094,604"
+    "LIST_SHRS": "27,788,059"
   },
   {
     "ISU_CD": "KR7026040006",
@@ -20647,7 +20647,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "16,774,057"
+    "LIST_SHRS": "17,761,589"
   },
   {
     "ISU_CD": "KR7322780008",
@@ -24413,7 +24413,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,057,946"
+    "LIST_SHRS": "9,064,946"
   },
   {
     "ISU_CD": "KR7079170007",

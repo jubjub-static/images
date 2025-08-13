@@ -1,0 +1,189 @@
+🔍 시작일: 20250731
+🔍 종료일: 20250731
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+From github.com:jubjub-static/images
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 최신 상태로 업데이트 완료.
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error: connect ETIMEDOUT 34.227.9.67:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -60,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '34.227.9.67',
+  port: 5432
+}
+
+Node.js v23.11.0
+🔍 시작일: 20250801
+🔍 종료일: 20250801
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+From github.com:jubjub-static/images
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 최신 상태로 업데이트 완료.
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error: connect ETIMEDOUT 34.227.9.67:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -60,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '34.227.9.67',
+  port: 5432
+}
+
+Node.js v23.11.0
+🔍 시작일: 20250805
+🔍 종료일: 20250805
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+From github.com:jubjub-static/images
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 최신 상태로 업데이트 완료.
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error: connect ETIMEDOUT 34.227.9.67:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -60,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '34.227.9.67',
+  port: 5432
+}
+
+Node.js v23.11.0
+🔍 시작일: 20250806
+🔍 종료일: 20250806
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+From github.com:jubjub-static/images
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 최신 상태로 업데이트 완료.
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error: connect ETIMEDOUT 34.227.9.67:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -60,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '34.227.9.67',
+  port: 5432
+}
+
+Node.js v23.11.0
+🔍 시작일: 20250807
+🔍 종료일: 20250807
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+From github.com:jubjub-static/images
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 최신 상태로 업데이트 완료.
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error: connect ETIMEDOUT 34.227.9.67:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -60,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '34.227.9.67',
+  port: 5432
+}
+
+Node.js v23.11.0
+🔍 시작일: 20250808
+🔍 종료일: 20250808
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+From github.com:jubjub-static/images
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 최신 상태로 업데이트 완료.
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error: connect ETIMEDOUT 34.227.9.67:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -60,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '34.227.9.67',
+  port: 5432
+}
+
+Node.js v23.11.0
+🔍 시작일: 20250811
+🔍 종료일: 20250811
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+From github.com:jubjub-static/images
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 최신 상태로 업데이트 완료.
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error: connect ETIMEDOUT 34.227.9.67:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -60,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '34.227.9.67',
+  port: 5432
+}
+
+Node.js v23.11.0
+🔍 시작일: 20250812
+🔍 종료일: 20250812
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+From github.com:jubjub-static/images
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 최신 상태로 업데이트 완료.
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error: connect ETIMEDOUT 34.227.9.67:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -60,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '34.227.9.67',
+  port: 5432
+}
+
+Node.js v23.11.0
+🔍 시작일: 20250813
+🔍 종료일: 20250813
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+From github.com:jubjub-static/images
+ * branch            main       -> FETCH_HEAD
+Already up to date.
+✅ 최신 상태로 업데이트 완료.
+node:internal/process/promises:394
+    triggerUncaughtException(err, true /* fromPromise */);
+    ^
+
+Error: connect ETIMEDOUT 34.227.9.67:5432
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1636:16) {
+  errno: -60,
+  code: 'ETIMEDOUT',
+  syscall: 'connect',
+  address: '34.227.9.67',
+  port: 5432
+}
+
+Node.js v23.11.0

@@ -4358,3 +4358,9 @@ error: 커밋하거나 스태시에 넣으십시오.
 🖼️  이미지 다운로드 완료: 037440.svg
 🖼️  이미지 다운로드 완료: 238490.svg
 📂 모든 JSON 저장 및 이미지 다운로드 완료! GitHub에 업로드 시작...
+[main 23104a0] 20250814 updated.
+ 2 files changed, 4360 insertions(+)
+ create mode 100644 scripts/logs/allStockInfoNLogo-daily.log
+To github.com:jubjub-static/images.git
+   5e82516..23104a0  main -> main
+✅ GitHub에 성공적으로 업로드되었습니다.

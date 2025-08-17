@@ -8729,3 +8729,133 @@ error: please commit or stash them.
 To github.com:jubjub-static/images.git
    6767b30..4331fd6  main -> main
 ✅ GitHub에 성공적으로 업로드되었습니다.
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+❌ GitHub pull 중 오류 발생: Error: Command failed: GIT_SSH_COMMAND='ssh -i /Users/argus/.ssh/jubjub-static' git pull --rebase origin main
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at checkExecSyncError (node:child_process:882:11)
+    at execSync (node:child_process:954:15)
+    at pullFromGitHub (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:130:9)
+    at fetchAndProcessData (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:157:9)
+    at Object.<anonymous> (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:213:1)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32) {
+  status: 128,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 63817,
+  stdout: null,
+  stderr: null
+}
+📡 ETF 데이터 가져오는 중...
+✅ JSON 저장 완료 (application/json): /Users/argus/my_workspace/jubjub-static/json/etf.json
+🖼️  이미지 다운로드 완료: 495710.svg
+🖼️  이미지 다운로드 완료: 466810.svg
+🖼️  이미지 다운로드 완료: 457930.svg
+🖼️  이미지 다운로드 완료: 487750.svg
+🖼️  이미지 다운로드 완료: 445690.svg
+❌ 이미지 다운로드 실패 (https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg): Error: Failed to fetch https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg: Not Found
+    at downloadImage (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:80:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchAndProcessData (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:200:17)
+❌ 이미지 다운로드 실패 (https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg): Error: Failed to fetch https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg: Not Found
+    at downloadImage (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:80:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchAndProcessData (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:200:17)
+❌ 이미지 다운로드 실패 (https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg): Error: Failed to fetch https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg: Not Found
+    at downloadImage (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:80:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchAndProcessData (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:200:17)
+❌ 이미지 다운로드 실패 (https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg): Error: Failed to fetch https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg: Not Found
+    at downloadImage (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:80:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchAndProcessData (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:200:17)
+🖼️  이미지 다운로드 완료: 472840.svg
+🖼️  이미지 다운로드 완료: 0005G0.svg
+🖼️  이미지 다운로드 완료: 361580.svg
+🖼️  이미지 다운로드 완료: 290080.svg
+🖼️  이미지 다운로드 완료: 284980.svg
+🖼️  이미지 다운로드 완료: 252400.svg
+🖼️  이미지 다운로드 완료: 252420.svg
+🖼️  이미지 다운로드 완료: 252410.svg
+🖼️  이미지 다운로드 완료: 475720.svg
+🖼️  이미지 다운로드 완료: 148020.svg
+🖼️  이미지 다운로드 완료: 448600.svg
+🖼️  이미지 다운로드 완료: 465330.svg
+🖼️  이미지 다운로드 완료: 465350.svg
+🖼️  이미지 다운로드 완료: 422420.svg
+🖼️  이미지 다운로드 완료: 105780.svg
+🖼️  이미지 다운로드 완료: 469070.svg
+🖼️  이미지 다운로드 완료: 477080.svg
+🖼️  이미지 다운로드 완료: 290130.svg
+🖼️  이미지 다운로드 완료: 367760.svg
+🖼️  이미지 다운로드 완료: 367770.svg
+🖼️  이미지 다운로드 완료: 388280.svg
+🖼️  이미지 다운로드 완료: 427120.svg
+🖼️  이미지 다운로드 완료: 326240.svg
+🖼️  이미지 다운로드 완료: 385560.svg
+🖼️  이미지 다운로드 완료: 479520.svg
+🖼️  이미지 다운로드 완료: 270800.svg
+🖼️  이미지 다운로드 완료: 292050.svg
+🖼️  이미지 다운로드 완료: 442550.svg
+🖼️  이미지 다운로드 완료: 442560.svg
+🖼️  이미지 다운로드 완료: 442570.svg
+🖼️  이미지 다운로드 완료: 0013R0.svg
+🖼️  이미지 다운로드 완료: 234310.svg
+🖼️  이미지 다운로드 완료: 241390.svg
+🖼️  이미지 다운로드 완료: 401170.svg
+🖼️  이미지 다운로드 완료: 300640.svg
+🖼️  이미지 다운로드 완료: 266160.svg
+🖼️  이미지 다운로드 완료: 481430.svg
+🖼️  이미지 다운로드 완료: 282000.svg
+🖼️  이미지 다운로드 완료: 114100.svg
+🖼️  이미지 다운로드 완료: 451670.svg
+🖼️  이미지 다운로드 완료: 295020.svg
+🖼️  이미지 다운로드 완료: 295000.svg
+🖼️  이미지 다운로드 완료: 432600.svg
+🖼️  이미지 다운로드 완료: 397420.svg
+🖼️  이미지 다운로드 완료: 437370.svg
+🖼️  이미지 다운로드 완료: 375270.svg
+🖼️  이미지 다운로드 완료: 475380.svg
+🖼️  이미지 다운로드 완료: 476310.svg
+🖼️  이미지 다운로드 완료: 417450.svg
+🖼️  이미지 다운로드 완료: 442320.svg
+🖼️  이미지 다운로드 완료: 461490.svg
+🖼️  이미지 다운로드 완료: 459750.svg
+🖼️  이미지 다운로드 완료: 399580.svg
+🖼️  이미지 다운로드 완료: 276650.svg
+🖼️  이미지 다운로드 완료: 336160.svg
+🖼️  이미지 다운로드 완료: 326230.svg
+🖼️  이미지 다운로드 완료: 272560.svg
+🖼️  이미지 다운로드 완료: 385550.svg
+🖼️  이미지 다운로드 완료: 196230.svg
+🖼️  이미지 다운로드 완료: 0061Z0.svg
+🖼️  이미지 다운로드 완료: 315960.svg
+🖼️  이미지 다운로드 완료: 455890.svg
+🖼️  이미지 다운로드 완료: 481340.svg
+🖼️  이미지 다운로드 완료: 472870.svg
+🖼️  이미지 다운로드 완료: 472830.svg
+🖼️  이미지 다운로드 완료: 485690.svg
+🖼️  이미지 다운로드 완료: 490590.svg
+🖼️  이미지 다운로드 완료: 495940.svg
+🖼️  이미지 다운로드 완료: 0005C0.svg
+🖼️  이미지 다운로드 완료: 379780.svg
+🖼️  이미지 다운로드 완료: 453330.svg
+🖼️  이미지 다운로드 완료: 460660.svg
+🖼️  이미지 다운로드 완료: 219390.svg
+🖼️  이미지 다운로드 완료: 354240.svg
+🖼️  이미지 다운로드 완료: 368590.svg
+🖼️  이미지 다운로드 완료: 437350.svg
+🖼️  이미지 다운로드 완료: 455960.svg
+🖼️  이미지 다운로드 완료: 469530.svg
+🖼️  이미지 다운로드 완료: 469060.svg
+🖼️  이미지 다운로드 완료: 469050.svg
+🖼️  이미지 다운로드 완료: 491630.svg
+🖼️  이미지 다운로드 완료: 490600.svg
+🖼️  이미지 다운로드 완료: 0018Z0.svg
+🖼️  이미지 다운로드 완료: 0013P0.svg
+🖼️  이미지 다운로드 완료: 267490.svg
+🖼️  이미지 다운로드 완료: 267450.svg

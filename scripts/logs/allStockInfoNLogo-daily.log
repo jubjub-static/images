@@ -13094,3 +13094,70 @@ error: please commit or stash them.
 To github.com:jubjub-static/images.git
    a3ddb08..6b87a87  main -> main
 ✅ GitHub에 성공적으로 업로드되었습니다.
+🔄 GitHub에서 최신 변경 사항 가져오는 중...
+error: cannot pull with rebase: You have unstaged changes.
+error: please commit or stash them.
+❌ GitHub pull 중 오류 발생: Error: Command failed: GIT_SSH_COMMAND='ssh -i /Users/argus/.ssh/jubjub-static' git pull --rebase origin main
+    at genericNodeError (node:internal/errors:983:15)
+    at wrappedFn (node:internal/errors:537:14)
+    at checkExecSyncError (node:child_process:882:11)
+    at execSync (node:child_process:954:15)
+    at pullFromGitHub (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:130:9)
+    at fetchAndProcessData (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:157:9)
+    at Object.<anonymous> (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:213:1)
+    at Module._compile (node:internal/modules/cjs/loader:1734:14)
+    at Object..js (node:internal/modules/cjs/loader:1899:10)
+    at Module.load (node:internal/modules/cjs/loader:1469:32) {
+  status: 128,
+  signal: null,
+  output: [ null, null, null ],
+  pid: 93021,
+  stdout: null,
+  stderr: null
+}
+📡 ETF 데이터 가져오는 중...
+✅ JSON 저장 완료 (application/json): /Users/argus/my_workspace/jubjub-static/json/etf.json
+🖼️  이미지 다운로드 완료: 495710.svg
+🖼️  이미지 다운로드 완료: 466810.svg
+🖼️  이미지 다운로드 완료: 457930.svg
+🖼️  이미지 다운로드 완료: 487750.svg
+🖼️  이미지 다운로드 완료: 445690.svg
+❌ 이미지 다운로드 실패 (https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg): Error: Failed to fetch https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg: Not Found
+    at downloadImage (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:80:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchAndProcessData (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:200:17)
+❌ 이미지 다운로드 실패 (https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg): Error: Failed to fetch https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg: Not Found
+    at downloadImage (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:80:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchAndProcessData (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:200:17)
+❌ 이미지 다운로드 실패 (https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg): Error: Failed to fetch https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg: Not Found
+    at downloadImage (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:80:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchAndProcessData (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:200:17)
+❌ 이미지 다운로드 실패 (https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg): Error: Failed to fetch https://ssl.pstatic.net/imgstock/fn/real/logo/etf/StockKRETF마이티.svg: Not Found
+    at downloadImage (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:80:19)
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async fetchAndProcessData (/Users/argus/my_workspace/jubjub-static/scripts/allStockInfoNLogo-daily.js:200:17)
+🖼️  이미지 다운로드 완료: 472840.svg
+🖼️  이미지 다운로드 완료: 0005G0.svg
+🖼️  이미지 다운로드 완료: 361580.svg
+🖼️  이미지 다운로드 완료: 290080.svg
+🖼️  이미지 다운로드 완료: 284980.svg
+🖼️  이미지 다운로드 완료: 252400.svg
+🖼️  이미지 다운로드 완료: 252420.svg
+🖼️  이미지 다운로드 완료: 252410.svg
+🖼️  이미지 다운로드 완료: 475720.svg
+🖼️  이미지 다운로드 완료: 148020.svg
+🖼️  이미지 다운로드 완료: 448600.svg
+🖼️  이미지 다운로드 완료: 465330.svg
+🖼️  이미지 다운로드 완료: 465350.svg
+🖼️  이미지 다운로드 완료: 422420.svg
+🖼️  이미지 다운로드 완료: 105780.svg
+🖼️  이미지 다운로드 완료: 469070.svg
+🖼️  이미지 다운로드 완료: 477080.svg
+🖼️  이미지 다운로드 완료: 290130.svg
+🖼️  이미지 다운로드 완료: 367760.svg
+🖼️  이미지 다운로드 완료: 367770.svg
+🖼️  이미지 다운로드 완료: 388280.svg
+🖼️  이미지 다운로드 완료: 427120.svg
+🖼️  이미지 다운로드 완료: 326240.svg

@@ -39,7 +39,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "147,220,822"
+    "LIST_SHRS": "147,489,350"
   },
   {
     "ISU_CD": "KR7050120005",
@@ -3998,7 +3998,7 @@
     "LIST_DD": "2015/06/16",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "벤처기업부",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "31,812,000"
@@ -4813,7 +4813,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,510,279"
+    "LIST_SHRS": "27,647,941"
   },
   {
     "ISU_CD": "KR7058110008",
@@ -5331,7 +5331,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "22,319,800"
+    "LIST_SHRS": "23,619,800"
   },
   {
     "ISU_CD": "KR7206640005",
@@ -6465,7 +6465,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "46,872,456"
+    "LIST_SHRS": "47,444,987"
   },
   {
     "ISU_CD": "KR7072950009",
@@ -9853,7 +9853,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "36,694,642"
+    "LIST_SHRS": "37,407,092"
   },
   {
     "ISU_CD": "KR7067390005",
@@ -9867,7 +9867,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "399,157,579"
+    "LIST_SHRS": "403,157,579"
   },
   {
     "ISU_CD": "KR7159010008",
@@ -12471,7 +12471,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "131,438,096"
+    "LIST_SHRS": "131,439,058"
   },
   {
     "ISU_CD": "KR7278650007",
@@ -13087,7 +13087,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "42,423,440"
+    "LIST_SHRS": "43,690,959"
   },
   {
     "ISU_CD": "KR7036810000",
@@ -22523,7 +22523,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "22,725,452"
+    "LIST_SHRS": "24,239,838"
   },
   {
     "ISU_CD": "KR7208710004",
@@ -24206,6 +24206,20 @@
     "LIST_SHRS": "17,109,680"
   },
   {
+    "ISU_CD": "KR7125490003",
+    "ISU_SRT_CD": "125490",
+    "ISU_NM": "한라캐스트",
+    "ISU_ABBRV": "한라캐스트",
+    "ISU_ENG_NM": "HALLACAST Co.,Ltd",
+    "LIST_DD": "2025/08/20",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "36,502,352"
+  },
+  {
     "ISU_CD": "KR7452190002",
     "ISU_SRT_CD": "452190",
     "ISU_NM": "한빛레이저",
@@ -25127,7 +25141,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "49,045,134"
+    "LIST_SHRS": "9,809,026"
   },
   {
     "ISU_CD": "KR7243070000",

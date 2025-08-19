@@ -5684,20 +5684,6 @@
     "LIST_SHRS": "15,330,971"
   },
   {
-    "ISU_CD": "KR7000071001",
-    "ISU_SRT_CD": "000075",
-    "ISU_NM": "삼양홀딩스1우선주",
-    "ISU_ABBRV": "삼양홀딩스우",
-    "ISU_ENG_NM": "SAMYANGHOLDINGS(1P)",
-    "LIST_DD": "1992/02/21",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "구형우선주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "150,894"
-  },
-  {
     "ISU_CD": "KR7000070003",
     "ISU_SRT_CD": "000070",
     "ISU_NM": "삼양홀딩스보통주",
@@ -5709,7 +5695,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "8,717,435"
+    "LIST_SHRS": "8,868,329"
   },
   {
     "ISU_CD": "KR7002810000",

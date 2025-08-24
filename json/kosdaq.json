@@ -644,6 +644,20 @@
     "LIST_SHRS": "13,676,598"
   },
   {
+    "ISU_CD": "KR7318060001",
+    "ISU_SRT_CD": "318060",
+    "ISU_NM": "그래피",
+    "ISU_ABBRV": "그래피",
+    "ISU_ENG_NM": "Graphy Inc.",
+    "LIST_DD": "2025/08/25",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "11,038,777"
+  },
+  {
     "ISU_CD": "HK0000307485",
     "ISU_SRT_CD": "900290",
     "ISU_NM": "그레이트리치과기유한공사",
@@ -4337,7 +4351,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "53,482,730"
+    "LIST_SHRS": "60,186,641"
   },
   {
     "ISU_CD": "KR7377450002",
@@ -6353,7 +6367,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "51,173,031"
+    "LIST_SHRS": "53,290,676"
   },
   {
     "ISU_CD": "KR7377030002",
@@ -6672,7 +6686,7 @@
     "LIST_DD": "2023/03/02",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "4,664,000"
@@ -9391,7 +9405,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,590,880"
+    "LIST_SHRS": "12,665,880"
   },
   {
     "ISU_CD": "KR7065770000",
@@ -14179,7 +14193,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "21,316,950"
+    "LIST_SHRS": "21,349,821"
   },
   {
     "ISU_CD": "KR7476040001",
@@ -16783,7 +16797,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "17,337,538"
+    "LIST_SHRS": "23,637,538"
   },
   {
     "ISU_CD": "KR7478110000",
@@ -16867,7 +16881,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,675,192"
+    "LIST_SHRS": "11,685,392"
   },
   {
     "ISU_CD": "HK0000057197",
@@ -18085,7 +18099,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "83,868,884"
+    "LIST_SHRS": "84,246,242"
   },
   {
     "ISU_CD": "KR7090470006",
@@ -23013,7 +23027,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "65,710,042"
+    "LIST_SHRS": "66,710,042"
   },
   {
     "ISU_CD": "KR7300080009",
@@ -23657,7 +23671,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "7,836,009"
+    "LIST_SHRS": "8,186,843"
   },
   {
     "ISU_CD": "KR7101670008",

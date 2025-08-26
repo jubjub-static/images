@@ -1103,7 +1103,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,305,659"
+    "LIST_SHRS": "11,307,992"
   },
   {
     "ISU_CD": "KR7130580004",
@@ -1705,7 +1705,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "45,212,464"
+    "LIST_SHRS": "45,551,464"
   },
   {
     "ISU_CD": "KR7069140002",
@@ -3217,7 +3217,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "50,605,754"
+    "LIST_SHRS": "47,816,422"
   },
   {
     "ISU_CD": "KR7223250002",
@@ -5920,20 +5920,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "11,952,500"
-  },
-  {
-    "ISU_CD": "KR7288330004",
-    "ISU_SRT_CD": "288330",
-    "ISU_NM": "브릿지바이오테라퓨틱스",
-    "ISU_ABBRV": "브릿지바이오테라퓨틱스",
-    "ISU_ENG_NM": "BRIDGE BIOTHERAPEUTICS, INC.",
-    "LIST_DD": "2019/12/20",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "82,821,176"
   },
   {
     "ISU_CD": "KR7365900000",
@@ -9055,7 +9041,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "32,471,622"
+    "LIST_SHRS": "32,618,444"
   },
   {
     "ISU_CD": "KR7036710002",
@@ -11029,7 +11015,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "51,419,896"
+    "LIST_SHRS": "51,531,337"
   },
   {
     "ISU_CD": "KR7179530001",
@@ -17833,7 +17819,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "90,690,889"
+    "LIST_SHRS": "101,791,820"
   },
   {
     "ISU_CD": "KR7417840006",
@@ -21966,6 +21952,20 @@
     "LIST_SHRS": "49,441,733"
   },
   {
+    "ISU_CD": "KR7288330004",
+    "ISU_SRT_CD": "288330",
+    "ISU_NM": "파라택시스 코리아",
+    "ISU_ABBRV": "파라택시스코리아",
+    "ISU_ENG_NM": "PARATAXIS KOREA",
+    "LIST_DD": "2019/12/20",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "관리종목(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "82,821,176"
+  },
+  {
     "ISU_CD": "KR7033540006",
     "ISU_SRT_CD": "033540",
     "ISU_NM": "파라텍",
@@ -22649,7 +22649,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "24,529,926"
+    "LIST_SHRS": "29,384,294"
   },
   {
     "ISU_CD": "KR7005670005",
@@ -22873,7 +22873,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "10,784,365"
+    "LIST_SHRS": "10,871,991"
   },
   {
     "ISU_CD": "KR7303360002",
@@ -23458,7 +23458,7 @@
     "LIST_DD": "2023/03/07",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "6,030,000"

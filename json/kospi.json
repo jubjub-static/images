@@ -907,7 +907,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "15,618,197"
+    "LIST_SHRS": "15,302,459"
   },
   {
     "ISU_CD": "KR7373220003",
@@ -6283,7 +6283,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,308,690"
+    "LIST_SHRS": "19,115,603"
   },
   {
     "ISU_CD": "KR7004490009",
@@ -12366,7 +12366,7 @@
     "ISU_SRT_CD": "002320",
     "ISU_NM": "한진보통주",
     "ISU_ABBRV": "한진",
-    "ISU_ENG_NM": "HanjinTransportation",
+    "ISU_ENG_NM": "HANJIN Logistics Corporation",
     "LIST_DD": "1974/08/12",
     "MKT_TP_NM": "KOSPI",
     "SECUGRP_NM": "주권",

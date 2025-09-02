@@ -4712,7 +4712,7 @@
     "LIST_DD": "2001/10/16",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "투자주의환기종목(소속부없음)",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "5,527,981"
@@ -15817,7 +15817,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,572,000"
+    "LIST_SHRS": "12,642,000"
   },
   {
     "ISU_CD": "KR7136540002",

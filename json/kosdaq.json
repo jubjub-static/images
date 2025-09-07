@@ -1047,7 +1047,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "14,700,884"
+    "LIST_SHRS": "14,334,875"
   },
   {
     "ISU_CD": "KR7242040004",
@@ -3581,7 +3581,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "125,109,676"
+    "LIST_SHRS": "125,110,615"
   },
   {
     "ISU_CD": "KR7310870001",
@@ -6479,7 +6479,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,089,877"
+    "LIST_SHRS": "10,225,877"
   },
   {
     "ISU_CD": "KR7143240000",
@@ -11718,20 +11718,6 @@
     "LIST_SHRS": "30,610,000"
   },
   {
-    "ISU_CD": "KR7019590009",
-    "ISU_SRT_CD": "019590",
-    "ISU_NM": "에스유앤피",
-    "ISU_ABBRV": "에스유앤피",
-    "ISU_ENG_NM": "SUNP",
-    "LIST_DD": "1989/03/14",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "37,988,847"
-  },
-  {
     "ISU_CD": "KR7306040007",
     "ISU_SRT_CD": "306040",
     "ISU_NM": "에스제이그룹",
@@ -13451,7 +13437,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "8,931,800"
+    "LIST_SHRS": "17,863,600"
   },
   {
     "ISU_CD": "KR7053290003",

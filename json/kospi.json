@@ -3822,20 +3822,6 @@
     "LIST_SHRS": "161,358,585"
   },
   {
-    "ISU_CD": "KR7008970006",
-    "ISU_SRT_CD": "008970",
-    "ISU_NM": "동양철관보통주",
-    "ISU_ABBRV": "동양철관",
-    "ISU_ENG_NM": "DongyangSteelPipe",
-    "LIST_DD": "1977/03/05",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "159,801,815"
-  },
-  {
     "ISU_CD": "KR7018500009",
     "ISU_SRT_CD": "018500",
     "ISU_NM": "동원금속보통주",
@@ -4575,7 +4561,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "180,014,473"
+    "LIST_SHRS": "175,221,773"
   },
   {
     "ISU_CD": "KR7090370008",
@@ -8974,20 +8960,6 @@
     "LIST_SHRS": "42,851,600"
   },
   {
-    "ISU_CD": "KR7093230001",
-    "ISU_SRT_CD": "093230",
-    "ISU_NM": "이아이디보통주",
-    "ISU_ABBRV": "이아이디",
-    "ISU_ENG_NM": "E Investment&Development",
-    "LIST_DD": "2007/11/01",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "200",
-    "LIST_SHRS": "254,384,360"
-  },
-  {
     "ISU_CD": "KR7074610007",
     "ISU_SRT_CD": "074610",
     "ISU_NM": "이엔플러스보통주",
@@ -9181,7 +9153,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "31,013,252"
+    "LIST_SHRS": "31,638,252"
   },
   {
     "ISU_CD": "KR7000230003",
@@ -10063,7 +10035,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "442,124,799"
+    "LIST_SHRS": "442,275,505"
   },
   {
     "ISU_CD": "KR7377300009",
@@ -10120,6 +10092,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "111,293,031"
+  },
+  {
+    "ISU_CD": "KR7008970006",
+    "ISU_SRT_CD": "008970",
+    "ISU_NM": "케이비아이동양철관보통주",
+    "ISU_ABBRV": "KBI동양철관",
+    "ISU_ENG_NM": "KBI DONG YANG STEEL PIPE",
+    "LIST_DD": "1977/03/05",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "1,000",
+    "LIST_SHRS": "79,900,907"
   },
   {
     "ISU_CD": "KR7009440009",
@@ -13227,7 +13213,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "30,826,118"
+    "LIST_SHRS": "31,339,928"
   },
   {
     "ISU_CD": "KR7010660009",

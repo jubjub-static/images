@@ -1551,7 +1551,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "16,616,867"
+    "LIST_SHRS": "16,810,552"
   },
   {
     "ISU_CD": "KR7473980001",
@@ -1747,7 +1747,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "38,017,152"
+    "LIST_SHRS": "38,115,190"
   },
   {
     "ISU_CD": "KR7348340001",
@@ -6437,7 +6437,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "53,273,143"
+    "LIST_SHRS": "59,412,866"
   },
   {
     "ISU_CD": "KR7072950009",
@@ -8397,7 +8397,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "3,231,418"
+    "LIST_SHRS": "5,821,060"
   },
   {
     "ISU_CD": "KR7115570004",
@@ -10396,7 +10396,7 @@
     "LIST_DD": "2018/07/12",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "기술성장기업부",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "37,558,368"
@@ -11128,6 +11128,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "19,092,949"
+  },
+  {
+    "ISU_CD": "KR7109960005",
+    "ISU_SRT_CD": "109960",
+    "ISU_NM": "앱토크롬",
+    "ISU_ABBRV": "앱토크롬",
+    "ISU_ENG_NM": "APTOCROM",
+    "LIST_DD": "2009/11/13",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "투자주의환기종목(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "220,789,269"
   },
   {
     "ISU_CD": "KR7270520000",
@@ -12838,20 +12852,6 @@
     "LIST_SHRS": "15,082,304"
   },
   {
-    "ISU_CD": "KR7109960005",
-    "ISU_SRT_CD": "109960",
-    "ISU_NM": "에이피헬스케어",
-    "ISU_ABBRV": "AP헬스케어",
-    "ISU_ENG_NM": "AP Healthcare",
-    "LIST_DD": "2009/11/13",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "투자주의환기종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "220,789,269"
-  },
-  {
     "ISU_CD": "KR7230240004",
     "ISU_SRT_CD": "230240",
     "ISU_NM": "에치에프알",
@@ -14207,7 +14207,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "29,615,422"
+    "LIST_SHRS": "30,025,678"
   },
   {
     "ISU_CD": "KR7080520000",
@@ -15187,7 +15187,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "14,547,709"
+    "LIST_SHRS": "14,790,009"
   },
   {
     "ISU_CD": "KR7046940003",
@@ -18043,7 +18043,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "86,963,220"
+    "LIST_SHRS": "88,125,481"
   },
   {
     "ISU_CD": "KR7090470006",
@@ -18519,7 +18519,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "9,805,000"
+    "LIST_SHRS": "9,830,000"
   },
   {
     "ISU_CD": "KR7348080003",
@@ -20395,7 +20395,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "73,359,317"
+    "LIST_SHRS": "73,389,970"
   },
   {
     "ISU_CD": "KR7089890008",
@@ -20731,7 +20731,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,510,971"
+    "LIST_SHRS": "19,577,021"
   },
   {
     "ISU_CD": "KR7227100005",
@@ -22439,7 +22439,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,655,845"
+    "LIST_SHRS": "9,721,795"
   },
   {
     "ISU_CD": "KR7189690001",
@@ -22733,7 +22733,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "17,039,188"
+    "LIST_SHRS": "17,189,188"
   },
   {
     "ISU_CD": "KR7151910007",

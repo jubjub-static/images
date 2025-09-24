@@ -6885,7 +6885,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "57,005,358"
+    "LIST_SHRS": "57,605,058"
   },
   {
     "ISU_CD": "KR7293940003",
@@ -12066,20 +12066,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "40,000,000"
-  },
-  {
-    "ISU_CD": "KR7010420008",
-    "ISU_SRT_CD": "010420",
-    "ISU_NM": "한솔PNS보통주",
-    "ISU_ABBRV": "한솔PNS",
-    "ISU_ENG_NM": "HANSOLPNS",
-    "LIST_DD": "1989/05/31",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "20,493,012"
   },
   {
     "ISU_CD": "KR7009180001",

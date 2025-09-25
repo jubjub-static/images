@@ -3308,7 +3308,7 @@
     "ISU_SRT_CD": "001440",
     "ISU_NM": "대한전선보통주",
     "ISU_ABBRV": "대한전선",
-    "ISU_ENG_NM": "TaihanElectricWire",
+    "ISU_ENG_NM": "Taihan Cable & Solution",
     "LIST_DD": "1968/12/27",
     "MKT_TP_NM": "KOSPI",
     "SECUGRP_NM": "주권",
@@ -10749,7 +10749,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "26,297,982"
+    "LIST_SHRS": "26,364,463"
   },
   {
     "ISU_CD": "KR7014580005",
@@ -12120,7 +12120,7 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "5,000",
+    "PARVAL": "1,000",
     "LIST_SHRS": "32,109,878"
   },
   {

@@ -1271,7 +1271,7 @@
     "SECT_TP_NM": "외국기업(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "0",
-    "LIST_SHRS": "98,867,465"
+    "LIST_SHRS": "164,391,655"
   },
   {
     "ISU_CD": "KR7311390009",
@@ -1327,7 +1327,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "50,467,158"
+    "LIST_SHRS": "50,478,612"
   },
   {
     "ISU_CD": "KR7306620006",
@@ -5303,7 +5303,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "5,605,650"
+    "LIST_SHRS": "5,613,025"
   },
   {
     "ISU_CD": "KR7452200009",
@@ -5933,7 +5933,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "24,075,595"
+    "LIST_SHRS": "24,095,595"
   },
   {
     "ISU_CD": "KR7251630000",
@@ -6648,6 +6648,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "7,520,000"
+  },
+  {
+    "ISU_CD": "KR70071M0002",
+    "ISU_SRT_CD": "0071M0",
+    "ISU_NM": "삼성기업인수목적11호",
+    "ISU_ABBRV": "삼성스팩11호",
+    "ISU_ENG_NM": "SAMSUNG SPECIAL PURPOSE ACQUISITION 11 COMPANY",
+    "LIST_DD": "2025/09/30",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "SPAC(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "5,760,000"
   },
   {
     "ISU_CD": "KR7448740001",
@@ -8495,7 +8509,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "3,814,325"
+    "LIST_SHRS": "11,442,975"
   },
   {
     "ISU_CD": "KR7013810007",
@@ -9027,7 +9041,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "33,099,011"
+    "LIST_SHRS": "33,241,267"
   },
   {
     "ISU_CD": "KR7036710002",
@@ -10889,7 +10903,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "53,464,968"
+    "LIST_SHRS": "53,505,788"
   },
   {
     "ISU_CD": "KR7123750002",
@@ -11155,7 +11169,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "196,092,130"
+    "LIST_SHRS": "196,589,147"
   },
   {
     "ISU_CD": "KR7255440000",
@@ -14501,7 +14515,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,241,547"
+    "LIST_SHRS": "19,506,897"
   },
   {
     "ISU_CD": "KR7067170001",
@@ -16853,7 +16867,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "39,513,228"
+    "LIST_SHRS": "39,652,132"
   },
   {
     "ISU_CD": "KR7047560008",
@@ -18743,7 +18757,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "63,640,424"
+    "LIST_SHRS": "63,673,803"
   },
   {
     "ISU_CD": "KR7382480002",
@@ -19570,6 +19584,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "6,330,000"
+  },
+  {
+    "ISU_CD": "KR70072Z0006",
+    "ISU_SRT_CD": "0072Z0",
+    "ISU_NM": "케이비제33호기업인수목적",
+    "ISU_ABBRV": "KB제33호스팩",
+    "ISU_ENG_NM": "KB No.33 Special Purpose Acquisition Company",
+    "LIST_DD": "2025/09/30",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "SPAC(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "7,885,000"
   },
   {
     "ISU_CD": "KR7318000007",
@@ -24049,7 +24077,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,736,818"
+    "LIST_SHRS": "23,059,076"
   },
   {
     "ISU_CD": "KR7023760002",

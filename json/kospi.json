@@ -1985,7 +1985,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "20,023,273"
+    "LIST_SHRS": "19,343,263"
   },
   {
     "ISU_CD": "KR7002240000",
@@ -5177,7 +5177,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "34,464,379"
+    "LIST_SHRS": "33,711,538"
   },
   {
     "ISU_CD": "KR7005180005",
@@ -6662,20 +6662,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "205,848,151"
-  },
-  {
-    "ISU_CD": "KR7005390000",
-    "ISU_SRT_CD": "005390",
-    "ISU_NM": "신성통상보통주",
-    "ISU_ABBRV": "신성통상",
-    "ISU_ENG_NM": "ShinsungTongsang",
-    "LIST_DD": "1975/12/22",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "143,708,390"
   },
   {
     "ISU_CD": "KR7004170007",
@@ -9727,7 +9713,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "200",
-    "LIST_SHRS": "66,403,852"
+    "LIST_SHRS": "64,481,582"
   },
   {
     "ISU_CD": "KR7024110009",
@@ -11365,7 +11351,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "284,723,889"
+    "LIST_SHRS": "278,325,814"
   },
   {
     "ISU_CD": "KR7293480000",

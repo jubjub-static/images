@@ -3469,7 +3469,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "84,080,926"
+    "LIST_SHRS": "87,071,952"
   },
   {
     "ISU_CD": "KR7475560009",
@@ -4618,6 +4618,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "52,470,133"
+  },
+  {
+    "ISU_CD": "KR7317450005",
+    "ISU_SRT_CD": "317450",
+    "ISU_NM": "명인제약보통주",
+    "ISU_ABBRV": "명인제약",
+    "ISU_ENG_NM": "MYUNGIN PHARM",
+    "LIST_DD": "2025/10/01",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "14,600,000"
   },
   {
     "ISU_CD": "KR7012690004",
@@ -10287,7 +10301,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "122,062,497"
+    "LIST_SHRS": "119,872,752"
   },
   {
     "ISU_CD": "KR7417310000",

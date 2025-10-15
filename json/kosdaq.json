@@ -4561,7 +4561,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,718,304"
+    "LIST_SHRS": "13,298,304"
   },
   {
     "ISU_CD": "KR7093520005",
@@ -5667,7 +5667,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "124,052,144"
+    "LIST_SHRS": "138,453,818"
   },
   {
     "ISU_CD": "KR7382900009",
@@ -9041,7 +9041,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "33,950,236"
+    "LIST_SHRS": "33,973,827"
   },
   {
     "ISU_CD": "KR7036710002",
@@ -9895,7 +9895,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "35,707,411"
+    "LIST_SHRS": "36,120,292"
   },
   {
     "ISU_CD": "KR7331740001",
@@ -15173,7 +15173,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "39,073,104"
+    "LIST_SHRS": "38,677,937"
   },
   {
     "ISU_CD": "KR7103840005",
@@ -18883,7 +18883,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "5,365,694"
+    "LIST_SHRS": "5,419,522"
   },
   {
     "ISU_CD": "KR7388050007",
@@ -21473,7 +21473,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "8,683,835"
+    "LIST_SHRS": "8,705,779"
   },
   {
     "ISU_CD": "KR7417790003",
@@ -23420,20 +23420,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "17,548,623"
-  },
-  {
-    "ISU_CD": "KR7446750002",
-    "ISU_SRT_CD": "446750",
-    "ISU_NM": "하나26호기업인수목적",
-    "ISU_ABBRV": "하나26호스팩",
-    "ISU_ENG_NM": "Hana 26 Special Purpose Acquisition Company",
-    "LIST_DD": "2023/03/07",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "6,030,000"
   },
   {
     "ISU_CD": "KR7448370007",

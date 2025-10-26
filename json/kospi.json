@@ -6384,20 +6384,6 @@
     "LIST_SHRS": "28,705,031"
   },
   {
-    "ISU_CD": "KR7091090001",
-    "ISU_SRT_CD": "091090",
-    "ISU_NM": "세원이앤씨보통주",
-    "ISU_ABBRV": "세원이앤씨",
-    "ISU_ENG_NM": "SEWON E&C CO.,LTD.",
-    "LIST_DD": "2006/07/31",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "52,754,723"
-  },
-  {
     "ISU_CD": "KR7021820006",
     "ISU_SRT_CD": "021820",
     "ISU_NM": "세원정공보통주",
@@ -9447,7 +9433,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "8,030,748"
+    "LIST_SHRS": "8,479,500"
   },
   {
     "ISU_CD": "KR7030000004",
@@ -10721,7 +10707,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "47,393,486"
+    "LIST_SHRS": "47,393,856"
   },
   {
     "ISU_CD": "KR7020120002",

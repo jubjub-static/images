@@ -2404,8 +2404,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "184,273,811"
+    "PARVAL": "500",
+    "LIST_SHRS": "36,854,762"
   },
   {
     "ISU_CD": "KR7140520008",
@@ -4813,7 +4813,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,843,978"
+    "LIST_SHRS": "27,969,140"
   },
   {
     "ISU_CD": "KR7058110008",
@@ -6325,7 +6325,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "58,931,099"
+    "LIST_SHRS": "59,564,511"
   },
   {
     "ISU_CD": "KR7377030002",
@@ -6774,6 +6774,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "16,093,838"
+  },
+  {
+    "ISU_CD": "KR7014950000",
+    "ISU_SRT_CD": "014950",
+    "ISU_NM": "삼익제약",
+    "ISU_ABBRV": "삼익제약",
+    "ISU_ENG_NM": "SAMIK PHARM. Co., LTD.",
+    "LIST_DD": "2025/10/27",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "9,171,413"
   },
   {
     "ISU_CD": "KR7032280000",
@@ -13885,7 +13899,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,347,038"
+    "LIST_SHRS": "12,359,538"
   },
   {
     "ISU_CD": "KR7373170000",
@@ -16825,7 +16839,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,687,092"
+    "LIST_SHRS": "11,699,592"
   },
   {
     "ISU_CD": "HK0000057197",
@@ -20395,7 +20409,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "73,412,182"
+    "LIST_SHRS": "73,445,500"
   },
   {
     "ISU_CD": "KR7089890008",
@@ -22033,7 +22047,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,697,922"
+    "LIST_SHRS": "11,699,422"
   },
   {
     "ISU_CD": "KR7037030004",
@@ -23420,20 +23434,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "5,620,000"
-  },
-  {
-    "ISU_CD": "KR7454750001",
-    "ISU_SRT_CD": "454750",
-    "ISU_NM": "하나28호기업인수목적",
-    "ISU_ABBRV": "하나28호스팩",
-    "ISU_ENG_NM": "Hana 28 Special Purpose Acquisition Company",
-    "LIST_DD": "2023/08/10",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "7,202,000"
   },
   {
     "ISU_CD": "KR7454640004",

@@ -4788,6 +4788,20 @@
     "LIST_SHRS": "39,605,940"
   },
   {
+    "ISU_CD": "KR7094800000",
+    "ISU_SRT_CD": "094800",
+    "ISU_NM": "미래에셋맵스리얼티부동산공모투자회사보통주",
+    "ISU_ABBRV": "맵스리얼티",
+    "ISU_ENG_NM": "MIRAEASSET MAPS REALTY INVESTMENT COMPANY",
+    "LIST_DD": "2007/04/09",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "투자회사",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "무액면",
+    "LIST_SHRS": "92,834,331"
+  },
+  {
     "ISU_CD": "KR7357250000",
     "ISU_SRT_CD": "357250",
     "ISU_NM": "미래에셋맵스리츠보통주",
@@ -4800,20 +4814,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
     "LIST_SHRS": "24,995,105"
-  },
-  {
-    "ISU_CD": "KR7094800000",
-    "ISU_SRT_CD": "094800",
-    "ISU_NM": "미래에셋맵스아시아퍼시픽부동산공모1호",
-    "ISU_ABBRV": "맵스리얼티1",
-    "ISU_ENG_NM": "MIRAEASSETMAPS ASIAPACIFIC REAL ESTATE 1",
-    "LIST_DD": "2007/04/09",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "투자회사",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "무액면",
-    "LIST_SHRS": "92,834,331"
   },
   {
     "ISU_CD": "KR7085620003",
@@ -5150,6 +5150,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "78,782,988"
+  },
+  {
+    "ISU_CD": "KR7006740005",
+    "ISU_SRT_CD": "006740",
+    "ISU_NM": "블루산업개발 보통주",
+    "ISU_ABBRV": "블루산업개발",
+    "ISU_ENG_NM": "Blue Industrial Development",
+    "LIST_DD": "1996/07/03",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "56,975,588"
   },
   {
     "ISU_CD": "KR7002070001",
@@ -6997,7 +7011,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "165,581,235"
+    "LIST_SHRS": "165,581,332"
   },
   {
     "ISU_CD": "KR7097951008",
@@ -8230,20 +8244,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "19,108,450"
-  },
-  {
-    "ISU_CD": "KR7006740005",
-    "ISU_SRT_CD": "006740",
-    "ISU_NM": "영풍제지보통주",
-    "ISU_ABBRV": "영풍제지",
-    "ISU_ENG_NM": "YoungpoongPaperMfg",
-    "LIST_DD": "1996/07/03",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "56,975,588"
   },
   {
     "ISU_CD": "KR7012280004",

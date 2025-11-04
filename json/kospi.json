@@ -10735,7 +10735,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "26,459,529"
+    "LIST_SHRS": "26,468,229"
   },
   {
     "ISU_CD": "KR7014580005",
@@ -10986,7 +10986,7 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
+    "PARVAL": "100",
     "LIST_SHRS": "272,167,825"
   },
   {
@@ -11393,7 +11393,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "42,098,022"
+    "LIST_SHRS": "42,115,022"
   },
   {
     "ISU_CD": "KR7071090005",

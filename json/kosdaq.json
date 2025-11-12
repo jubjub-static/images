@@ -1439,7 +1439,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "8,126,936"
+    "LIST_SHRS": "8,203,886"
   },
   {
     "ISU_CD": "KR7137940003",
@@ -1915,7 +1915,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "68,949,040"
+    "LIST_SHRS": "73,540,870"
   },
   {
     "ISU_CD": "KR7340360007",
@@ -7865,7 +7865,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "44,083,688"
+    "LIST_SHRS": "45,062,720"
   },
   {
     "ISU_CD": "KR7347000002",
@@ -7879,7 +7879,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "34,892,559"
+    "LIST_SHRS": "37,810,846"
   },
   {
     "ISU_CD": "KR7331920009",
@@ -10091,7 +10091,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,242,933"
+    "LIST_SHRS": "13,298,933"
   },
   {
     "ISU_CD": "KR7289010001",
@@ -12471,7 +12471,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "131,454,058"
+    "LIST_SHRS": "131,833,110"
   },
   {
     "ISU_CD": "KR7278650007",
@@ -15733,7 +15733,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,469,842"
+    "LIST_SHRS": "10,552,334"
   },
   {
     "ISU_CD": "KR7065370009",
@@ -17427,7 +17427,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,348,782"
+    "LIST_SHRS": "11,413,747"
   },
   {
     "ISU_CD": "KR7017250002",
@@ -20874,6 +20874,20 @@
     "LIST_SHRS": "35,838,893"
   },
   {
+    "ISU_CD": "KR7494120009",
+    "ISU_SRT_CD": "494120",
+    "ISU_NM": "큐리오시스",
+    "ISU_ABBRV": "큐리오시스",
+    "ISU_ENG_NM": "Curiosis Inc.",
+    "LIST_DD": "2025/11/13",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "7,606,082"
+  },
+  {
     "ISU_CD": "KR7445680002",
     "ISU_SRT_CD": "445680",
     "ISU_NM": "큐리옥스바이오시스템즈",
@@ -23450,20 +23464,6 @@
     "LIST_SHRS": "17,548,623"
   },
   {
-    "ISU_CD": "KR7448370007",
-    "ISU_SRT_CD": "448370",
-    "ISU_NM": "하나27호기업인수목적",
-    "ISU_ABBRV": "하나27호스팩",
-    "ISU_ENG_NM": "Hana 27 Special Purpose Acquisition Company",
-    "LIST_DD": "2023/04/06",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "5,620,000"
-  },
-  {
     "ISU_CD": "KR7454640004",
     "ISU_SRT_CD": "454640",
     "ISU_NM": "하나29호기업인수목적",
@@ -23587,7 +23587,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "66,278,649"
+    "LIST_SHRS": "66,373,651"
   },
   {
     "ISU_CD": "KR7166090001",

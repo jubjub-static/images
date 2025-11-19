@@ -991,7 +991,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "37,417,493"
+    "LIST_SHRS": "37,673,903"
   },
   {
     "ISU_CD": "KR7417010006",
@@ -1495,7 +1495,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,898,260"
+    "LIST_SHRS": "20,168,531"
   },
   {
     "ISU_CD": "KR7348210006",
@@ -9520,6 +9520,20 @@
     "LIST_SHRS": "67,963,000"
   },
   {
+    "ISU_CD": "KR7388210007",
+    "ISU_SRT_CD": "388210",
+    "ISU_NM": "씨엠티엑스",
+    "ISU_ABBRV": "씨엠티엑스",
+    "ISU_ENG_NM": "CMTX Co.,Ltd.",
+    "LIST_DD": "2025/11/20",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "9,272,688"
+  },
+  {
     "ISU_CD": "KR7115480006",
     "ISU_SRT_CD": "115480",
     "ISU_NM": "씨유메디칼시스템",
@@ -11841,7 +11855,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "98,675,394"
+    "LIST_SHRS": "98,690,161"
   },
   {
     "ISU_CD": "KR7398120006",
@@ -12415,7 +12429,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,107,010"
+    "LIST_SHRS": "27,506,430"
   },
   {
     "ISU_CD": "KR7078150000",
@@ -13731,7 +13745,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "20,755,371"
+    "LIST_SHRS": "21,032,076"
   },
   {
     "ISU_CD": "KR70041J0004",
@@ -18169,7 +18183,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "30,032,809"
+    "LIST_SHRS": "31,775,577"
   },
   {
     "ISU_CD": "KR7026040006",
@@ -20087,7 +20101,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,617,702"
+    "LIST_SHRS": "12,766,659"
   },
   {
     "ISU_CD": "KR7151860004",
@@ -22971,7 +22985,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,614,526"
+    "LIST_SHRS": "17,957,810"
   },
   {
     "ISU_CD": "KR7053160008",
@@ -24413,7 +24427,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "28,998,832"
+    "LIST_SHRS": "29,215,844"
   },
   {
     "ISU_CD": "KR7276730009",
@@ -24903,7 +24917,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "51,936,764"
+    "LIST_SHRS": "54,329,108"
   },
   {
     "ISU_CD": "KR7308100007",

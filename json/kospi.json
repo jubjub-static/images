@@ -8061,7 +8061,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "39,075,054"
+    "LIST_SHRS": "39,456,064"
   },
   {
     "ISU_CD": "KR7108671009",
@@ -10441,7 +10441,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "3,290,720"
+    "LIST_SHRS": "11,399,543"
   },
   {
     "ISU_CD": "KR7002021004",
@@ -10735,7 +10735,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "26,475,229"
+    "LIST_SHRS": "26,480,629"
   },
   {
     "ISU_CD": "KR7014580005",
@@ -10847,7 +10847,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "297,561,731"
+    "LIST_SHRS": "297,590,078"
   },
   {
     "ISU_CD": "KR7009411000",
@@ -12247,7 +12247,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "69,261,540"
+    "LIST_SHRS": "73,545,209"
   },
   {
     "ISU_CD": "KR7002220002",
@@ -12262,20 +12262,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "26,697,460"
-  },
-  {
-    "ISU_CD": "KR7006390009",
-    "ISU_SRT_CD": "006390",
-    "ISU_NM": "한일현대시멘트보통주",
-    "ISU_ABBRV": "한일현대시멘트",
-    "ISU_ENG_NM": "HANIL HYUNDAI CEMENT",
-    "LIST_DD": "1975/12/26",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "19,327,672"
   },
   {
     "ISU_CD": "KR7003300001",

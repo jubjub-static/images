@@ -4211,7 +4211,7 @@
     "SECT_TP_NM": "외국기업(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "무액면",
-    "LIST_SHRS": "36,031,288"
+    "LIST_SHRS": "46,029,706"
   },
   {
     "ISU_CD": "KR7067730002",
@@ -6216,6 +6216,20 @@
     "LIST_SHRS": "4,210,000"
   },
   {
+    "ISU_CD": "KR70068Y0003",
+    "ISU_SRT_CD": "0068Y0",
+    "ISU_NM": "비엔케이제3호기업인수목적",
+    "ISU_ABBRV": "비엔케이제3호스팩",
+    "ISU_ENG_NM": "BNK 3 SPECIAL PURPOSE ACQUISITION COMPANY",
+    "LIST_DD": "2025/11/21",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "SPAC(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "4,310,000"
+  },
+  {
     "ISU_CD": "KR7065170003",
     "ISU_SRT_CD": "065170",
     "ISU_NM": "비엘팜텍",
@@ -6284,6 +6298,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "62,766,899"
+  },
+  {
+    "ISU_CD": "KR7488900002",
+    "ISU_SRT_CD": "488900",
+    "ISU_NM": "비츠로넥스텍",
+    "ISU_ABBRV": "비츠로넥스텍",
+    "ISU_ENG_NM": "Vitzro Nextech Co., LTD",
+    "LIST_DD": "2025/11/21",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "28,976,443"
   },
   {
     "ISU_CD": "KR7082920000",
@@ -7151,7 +7179,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "30,143,031"
+    "LIST_SHRS": "46,243,031"
   },
   {
     "ISU_CD": "KR7294630009",
@@ -7809,7 +7837,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "55,786,351"
+    "LIST_SHRS": "65,786,351"
   },
   {
     "ISU_CD": "KR7036630002",
@@ -9083,7 +9111,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "34,979,432"
+    "LIST_SHRS": "34,998,398"
   },
   {
     "ISU_CD": "KR7036710002",
@@ -12317,7 +12345,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "8,131,139"
+    "LIST_SHRS": "8,296,445"
   },
   {
     "ISU_CD": "KR7453860009",
@@ -14053,7 +14081,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "47,561,990"
+    "LIST_SHRS": "48,622,435"
   },
   {
     "ISU_CD": "KR7033160003",
@@ -14641,7 +14669,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "44,459,866"
+    "LIST_SHRS": "44,489,866"
   },
   {
     "ISU_CD": "KR7382150001",
@@ -16433,7 +16461,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,287,196"
+    "LIST_SHRS": "13,544,196"
   },
   {
     "ISU_CD": "KR7179900006",
@@ -18939,7 +18967,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "77,215,206"
+    "LIST_SHRS": "77,549,006"
   },
   {
     "ISU_CD": "KR7311320006",
@@ -21571,7 +21599,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "8,843,371"
+    "LIST_SHRS": "8,968,285"
   },
   {
     "ISU_CD": "KR7417790003",
@@ -21879,7 +21907,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,144,909"
+    "LIST_SHRS": "27,678,239"
   },
   {
     "ISU_CD": "KR7425040003",

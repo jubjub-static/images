@@ -5429,7 +5429,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "2,500",
-    "LIST_SHRS": "71,174,000"
+    "LIST_SHRS": "46,290,951"
   },
   {
     "ISU_CD": "KR7032830002",
@@ -5458,6 +5458,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "77,377,800"
+  },
+  {
+    "ISU_CD": "KR70126Z0002",
+    "ISU_SRT_CD": "0126Z0",
+    "ISU_NM": "삼성에피스홀딩스보통주",
+    "ISU_ABBRV": "삼성에피스홀딩스",
+    "ISU_ENG_NM": "SAMSUNG EPIS HOLDINGS",
+    "LIST_DD": "2025/11/24",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "2,500",
+    "LIST_SHRS": "24,883,049"
   },
   {
     "ISU_CD": "KR7009151002",
@@ -5628,6 +5642,20 @@
     "LIST_SHRS": "14,711,916"
   },
   {
+    "ISU_CD": "KR70120G0001",
+    "ISU_SRT_CD": "0120G0",
+    "ISU_NM": "삼양바이오팜보통주",
+    "ISU_ABBRV": "삼양바이오팜",
+    "ISU_ENG_NM": "SAMYANG BIOPHARM CORPORATION",
+    "LIST_DD": "2025/11/24",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "7,435,870"
+  },
+  {
     "ISU_CD": "KR7145991006",
     "ISU_SRT_CD": "145995",
     "ISU_NM": "삼양사1우선주",
@@ -5709,7 +5737,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "8,588,329"
+    "LIST_SHRS": "7,763,191"
   },
   {
     "ISU_CD": "KR7002810000",
@@ -8061,7 +8089,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "39,456,064"
+    "LIST_SHRS": "39,501,064"
   },
   {
     "ISU_CD": "KR7108671009",

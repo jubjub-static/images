@@ -1789,7 +1789,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,349,087"
+    "LIST_SHRS": "11,368,922"
   },
   {
     "ISU_CD": "KR7380550004",
@@ -5569,7 +5569,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "22,388,995"
+    "LIST_SHRS": "30,388,995"
   },
   {
     "ISU_CD": "KR7308080001",
@@ -8904,6 +8904,20 @@
     "LIST_SHRS": "4,690,000"
   },
   {
+    "ISU_CD": "KR70091W0006",
+    "ISU_SRT_CD": "0091W0",
+    "ISU_NM": "신영해피투모로우제11호기업인수목적",
+    "ISU_ABBRV": "신영스팩11호",
+    "ISU_ENG_NM": "Shinyoung HappyTomorrow No.11 Special Purpose Acquisition Company",
+    "LIST_DD": "2025/11/24",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "SPAC(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "6,068,000"
+  },
+  {
     "ISU_CD": "KR7017000001",
     "ISU_SRT_CD": "017000",
     "ISU_NM": "신원종합개발",
@@ -9111,7 +9125,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "34,998,398"
+    "LIST_SHRS": "36,866,850"
   },
   {
     "ISU_CD": "KR7036710002",
@@ -16937,7 +16951,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,699,592"
+    "LIST_SHRS": "11,712,292"
   },
   {
     "ISU_CD": "HK0000057197",
@@ -20619,7 +20633,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "32,870,376"
+    "LIST_SHRS": "52,870,376"
   },
   {
     "ISU_CD": "KR7045970001",
@@ -21669,7 +21683,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "21,582,495"
+    "LIST_SHRS": "21,605,307"
   },
   {
     "ISU_CD": "KR7033830001",

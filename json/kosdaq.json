@@ -2615,7 +2615,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "38,004,646"
+    "LIST_SHRS": "38,609,239"
   },
   {
     "ISU_CD": "KR7089230007",
@@ -5262,6 +5262,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "8,215,000"
+  },
+  {
+    "ISU_CD": "KR70093G0004",
+    "ISU_SRT_CD": "0093G0",
+    "ISU_NM": "미래에셋비전기업인수목적8호",
+    "ISU_ABBRV": "미래에셋비전기업스팩8호",
+    "ISU_ENG_NM": "Mirae Asset Vision Special Purpose Acquisition 8 Company",
+    "LIST_DD": "2025/11/27",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "SPAC(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "6,400,000"
   },
   {
     "ISU_CD": "KR7049950009",
@@ -9786,6 +9800,20 @@
     "LIST_SHRS": "94,699,536"
   },
   {
+    "ISU_CD": "KR70015N0000",
+    "ISU_SRT_CD": "0015N0",
+    "ISU_NM": "아로마티카",
+    "ISU_ABBRV": "아로마티카",
+    "ISU_ENG_NM": "AROMATICA CO.",
+    "LIST_DD": "2025/11/27",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "벤처기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "12,715,050"
+  },
+  {
     "ISU_CD": "KR7125210005",
     "ISU_SRT_CD": "125210",
     "ISU_NM": "아모그린텍",
@@ -12919,7 +12947,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "22,965,244"
+    "LIST_SHRS": "23,018,759"
   },
   {
     "ISU_CD": "KR7265520007",
@@ -15985,7 +16013,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "221,714,182"
+    "LIST_SHRS": "221,714,282"
   },
   {
     "ISU_CD": "KR7203450002",
@@ -18211,7 +18239,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "31,775,577"
+    "LIST_SHRS": "31,828,466"
   },
   {
     "ISU_CD": "KR7026040006",
@@ -21585,7 +21613,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,242,150"
+    "LIST_SHRS": "12,829,234"
   },
   {
     "ISU_CD": "KR7199800004",
@@ -23724,7 +23752,7 @@
     "LIST_DD": "2008/07/15",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "투자주의환기종목(소속부없음)",
+    "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "200",
     "LIST_SHRS": "54,169,970"

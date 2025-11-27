@@ -1439,7 +1439,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "296,181,135"
+    "LIST_SHRS": "296,818,619"
   },
   {
     "ISU_CD": "KR7034730002",
@@ -2349,7 +2349,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "393,789,270"
+    "LIST_SHRS": "390,412,998"
   },
   {
     "ISU_CD": "KR7013700000",
@@ -4029,7 +4029,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "16,523,835"
+    "LIST_SHRS": "16,193,835"
   },
   {
     "ISU_CD": "KR7034020008",
@@ -4197,7 +4197,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "82,129,188"
+    "LIST_SHRS": "82,874,110"
   },
   {
     "ISU_CD": "KR7007340003",
@@ -6944,20 +6944,6 @@
     "LIST_SHRS": "9,500,000"
   },
   {
-    "ISU_CD": "KR7102280005",
-    "ISU_SRT_CD": "102280",
-    "ISU_NM": "쌍방울",
-    "ISU_ABBRV": "쌍방울",
-    "ISU_ENG_NM": "SBW",
-    "LIST_DD": "2008/06/10",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "26,259,210"
-  },
-  {
     "ISU_CD": "KR7004770004",
     "ISU_SRT_CD": "004770",
     "ISU_NM": "써니전자보통주",
@@ -6997,7 +6983,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "50,346,691"
+    "LIST_SHRS": "52,179,872"
   },
   {
     "ISU_CD": "KR7112610001",
@@ -7039,7 +7025,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "165,581,465"
+    "LIST_SHRS": "165,581,489"
   },
   {
     "ISU_CD": "KR7097951008",

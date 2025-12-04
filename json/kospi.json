@@ -9436,20 +9436,6 @@
     "LIST_SHRS": "29,016,758"
   },
   {
-    "ISU_CD": "KR7025620006",
-    "ISU_SRT_CD": "025620",
-    "ISU_NM": "제이준코스메틱보통주",
-    "ISU_ABBRV": "제이준코스메틱",
-    "ISU_ENG_NM": "Jayjun Cosmetic",
-    "LIST_DD": "1995/07/08",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "8,479,500"
-  },
-  {
     "ISU_CD": "KR7030000004",
     "ISU_SRT_CD": "030000",
     "ISU_NM": "제일기획보통주",
@@ -9966,6 +9952,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "145,471,745"
+  },
+  {
+    "ISU_CD": "KR7025620006",
+    "ISU_SRT_CD": "025620",
+    "ISU_NM": "차AI헬스케어보통주",
+    "ISU_ABBRV": "차AI헬스케어",
+    "ISU_ENG_NM": "CHA AI Healthkare",
+    "LIST_DD": "1995/07/08",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "8,479,500"
   },
   {
     "ISU_CD": "KR7009310004",

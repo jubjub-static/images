@@ -9153,7 +9153,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "36,949,656"
+    "LIST_SHRS": "36,997,075"
   },
   {
     "ISU_CD": "KR7036710002",
@@ -14781,7 +14781,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "5,439,505"
+    "LIST_SHRS": "6,639,505"
   },
   {
     "ISU_CD": "KR7226950004",
@@ -21476,6 +21476,20 @@
     "LIST_SHRS": "8,108,834"
   },
   {
+    "ISU_CD": "KR8826050005",
+    "ISU_SRT_CD": "950250",
+    "ISU_NM": "테라뷰홀딩스",
+    "ISU_ABBRV": "테라뷰",
+    "ISU_ENG_NM": "TERAVIEW HOLDINGS PLC",
+    "LIST_DD": "2025/12/09",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주식예탁증권",
+    "SECT_TP_NM": "외국기업(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "0",
+    "LIST_SHRS": "35,517,731"
+  },
+  {
     "ISU_CD": "KR7073640005",
     "ISU_SRT_CD": "073640",
     "ISU_NM": "테라사이언스",
@@ -21865,7 +21879,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "159,224,163"
+    "LIST_SHRS": "15,922,416"
   },
   {
     "ISU_CD": "KR7277880001",

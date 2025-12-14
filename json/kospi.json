@@ -557,7 +557,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "16,567,409"
+    "LIST_SHRS": "16,207,644"
   },
   {
     "ISU_CD": "KR7003560000",
@@ -753,7 +753,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "68,469,040"
+    "LIST_SHRS": "67,233,030"
   },
   {
     "ISU_CD": "KR7033180001",
@@ -3735,7 +3735,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "9,352,645"
+    "LIST_SHRS": "9,352,651"
   },
   {
     "ISU_CD": "KR7028100006",
@@ -4995,7 +4995,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "20,538,867"
+    "LIST_SHRS": "20,558,867"
   },
   {
     "ISU_CD": "KR7002410009",
@@ -7025,7 +7025,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "165,581,489"
+    "LIST_SHRS": "165,581,496"
   },
   {
     "ISU_CD": "KR7097951008",
@@ -7742,20 +7742,6 @@
     "LIST_SHRS": "33,921,495"
   },
   {
-    "ISU_CD": "KR7010620003",
-    "ISU_SRT_CD": "010620",
-    "ISU_NM": "에이치디현대미포보통주",
-    "ISU_ABBRV": "HD현대미포",
-    "ISU_ENG_NM": "HD HYUNDAI MIPO",
-    "LIST_DD": "1983/12/20",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "39,942,149"
-  },
-  {
     "ISU_CD": "KR7267250009",
     "ISU_SRT_CD": "267250",
     "ISU_NM": "에이치디현대보통주",
@@ -7823,7 +7809,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "88,773,116"
+    "LIST_SHRS": "104,961,225"
   },
   {
     "ISU_CD": "KR7002460004",
@@ -9264,8 +9250,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "1,200,000"
+    "PARVAL": "1,000",
+    "LIST_SHRS": "6,000,000"
   },
   {
     "ISU_CD": "KR7081000002",
@@ -10946,6 +10932,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "18,000,000"
+  },
+  {
+    "ISU_CD": "KR7217590009",
+    "ISU_SRT_CD": "217590",
+    "ISU_NM": "티엠씨보통주",
+    "ISU_ABBRV": "티엠씨",
+    "ISU_ENG_NM": "TMC",
+    "LIST_DD": "2025/12/15",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "24,094,225"
   },
   {
     "ISU_CD": "KR7002900009",

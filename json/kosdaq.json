@@ -4586,7 +4586,7 @@
     "LIST_DD": "2020/07/01",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
+    "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "18,316,918"
@@ -8677,7 +8677,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "46,259,823"
+    "LIST_SHRS": "46,636,786"
   },
   {
     "ISU_CD": "KR7049830003",
@@ -11060,6 +11060,20 @@
     "LIST_SHRS": "9,446,672"
   },
   {
+    "ISU_CD": "KR7476830005",
+    "ISU_SRT_CD": "476830",
+    "ISU_NM": "알지노믹스",
+    "ISU_ABBRV": "알지노믹스",
+    "ISU_ENG_NM": "Rznomics Inc.",
+    "LIST_DD": "2025/12/18",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "13,756,000"
+  },
+  {
     "ISU_CD": "KR7347860009",
     "ISU_SRT_CD": "347860",
     "ISU_NM": "알체라",
@@ -13115,7 +13129,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "41,331,359"
+    "LIST_SHRS": "52,335,485"
   },
   {
     "ISU_CD": "KR7230360000",
@@ -17497,7 +17511,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,391,456"
+    "LIST_SHRS": "12,408,061"
   },
   {
     "ISU_CD": "KR7277410007",
@@ -17875,7 +17889,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "17,769,195"
+    "LIST_SHRS": "18,639,195"
   },
   {
     "ISU_CD": "KR7019540004",
@@ -19289,7 +19303,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "76,520,067"
+    "LIST_SHRS": "76,728,469"
   },
   {
     "ISU_CD": "KR7261780001",
@@ -21249,7 +21263,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "195,205,322"
+    "LIST_SHRS": "97,602,661"
   },
   {
     "ISU_CD": "KR7110790003",
@@ -22789,7 +22803,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,164,047"
+    "LIST_SHRS": "10,172,387"
   },
   {
     "ISU_CD": "KR7189690001",

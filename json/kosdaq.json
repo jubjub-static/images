@@ -1355,7 +1355,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "50,478,612"
+    "LIST_SHRS": "58,225,090"
   },
   {
     "ISU_CD": "KR7306620006",
@@ -2867,7 +2867,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,757,022"
+    "LIST_SHRS": "10,889,022"
   },
   {
     "ISU_CD": "KR7067990002",
@@ -5236,6 +5236,20 @@
     "LIST_SHRS": "53,124,634"
   },
   {
+    "ISU_CD": "KR70099W0008",
+    "ISU_SRT_CD": "0099W0",
+    "ISU_NM": "미래에셋비전기업인수목적11호",
+    "ISU_ABBRV": "미래에셋비전스팩11호",
+    "ISU_ENG_NM": "Mirae Asset Vision Special Purpose Acquisition 11 Company",
+    "LIST_DD": "2025/12/22",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "SPAC(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "7,000,000"
+  },
+  {
     "ISU_CD": "KR7448830000",
     "ISU_SRT_CD": "448830",
     "ISU_NM": "미래에셋비전기업인수목적3호",
@@ -5961,7 +5975,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,750,000"
+    "LIST_SHRS": "9,360,000"
   },
   {
     "ISU_CD": "KR7406820001",
@@ -6986,6 +7000,20 @@
     "LIST_SHRS": "9,031,122"
   },
   {
+    "ISU_CD": "KR70013V0002",
+    "ISU_SRT_CD": "0013V0",
+    "ISU_NM": "삼진식품",
+    "ISU_ABBRV": "삼진식품",
+    "ISU_ENG_NM": "Samjinfood Co., Ltd.",
+    "LIST_DD": "2025/12/22",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "중견기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "9,918,656"
+  },
+  {
     "ISU_CD": "KR7054090006",
     "ISU_SRT_CD": "054090",
     "ISU_NM": "삼진엘앤디",
@@ -7781,7 +7809,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "5,577,274"
+    "LIST_SHRS": "5,585,624"
   },
   {
     "ISU_CD": "KR7188260004",
@@ -10301,7 +10329,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "7,106,760"
+    "LIST_SHRS": "7,307,215"
   },
   {
     "ISU_CD": "KR7040910002",
@@ -10553,7 +10581,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "27,029,784"
+    "LIST_SHRS": "43,229,784"
   },
   {
     "ISU_CD": "KR7059100008",
@@ -12023,7 +12051,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "102,737,217"
+    "LIST_SHRS": "102,782,986"
   },
   {
     "ISU_CD": "KR7398120006",
@@ -12933,7 +12961,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "83,498,568"
+    "LIST_SHRS": "83,610,568"
   },
   {
     "ISU_CD": "KR7357230002",
@@ -19317,7 +19345,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "76,744,664"
+    "LIST_SHRS": "76,777,309"
   },
   {
     "ISU_CD": "KR7261780001",
@@ -19401,7 +19429,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,833,803"
+    "LIST_SHRS": "11,134,667"
   },
   {
     "ISU_CD": "KR7362320004",
@@ -20479,7 +20507,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "26,787,133"
+    "LIST_SHRS": "36,485,063"
   },
   {
     "ISU_CD": "KR7274090000",
@@ -22873,7 +22901,7 @@
     "SECT_TP_NM": "투자주의환기종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "24,239,838"
+    "LIST_SHRS": "25,249,429"
   },
   {
     "ISU_CD": "KR7208710004",
@@ -23868,6 +23896,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "6,030,000"
+  },
+  {
+    "ISU_CD": "KR70101C0008",
+    "ISU_SRT_CD": "0101C0",
+    "ISU_NM": "하나36호기업인수목적",
+    "ISU_ABBRV": "하나36호스팩",
+    "ISU_ENG_NM": "Hana Thirty-six Special Purpose Acquisition Company",
+    "LIST_DD": "2025/12/22",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "SPAC(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "100",
+    "LIST_SHRS": "7,740,000"
   },
   {
     "ISU_CD": "KR7299030007",

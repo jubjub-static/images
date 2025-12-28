@@ -109,7 +109,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "200",
-    "LIST_SHRS": "96,723,224"
+    "LIST_SHRS": "97,757,104"
   },
   {
     "ISU_CD": "KR7063570006",
@@ -456,7 +456,7 @@
     "LIST_DD": "2023/07/06",
     "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
+    "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "4,200,000"
@@ -1803,7 +1803,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,368,922"
+    "LIST_SHRS": "11,380,922"
   },
   {
     "ISU_CD": "KR7380550004",
@@ -1873,7 +1873,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "53,005,062"
+    "LIST_SHRS": "53,529,537"
   },
   {
     "ISU_CD": "KR7462310004",
@@ -1957,7 +1957,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "43,951,909"
+    "LIST_SHRS": "51,012,909"
   },
   {
     "ISU_CD": "KR7039560008",
@@ -2643,7 +2643,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "39,606,818"
+    "LIST_SHRS": "40,513,709"
   },
   {
     "ISU_CD": "KR7089230007",
@@ -3679,7 +3679,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "22,028,094"
+    "LIST_SHRS": "21,528,094"
   },
   {
     "ISU_CD": "KR7113810006",
@@ -4928,6 +4928,20 @@
     "LIST_SHRS": "16,050,530"
   },
   {
+    "ISU_CD": "KR7072770001",
+    "ISU_SRT_CD": "072770",
+    "ISU_NM": "멤레이비티",
+    "ISU_ABBRV": "멤레이비티",
+    "ISU_ENG_NM": "MemRAY BT",
+    "LIST_DD": "2007/07/25",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "중견기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "80,177,223"
+  },
+  {
     "ISU_CD": "KR7434480000",
     "ISU_SRT_CD": "434480",
     "ISU_NM": "모니터랩",
@@ -6171,7 +6185,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,573,688"
+    "LIST_SHRS": "6,733,708"
   },
   {
     "ISU_CD": "KR7121800007",
@@ -6760,6 +6774,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "14,700,000"
+  },
+  {
+    "ISU_CD": "KR7012210001",
+    "ISU_SRT_CD": "012210",
+    "ISU_NM": "삼미금속",
+    "ISU_ABBRV": "삼미금속",
+    "ISU_ENG_NM": "Sammi Metal Products Co., Ltd.",
+    "LIST_DD": "2025/12/29",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "중견기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "1,000",
+    "LIST_SHRS": "22,192,012"
   },
   {
     "ISU_CD": "KR7053700001",
@@ -7529,7 +7557,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "56,282,149"
+    "LIST_SHRS": "55,873,279"
   },
   {
     "ISU_CD": "KR7122690001",
@@ -7894,6 +7922,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "15,246,000"
+  },
+  {
+    "ISU_CD": "KR7490470002",
+    "ISU_SRT_CD": "490470",
+    "ISU_NM": "세미파이브",
+    "ISU_ABBRV": "세미파이브",
+    "ISU_ENG_NM": "SemiFive Inc.",
+    "LIST_DD": "2025/12/29",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "기술성장기업부",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "1,000",
+    "LIST_SHRS": "33,710,466"
   },
   {
     "ISU_CD": "KR7011560000",
@@ -9251,7 +9293,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "37,225,204"
+    "LIST_SHRS": "37,342,218"
   },
   {
     "ISU_CD": "KR7036710002",
@@ -9489,7 +9531,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,684,814"
+    "LIST_SHRS": "11,701,662"
   },
   {
     "ISU_CD": "KR7109670000",
@@ -10234,20 +10276,6 @@
     "LIST_SHRS": "34,456,481"
   },
   {
-    "ISU_CD": "KR7448760009",
-    "ISU_SRT_CD": "448760",
-    "ISU_NM": "아이비케이에스제22호기업인수목적",
-    "ISU_ABBRV": "IBKS제22호스팩",
-    "ISU_ENG_NM": "IBKS No.22 Special Purpose Acquisition Company",
-    "LIST_DD": "2023/04/06",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "SPAC(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "4,430,000"
-  },
-  {
     "ISU_CD": "KR7467930004",
     "ISU_SRT_CD": "467930",
     "ISU_NM": "아이비케이에스제23호기업인수목적",
@@ -10693,7 +10721,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "58,275,099"
+    "LIST_SHRS": "14,568,774"
   },
   {
     "ISU_CD": "KR7124500000",
@@ -11799,7 +11827,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "9,734,515"
+    "LIST_SHRS": "9,824,515"
   },
   {
     "ISU_CD": "KR7031330004",
@@ -12387,7 +12415,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "8,174,789"
+    "LIST_SHRS": "6,801,539"
   },
   {
     "ISU_CD": "KR7054630009",
@@ -12947,7 +12975,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "7,088,637"
+    "LIST_SHRS": "7,110,617"
   },
   {
     "ISU_CD": "KR7044780005",
@@ -13801,7 +13829,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "15,183,131"
+    "LIST_SHRS": "15,218,053"
   },
   {
     "ISU_CD": "KR7419080007",
@@ -15061,7 +15089,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "14,949,181"
+    "LIST_SHRS": "15,178,081"
   },
   {
     "ISU_CD": "KR7057030009",
@@ -15313,7 +15341,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "166,664,586"
+    "LIST_SHRS": "166,756,790"
   },
   {
     "ISU_CD": "KR7041190000",
@@ -16307,7 +16335,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "4,358,068"
+    "LIST_SHRS": "4,364,368"
   },
   {
     "ISU_CD": "KR7048430003",
@@ -16713,7 +16741,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "19,587,045"
+    "LIST_SHRS": "19,592,385"
   },
   {
     "ISU_CD": "KR7263050007",
@@ -16770,20 +16798,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "24,015,595"
-  },
-  {
-    "ISU_CD": "KR7072770001",
-    "ISU_SRT_CD": "072770",
-    "ISU_NM": "율호",
-    "ISU_ABBRV": "율호",
-    "ISU_ENG_NM": "Yulho",
-    "LIST_DD": "2007/07/25",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "중견기업부",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "80,177,223"
   },
   {
     "ISU_CD": "KR7039020003",
@@ -17245,7 +17259,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "10,904,605"
+    "LIST_SHRS": "10,918,855"
   },
   {
     "ISU_CD": "KR7102710001",
@@ -18967,7 +18981,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "32,109,393"
+    "LIST_SHRS": "34,648,787"
   },
   {
     "ISU_CD": "KR7389030008",
@@ -19093,7 +19107,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "63,673,803"
+    "LIST_SHRS": "63,849,923"
   },
   {
     "ISU_CD": "KR7382480002",
@@ -21112,20 +21126,6 @@
     "LIST_SHRS": "19,577,021"
   },
   {
-    "ISU_CD": "KR7227100005",
-    "ISU_SRT_CD": "227100",
-    "ISU_NM": "퀀텀온",
-    "ISU_ABBRV": "퀀텀온",
-    "ISU_ENG_NM": "Quantumon",
-    "LIST_DD": "2018/11/15",
-    "MKT_TP_NM": "KOSDAQ",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "관리종목(소속부없음)",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "24,134,182"
-  },
-  {
     "ISU_CD": "KR7432720001",
     "ISU_SRT_CD": "432720",
     "ISU_NM": "퀄리타스반도체",
@@ -22509,7 +22509,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "6,718,889"
+    "LIST_SHRS": "6,397,335"
   },
   {
     "ISU_CD": "KR7049120009",
@@ -22971,7 +22971,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "70,180,552"
+    "LIST_SHRS": "70,198,985"
   },
   {
     "ISU_CD": "KR7039980008",
@@ -23181,7 +23181,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "22,400,552"
+    "LIST_SHRS": "22,423,632"
   },
   {
     "ISU_CD": "KR7035200005",
@@ -23210,6 +23210,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
     "LIST_SHRS": "77,752,637"
+  },
+  {
+    "ISU_CD": "KR7227100005",
+    "ISU_SRT_CD": "227100",
+    "ISU_NM": "프로브잇",
+    "ISU_ABBRV": "프로브잇",
+    "ISU_ENG_NM": "Prove it",
+    "LIST_DD": "2018/11/15",
+    "MKT_TP_NM": "KOSDAQ",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "관리종목(소속부없음)",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "24,134,182"
   },
   {
     "ISU_CD": "KR7321260002",
@@ -24679,7 +24693,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,526,367"
+    "LIST_SHRS": "14,226,367"
   },
   {
     "ISU_CD": "KR7430690008",
@@ -25169,7 +25183,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "54,075,422"
+    "LIST_SHRS": "55,466,253"
   },
   {
     "ISU_CD": "KR7039010004",
@@ -25267,7 +25281,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "42,864,878"
+    "LIST_SHRS": "42,962,622"
   },
   {
     "ISU_CD": "KR7064240005",

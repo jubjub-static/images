@@ -1,5 +1,12 @@
 [
-    {
+  {
+    "title" : "새해 복 많이 받으세요.",
+    "url" : "https://github.com/jubjub-static/images/raw/refs/heads/main/mp3/20251229.mp3",
+    "image" : "https://github.com/jubjub-static/images/blob/main/mp3/images/winter_story.png?raw=true",
+    "author" : "사랑이",
+    "author_image" : "https://github.com/jubjub-static/images/blob/main/mp3/images/sarangi.png?raw=true",
+    "dttm" : "2025.12.29"
+  },{
     "title" : "이번 주부터 한파 시작?",
     "url" : "https://github.com/jubjub-static/images/raw/refs/heads/main/mp3/251214-1.mp3",
     "image" : "https://github.com/jubjub-static/images/blob/main/mp3/images/winter_story.png?raw=true",

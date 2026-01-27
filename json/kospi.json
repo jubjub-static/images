@@ -207,7 +207,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "70,800,000"
+    "LIST_SHRS": "69,384,000"
   },
   {
     "ISU_CD": "KR7016610008",
@@ -560,20 +560,6 @@
     "LIST_SHRS": "16,207,644"
   },
   {
-    "ISU_CD": "KR7003560000",
-    "ISU_SRT_CD": "003560",
-    "ISU_NM": "IHQ보통주",
-    "ISU_ABBRV": "IHQ",
-    "ISU_ENG_NM": "IHQ",
-    "LIST_DD": "1973/12/18",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "7,083,730"
-  },
-  {
     "ISU_CD": "KR7015360001",
     "ISU_SRT_CD": "015360",
     "ISU_NM": "INVENI보통주",
@@ -754,20 +740,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
     "LIST_SHRS": "67,233,030"
-  },
-  {
-    "ISU_CD": "KR7033180001",
-    "ISU_SRT_CD": "033180",
-    "ISU_NM": "KH 필룩스보통주",
-    "ISU_ABBRV": "KH 필룩스",
-    "ISU_ENG_NM": "KH FEELUX Co.,Ltd.",
-    "LIST_DD": "2001/12/26",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "26,020,020"
   },
   {
     "ISU_CD": "KR7001940006",
@@ -1439,7 +1411,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "299,957,920"
+    "LIST_SHRS": "300,487,770"
   },
   {
     "ISU_CD": "KR7034730002",
@@ -2013,7 +1985,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "52,420,851"
+    "LIST_SHRS": "49,799,808"
   },
   {
     "ISU_CD": "KR7017040007",
@@ -2098,20 +2070,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
     "LIST_SHRS": "9,260,832"
-  },
-  {
-    "ISU_CD": "KR7001140003",
-    "ISU_SRT_CD": "001140",
-    "ISU_NM": "국보보통주",
-    "ISU_ABBRV": "국보",
-    "ISU_ENG_NM": "KUKBO",
-    "LIST_DD": "1989/12/02",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "15,856,388"
   },
   {
     "ISU_CD": "KR7002720001",
@@ -2727,7 +2685,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "18,796,941"
+    "LIST_SHRS": "18,888,941"
   },
   {
     "ISU_CD": "KR7030210009",
@@ -2783,7 +2741,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "12,343,915"
+    "LIST_SHRS": "12,392,665"
   },
   {
     "ISU_CD": "KR7019680008",
@@ -2895,7 +2853,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "26,694,038"
+    "LIST_SHRS": "28,826,865"
   },
   {
     "ISU_CD": "KR7008110009",
@@ -3329,7 +3287,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "22,914,397"
+    "LIST_SHRS": "34,371,596"
   },
   {
     "ISU_CD": "KR7001791003",
@@ -4883,7 +4841,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "60,095,839"
+    "LIST_SHRS": "53,091,840"
   },
   {
     "ISU_CD": "KR7002840007",
@@ -5303,7 +5261,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "30,445,200"
+    "LIST_SHRS": "30,545,200"
   },
   {
     "ISU_CD": "KR7001470004",
@@ -6339,7 +6297,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "14,000,000"
+    "LIST_SHRS": "13,860,000"
   },
   {
     "ISU_CD": "KR7001430008",
@@ -7025,7 +6983,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "165,581,542"
+    "LIST_SHRS": "165,581,556"
   },
   {
     "ISU_CD": "KR7097951008",
@@ -7658,6 +7616,20 @@
     "LIST_SHRS": "4,463,032"
   },
   {
+    "ISU_CD": "KR7267270007",
+    "ISU_SRT_CD": "267270",
+    "ISU_NM": "에이치디건설기계보통주",
+    "ISU_ABBRV": "HD건설기계",
+    "ISU_ENG_NM": "HD Construction Equipment",
+    "LIST_DD": "2017/05/10",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "5,000",
+    "LIST_SHRS": "47,974,118"
+  },
+  {
     "ISU_CD": "KR7039570007",
     "ISU_SRT_CD": "039570",
     "ISU_NM": "에이치디씨랩스보통주",
@@ -7700,20 +7672,6 @@
     "LIST_SHRS": "70,773,116"
   },
   {
-    "ISU_CD": "KR7267270007",
-    "ISU_SRT_CD": "267270",
-    "ISU_NM": "에이치디현대건설기계보통주",
-    "ISU_ABBRV": "HD현대건설기계",
-    "ISU_ENG_NM": "HD Hyundai Construction Equipment",
-    "LIST_DD": "2017/05/10",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "17,357,613"
-  },
-  {
     "ISU_CD": "KR7443060009",
     "ISU_SRT_CD": "443060",
     "ISU_NM": "에이치디현대마린솔루션보통주",
@@ -7725,7 +7683,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "44,829,210"
+    "LIST_SHRS": "44,831,335"
   },
   {
     "ISU_CD": "KR7071970008",
@@ -7768,20 +7726,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
     "LIST_SHRS": "11,200,000"
-  },
-  {
-    "ISU_CD": "KR7042670000",
-    "ISU_SRT_CD": "042670",
-    "ISU_NM": "에이치디현대인프라코어보통주",
-    "ISU_ABBRV": "HD현대인프라코어",
-    "ISU_ENG_NM": "HD Hyundai Infracore",
-    "LIST_DD": "2001/02/02",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "1,000",
-    "LIST_SHRS": "188,851,238"
   },
   {
     "ISU_CD": "KR7267260008",
@@ -8061,7 +8005,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "40,231,480"
+    "LIST_SHRS": "40,239,734"
   },
   {
     "ISU_CD": "KR7108671009",
@@ -8512,20 +8456,6 @@
     "LIST_SHRS": "2,297,970"
   },
   {
-    "ISU_CD": "KR7010600005",
-    "ISU_SRT_CD": "010600",
-    "ISU_NM": "웰바이오텍보통주",
-    "ISU_ABBRV": "웰바이오텍",
-    "ISU_ENG_NM": "WELLBIOTEC",
-    "LIST_DD": "1997/07/18",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "90,923,407"
-  },
-  {
     "ISU_CD": "KR7008600009",
     "ISU_SRT_CD": "008600",
     "ISU_NM": "윌비스보통주",
@@ -8607,7 +8537,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "93,367,548"
+    "LIST_SHRS": "93,525,678"
   },
   {
     "ISU_CD": "KR7077500007",
@@ -10707,7 +10637,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "26,793,591"
+    "LIST_SHRS": "27,025,722"
   },
   {
     "ISU_CD": "KR7014580005",
@@ -11379,7 +11309,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "42,570,664"
+    "LIST_SHRS": "42,709,674"
   },
   {
     "ISU_CD": "KR7071090005",

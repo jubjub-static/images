@@ -669,7 +669,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "101,414,285"
+    "LIST_SHRS": "150,764,285"
   },
   {
     "ISU_CD": "KR7009070004",
@@ -1089,7 +1089,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "156,852,638"
+    "LIST_SHRS": "156,873,776"
   },
   {
     "ISU_CD": "KR7181710005",
@@ -1242,8 +1242,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "44,964,143"
+    "PARVAL": "1,000",
+    "LIST_SHRS": "22,482,071"
   },
   {
     "ISU_CD": "KR7001770007",
@@ -1369,7 +1369,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "2,500",
-    "LIST_SHRS": "221,277,902"
+    "LIST_SHRS": "200,593,889"
   },
   {
     "ISU_CD": "KR7210980009",
@@ -2181,7 +2181,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "36,996,760"
+    "LIST_SHRS": "37,259,974"
   },
   {
     "ISU_CD": "KR7011781002",
@@ -2222,8 +2222,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "218,046,510"
+    "PARVAL": "5,000",
+    "LIST_SHRS": "21,804,651"
   },
   {
     "ISU_CD": "KR7001210004",
@@ -2390,8 +2390,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "36,212,160"
+    "PARVAL": "5,000",
+    "LIST_SHRS": "3,621,216"
   },
   {
     "ISU_CD": "KR7003921004",
@@ -2713,7 +2713,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "12,393,665"
+    "LIST_SHRS": "12,421,540"
   },
   {
     "ISU_CD": "KR7019680008",
@@ -3595,7 +3595,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "26,619,507"
+    "LIST_SHRS": "96,619,507"
   },
   {
     "ISU_CD": "KR7102260007",
@@ -4196,8 +4196,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "236,981,544"
+    "PARVAL": "2,500",
+    "LIST_SHRS": "47,396,308"
   },
   {
     "ISU_CD": "KR7032350001",
@@ -4673,7 +4673,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "4,482,654"
+    "LIST_SHRS": "5,090,828"
   },
   {
     "ISU_CD": "KR7007120009",
@@ -4883,7 +4883,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "101,726,048"
+    "LIST_SHRS": "101,886,048"
   },
   {
     "ISU_CD": "KR7003610003",
@@ -4897,7 +4897,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "40,202,158"
+    "LIST_SHRS": "36,202,158"
   },
   {
     "ISU_CD": "KR7035150002",
@@ -4911,7 +4911,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "20,310,153"
+    "LIST_SHRS": "20,028,841"
   },
   {
     "ISU_CD": "KR7002410009",
@@ -5093,7 +5093,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "45,196,077"
+    "LIST_SHRS": "2,404,344"
   },
   {
     "ISU_CD": "KR7100220003",
@@ -5878,20 +5878,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
     "LIST_SHRS": "10,395,000"
-  },
-  {
-    "ISU_CD": "KR7000390005",
-    "ISU_SRT_CD": "000390",
-    "ISU_NM": "삼화페인트공업보통주",
-    "ISU_ABBRV": "삼화페인트",
-    "ISU_ENG_NM": "SamhwaPaintIndustrial",
-    "LIST_DD": "1993/09/10",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "주권",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "27,203,469"
   },
   {
     "ISU_CD": "KR7001290006",
@@ -6801,7 +6787,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "60,163,193"
+    "LIST_SHRS": "60,283,133"
   },
   {
     "ISU_CD": "KR7293940003",
@@ -7192,8 +7178,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "121,051,466"
+    "PARVAL": "5,000",
+    "LIST_SHRS": "12,105,146"
   },
   {
     "ISU_CD": "KR7294870001",
@@ -7416,8 +7402,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "202,424,960"
+    "PARVAL": "5,000",
+    "LIST_SHRS": "20,242,496"
   },
   {
     "ISU_CD": "KR7006121008",
@@ -7502,6 +7488,20 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
     "LIST_SHRS": "712,702,365"
+  },
+  {
+    "ISU_CD": "KR7000390005",
+    "ISU_SRT_CD": "000390",
+    "ISU_NM": "에스피삼화보통주",
+    "ISU_ABBRV": "SP삼화",
+    "ISU_ENG_NM": "SP SAMHWA",
+    "LIST_DD": "1993/09/10",
+    "MKT_TP_NM": "KOSPI",
+    "SECUGRP_NM": "주권",
+    "SECT_TP_NM": "",
+    "KIND_STKCERT_TP_NM": "보통주",
+    "PARVAL": "500",
+    "LIST_SHRS": "27,203,469"
   },
   {
     "ISU_CD": "KR7023960008",
@@ -7795,7 +7795,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "198,407,845"
+    "LIST_SHRS": "13,227,189"
   },
   {
     "ISU_CD": "KR7007460009",
@@ -7809,7 +7809,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "329,305,030"
+    "LIST_SHRS": "21,953,668"
   },
   {
     "ISU_CD": "KR7244920005",
@@ -7935,7 +7935,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "78,880,322"
+    "LIST_SHRS": "74,180,743"
   },
   {
     "ISU_CD": "KYG5307W1015",
@@ -7963,7 +7963,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "40,365,803"
+    "LIST_SHRS": "40,455,487"
   },
   {
     "ISU_CD": "KR7108671009",
@@ -8145,7 +8145,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "18,614,183"
+    "LIST_SHRS": "18,410,683"
   },
   {
     "ISU_CD": "KR7012280004",
@@ -8312,8 +8312,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "100",
-    "LIST_SHRS": "158,563,819"
+    "PARVAL": "1,000",
+    "LIST_SHRS": "15,856,381"
   },
   {
     "ISU_CD": "KR7006980007",
@@ -8593,7 +8593,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,895,454"
+    "LIST_SHRS": "12,695,454"
   },
   {
     "ISU_CD": "KR7000221002",
@@ -9867,7 +9867,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "21,885,074"
+    "LIST_SHRS": "4,377,014"
   },
   {
     "ISU_CD": "KR7000650002",
@@ -9894,8 +9894,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "32,000,000"
+    "PARVAL": "2,500",
+    "LIST_SHRS": "6,400,000"
   },
   {
     "ISU_CD": "KR7323410001",
@@ -9923,7 +9923,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "443,000,995"
+    "LIST_SHRS": "443,111,337"
   },
   {
     "ISU_CD": "KR7377300009",
@@ -10175,7 +10175,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "42,685,000"
+    "LIST_SHRS": "41,404,450"
   },
   {
     "ISU_CD": "KR7058860008",
@@ -10581,7 +10581,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "47,406,091"
+    "LIST_SHRS": "47,408,316"
   },
   {
     "ISU_CD": "KR7020120002",
@@ -11676,20 +11676,6 @@
     "LIST_SHRS": "252,489,230"
   },
   {
-    "ISU_CD": "KR7152550000",
-    "ISU_SRT_CD": "152550",
-    "ISU_NM": "한국투자ANKOR유전해외자원개발특별자산투자회사1호(지분증권)",
-    "ISU_ABBRV": "한국ANKOR유전",
-    "ISU_ENG_NM": "KIM ANKOR Oilfield Overseas Resources Development Fund[1]",
-    "LIST_DD": "2012/03/08",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "투자회사",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "무액면",
-    "LIST_SHRS": "70,020,000"
-  },
-  {
     "ISU_CD": "KR7071051007",
     "ISU_SRT_CD": "071055",
     "ISU_NM": "한국투자금융지주1우선주",
@@ -11728,8 +11714,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "60,813,311"
+    "PARVAL": "1,000",
+    "LIST_SHRS": "30,406,655"
   },
   {
     "ISU_CD": "KR7047810007",
@@ -12022,8 +12008,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "1,000",
-    "LIST_SHRS": "80,565,149"
+    "PARVAL": "5,000",
+    "LIST_SHRS": "16,113,029"
   },
   {
     "ISU_CD": "KR7004960001",
@@ -12639,7 +12625,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "20,535,282"
+    "LIST_SHRS": "20,114,202"
   },
   {
     "ISU_CD": "KR7012330007",
@@ -12667,7 +12653,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "22,628,813"
+    "LIST_SHRS": "21,564,912"
   },
   {
     "ISU_CD": "KR7004560009",

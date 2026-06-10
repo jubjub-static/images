@@ -655,7 +655,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "372,850,455"
+    "LIST_SHRS": "354,687,734"
   },
   {
     "ISU_CD": "KR7432320000",
@@ -1341,7 +1341,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "37,868,298"
+    "LIST_SHRS": "49,598,298"
   },
   {
     "ISU_CD": "KR7018670000",
@@ -3679,7 +3679,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "신형우선주",
     "PARVAL": "500",
-    "LIST_SHRS": "308,569"
+    "LIST_SHRS": "478,569"
   },
   {
     "ISU_CD": "KR7084670009",
@@ -7546,20 +7546,6 @@
     "LIST_SHRS": "47,116,894"
   },
   {
-    "ISU_CD": "KR7140910001",
-    "ISU_SRT_CD": "140910",
-    "ISU_NM": "에이자기관리부동산투자회사보통주",
-    "ISU_ABBRV": "에이리츠",
-    "ISU_ENG_NM": "A SELF-ADMINISTERED REAL ESTATE INVESTMENT TRUST INC.",
-    "LIST_DD": "2011/07/14",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "부동산투자회사",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "4,463,032"
-  },
-  {
     "ISU_CD": "KR7267270007",
     "ISU_SRT_CD": "267270",
     "ISU_NM": "에이치디건설기계보통주",
@@ -8103,7 +8089,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,499,237"
+    "LIST_SHRS": "12,953,817"
   },
   {
     "ISU_CD": "KR7003520004",
@@ -8186,8 +8172,8 @@
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "500",
-    "LIST_SHRS": "118,583,005"
+    "PARVAL": "1,000",
+    "LIST_SHRS": "59,291,502"
   },
   {
     "ISU_CD": "KR7271560005",
@@ -11225,7 +11211,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "44,973,248"
+    "LIST_SHRS": "45,028,089"
   },
   {
     "ISU_CD": "KR7086790003",

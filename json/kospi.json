@@ -837,7 +837,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "5,000",
-    "LIST_SHRS": "154,221,585"
+    "LIST_SHRS": "151,192,004"
   },
   {
     "ISU_CD": "KR7051901007",
@@ -7781,7 +7781,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "22,422,602"
+    "LIST_SHRS": "23,594,933"
   },
   {
     "ISU_CD": "KR7244920005",
@@ -9294,20 +9294,6 @@
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
     "LIST_SHRS": "29,016,758"
-  },
-  {
-    "ISU_CD": "KR7204210009",
-    "ISU_SRT_CD": "204210",
-    "ISU_NM": "제이케이리버스톤자기관리부동산투자회사",
-    "ISU_ABBRV": "JK리버스톤리츠",
-    "ISU_ENG_NM": "JK River Stone Real Estate Investment Trust Incorporated",
-    "LIST_DD": "2016/09/22",
-    "MKT_TP_NM": "KOSPI",
-    "SECUGRP_NM": "부동산투자회사",
-    "SECT_TP_NM": "",
-    "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "5,000",
-    "LIST_SHRS": "7,826,815"
   },
   {
     "ISU_CD": "KR7030000004",
@@ -11701,7 +11687,7 @@
     "SECT_TP_NM": "",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "30,406,655"
+    "LIST_SHRS": "28,646,540"
   },
   {
     "ISU_CD": "KR7047810007",

@@ -482,7 +482,7 @@
     "ISU_ABBRV": "골프존",
     "ISU_ENG_NM": "GOLFZON Co., Ltd.",
     "LIST_DD": "2015/04/03",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -878,8 +878,8 @@
     "SECUGRP_NM": "외국주권",
     "SECT_TP_NM": "외국기업(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
-    "PARVAL": "0.5",
-    "LIST_SHRS": "53,743,968"
+    "PARVAL": "1",
+    "LIST_SHRS": "26,871,984"
   },
   {
     "ISU_CD": "KR7204620009",
@@ -1588,7 +1588,7 @@
     "ISU_ABBRV": "넥스틴",
     "ISU_ENG_NM": "NEXTIN Inc.",
     "LIST_DD": "2020/10/08",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -2666,7 +2666,7 @@
     "ISU_ABBRV": "더블유씨피",
     "ISU_ENG_NM": "W-SCOPE CHUNGJU PLANT CO., LTD.",
     "LIST_DD": "2022/09/30",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -2764,7 +2764,7 @@
     "ISU_ABBRV": "덕산네오룩스",
     "ISU_ENG_NM": "DUK SAN NEOLUX CO.,LTD",
     "LIST_DD": "2015/02/06",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -3240,7 +3240,7 @@
     "ISU_ABBRV": "동화기업",
     "ISU_ENG_NM": "DONGWHA ENTERPRISE CO., LTD.",
     "LIST_DD": "1995/08/07",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -4794,7 +4794,7 @@
     "ISU_ABBRV": "메가스터디교육",
     "ISU_ENG_NM": "MegaStudyEdu Co. Ltd",
     "LIST_DD": "2015/05/04",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -5527,7 +5527,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "5,613,025"
+    "LIST_SHRS": "5,646,525"
   },
   {
     "ISU_CD": "KR7452200009",
@@ -6460,7 +6460,7 @@
     "ISU_ABBRV": "비츠로셀",
     "ISU_ENG_NM": "VITZROCELL Co., Ltd.",
     "LIST_DD": "2009/10/28",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -6647,7 +6647,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "104,017,124"
+    "LIST_SHRS": "108,654,213"
   },
   {
     "ISU_CD": "KR7072950009",
@@ -6829,7 +6829,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "25,443,768"
+    "LIST_SHRS": "26,628,323"
   },
   {
     "ISU_CD": "KR7009620006",
@@ -7160,7 +7160,7 @@
     "ISU_ABBRV": "삼표시멘트",
     "ISU_ENG_NM": "SAMPYO Cement Co., Ltd.",
     "LIST_DD": "2001/02/01",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -7398,7 +7398,7 @@
     "ISU_ABBRV": "서부T&D",
     "ISU_ENG_NM": "Seobu T&D Co.,Ltd",
     "LIST_DD": "1995/10/06",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -7720,7 +7720,7 @@
     "ISU_ABBRV": "성광벤드",
     "ISU_ENG_NM": "SUNG KWANG BEND CO., LTD.",
     "LIST_DD": "2001/01/11",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -8299,7 +8299,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "50,186,861"
+    "LIST_SHRS": "50,972,689"
   },
   {
     "ISU_CD": "KR8840150005",
@@ -9848,7 +9848,7 @@
     "ISU_ABBRV": "씨젠",
     "ISU_ENG_NM": "Seegene Inc.",
     "LIST_DD": "2010/09/10",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -10492,7 +10492,7 @@
     "ISU_ABBRV": "ISC",
     "ISU_ENG_NM": "ISC Co., LTD.",
     "LIST_DD": "2007/10/01",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -10749,7 +10749,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "26,349,023"
+    "LIST_SHRS": "26,538,536"
   },
   {
     "ISU_CD": "KR7052770005",
@@ -10828,7 +10828,7 @@
     "ISU_ABBRV": "아이티엠반도체",
     "ISU_ENG_NM": "ITM Semiconductor Co., Ltd",
     "LIST_DD": "2019/11/07",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -11836,7 +11836,7 @@
     "ISU_ABBRV": "에스앤에스텍",
     "ISU_ENG_NM": "S&S TECH CORPORATION",
     "LIST_DD": "2009/04/14",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -12331,7 +12331,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "20,861,438"
+    "LIST_SHRS": "20,867,238"
   },
   {
     "ISU_CD": "KR7458350006",
@@ -12494,7 +12494,7 @@
     "ISU_ABBRV": "에이비엘바이오",
     "ISU_ENG_NM": "ABL Bio Inc.",
     "LIST_DD": "2018/12/19",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -14515,7 +14515,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "21,418,509"
+    "LIST_SHRS": "21,585,868"
   },
   {
     "ISU_CD": "KR7476040001",
@@ -14972,7 +14972,7 @@
     "ISU_ABBRV": "올릭스",
     "ISU_ENG_NM": "Olix Pharmaceuticals, Inc.",
     "LIST_DD": "2018/07/18",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -15308,7 +15308,7 @@
     "ISU_ABBRV": "와이지엔터테인먼트",
     "ISU_ENG_NM": "YG Entertainment Inc.",
     "LIST_DD": "2011/11/23",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -15686,7 +15686,7 @@
     "ISU_ABBRV": "원익QnC",
     "ISU_ENG_NM": "WONIK QnC CORPORATION",
     "LIST_DD": "2003/12/12",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -15971,7 +15971,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "200",
-    "LIST_SHRS": "6,851,000"
+    "LIST_SHRS": "7,126,000"
   },
   {
     "ISU_CD": "KR7044340008",
@@ -16307,7 +16307,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "8,318,493"
+    "LIST_SHRS": "8,320,693"
   },
   {
     "ISU_CD": "KR7088340005",
@@ -17161,7 +17161,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,028,717"
+    "LIST_SHRS": "11,029,517"
   },
   {
     "ISU_CD": "KR7102710001",
@@ -17254,7 +17254,7 @@
     "ISU_ABBRV": "이오테크닉스",
     "ISU_ENG_NM": "EO Technics Co., Ltd.",
     "LIST_DD": "2000/08/24",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -17287,7 +17287,7 @@
     "SECT_TP_NM": "관리종목(소속부없음)",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "100",
-    "LIST_SHRS": "138,493,951"
+    "LIST_SHRS": "225,531,114"
   },
   {
     "ISU_CD": "KR7088290002",
@@ -18220,7 +18220,7 @@
     "ISU_ABBRV": "제룡전기",
     "ISU_ENG_NM": "CHERYONG ELECTRIC CO.,LTD.",
     "LIST_DD": "1997/08/18",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -18435,7 +18435,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "1,000",
-    "LIST_SHRS": "32,579,342"
+    "LIST_SHRS": "31,839,328"
   },
   {
     "ISU_CD": "KR7094970001",
@@ -19093,7 +19093,7 @@
     "SECT_TP_NM": "기술성장기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "5,303,709"
+    "LIST_SHRS": "5,325,383"
   },
   {
     "ISU_CD": "KR7493330005",
@@ -19387,7 +19387,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "12,180,680"
+    "LIST_SHRS": "12,253,025"
   },
   {
     "ISU_CD": "KR7362320004",
@@ -19765,7 +19765,7 @@
     "SECT_TP_NM": "중견기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "40,988,890"
+    "LIST_SHRS": "41,524,419"
   },
   {
     "ISU_CD": "KR7478390008",
@@ -20460,7 +20460,7 @@
     "ISU_ABBRV": "코나아이",
     "ISU_ENG_NM": "KONA I CO.,LTD.",
     "LIST_DD": "2001/10/18",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -20628,7 +20628,7 @@
     "ISU_ABBRV": "코미코",
     "ISU_ENG_NM": "KoMiCo Ltd.",
     "LIST_DD": "2017/03/23",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -20726,7 +20726,7 @@
     "ISU_ABBRV": "코스메카코리아",
     "ISU_ENG_NM": "COSMECCA KOREA CO.,LTD.",
     "LIST_DD": "2016/10/28",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -21496,7 +21496,7 @@
     "ISU_ABBRV": "태광",
     "ISU_ENG_NM": "T. K. CORPORATION",
     "LIST_DD": "1994/09/07",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -21622,7 +21622,7 @@
     "ISU_ABBRV": "테스",
     "ISU_ENG_NM": "TES CO., LTD.",
     "LIST_DD": "2008/05/20",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -22327,7 +22327,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "13,493,951"
+    "LIST_SHRS": "11,325,993"
   },
   {
     "ISU_CD": "KR7037070000",
@@ -22546,7 +22546,7 @@
     "ISU_ABBRV": "파트론",
     "ISU_ENG_NM": "PARTRON CO., LTD",
     "LIST_DD": "2006/12/13",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -22672,7 +22672,7 @@
     "ISU_ABBRV": "펄어비스",
     "ISU_ENG_NM": "PearlAbyss Corp.",
     "LIST_DD": "2017/09/14",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -22686,7 +22686,7 @@
     "ISU_ABBRV": "펌텍코리아",
     "ISU_ENG_NM": "PUM-TECH KOREA CO., LTD.",
     "LIST_DD": "2019/07/04",
-    "MKT_TP_NM": "KOSDAQ",
+    "MKT_TP_NM": "KOSDAQ GLOBAL",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -23512,7 +23512,7 @@
     "ISU_ABBRV": "피에스케이",
     "ISU_ENG_NM": "PSK INC.",
     "LIST_DD": "2019/05/10",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -23932,7 +23932,7 @@
     "ISU_ABBRV": "하나머티리얼즈",
     "ISU_ENG_NM": "Hana Materials Inc.",
     "LIST_DD": "2017/04/28",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -24450,7 +24450,7 @@
     "ISU_ABBRV": "한글과컴퓨터",
     "ISU_ENG_NM": "HANCOM INC.",
     "LIST_DD": "1996/09/24",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
@@ -24917,7 +24917,7 @@
     "SECT_TP_NM": "벤처기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "55,175,440"
+    "LIST_SHRS": "56,327,513"
   },
   {
     "ISU_CD": "KR7220180004",
@@ -25379,7 +25379,7 @@
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
     "PARVAL": "500",
-    "LIST_SHRS": "11,485,863"
+    "LIST_SHRS": "10,877,895"
   },
   {
     "ISU_CD": "KR7263920001",
@@ -25430,7 +25430,7 @@
     "ISU_ABBRV": "휴젤",
     "ISU_ENG_NM": "Hugel, Inc.",
     "LIST_DD": "2015/12/24",
-    "MKT_TP_NM": "KOSDAQ GLOBAL",
+    "MKT_TP_NM": "KOSDAQ",
     "SECUGRP_NM": "주권",
     "SECT_TP_NM": "우량기업부",
     "KIND_STKCERT_TP_NM": "보통주",
